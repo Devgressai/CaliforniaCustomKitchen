@@ -1,6 +1,6 @@
 import HomepageSlideshow from '@/components/HomepageSlideshow';
-import ProjectGrid from '@/components/ProjectGrid';
-import ServiceCard from '@/components/ServiceCard';
+import { ProjectGrid } from '@/components/ProjectGrid';
+import { ServiceCard } from '@/components/ServiceCard';
 import CTASection from '@/components/CTASection';
 import { Metadata } from 'next';
 
