@@ -10,7 +10,7 @@ const generateGalleryImages = () => {
   // Portfolio images (1-138)
   for (let i = 1; i <= 138; i++) {
     // Check if the file exists with -sacramento-california suffix
-    const hasSacramentoSuffix = i <= 19 || (i >= 53 && i <= 79)
+    const hasSacramentoSuffix = i <= 19 || (i >= 53 && i <= 79) || (i >= 99 && i <= 104)
     images.push({
       id: i,
       src: `/images/portfolio/gallery-luxury-custom-kitchen-${i}${hasSacramentoSuffix ? '-sacramento-california' : ''}.webp`,
