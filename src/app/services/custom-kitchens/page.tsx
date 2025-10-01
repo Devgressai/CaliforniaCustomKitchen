@@ -17,28 +17,28 @@ const kitchenStyles = [
     name: 'Modern Contemporary',
     description: 'Clean lines, minimalist design, and premium materials define our contemporary kitchens. Perfect for tech executives and design-forward clients who appreciate understated luxury.',
     features: ['Frameless construction', 'Hidden hardware', 'Integrated appliances', 'Premium finishes'],
-    imageSrc: 'services/modern-contemporary-kitchen.webp',
+    imageSrc: '/images/portfolio/gallery-luxury-custom-kitchen-7-sacramento-california.webp',
     imageAlt: 'Modern contemporary kitchen with clean lines and premium materials'
   },
   {
     name: 'Traditional Inset',
     description: 'Classic inset door construction with traditional joinery techniques. Our traditional kitchens honor timeless design principles while incorporating modern functionality and premium materials.',
     features: ['Inset door construction', 'Traditional joinery', 'Period-appropriate hardware', 'Hand-carved details'],
-    imageSrc: 'services/traditional-inset-kitchen.webp',
+    imageSrc: '/images/portfolio/gallery-luxury-custom-kitchen-8-sacramento-california.webp',
     imageAlt: 'Traditional inset kitchen with classic joinery and period details'
   },
   {
     name: 'Transitional',
     description: 'The perfect balance between traditional and contemporary design. Our transitional kitchens blend classic proportions with modern conveniences, creating spaces that feel both timeless and current.',
     features: ['Classic proportions', 'Modern conveniences', 'Mixed materials', 'Versatile design'],
-    imageSrc: 'services/transitional-kitchen.webp',
+    imageSrc: '/images/portfolio/gallery-luxury-custom-kitchen-9-sacramento-california.webp',
     imageAlt: 'Transitional kitchen blending traditional and contemporary elements'
   },
   {
     name: 'Mediterranean',
     description: 'Inspired by the coastal regions of the Mediterranean, our Mediterranean kitchens feature warm materials, rustic finishes, and open shelving that creates a welcoming, family-oriented atmosphere.',
     features: ['Warm wood tones', 'Rustic finishes', 'Open shelving', 'Natural materials'],
-    imageSrc: 'services/mediterranean-kitchen.webp',
+    imageSrc: '/images/portfolio/gallery-luxury-custom-kitchen-10-sacramento-california.webp',
     imageAlt: 'Mediterranean kitchen with warm wood tones and rustic finishes'
   }
 ]

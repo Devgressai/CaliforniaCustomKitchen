@@ -2,12 +2,11 @@ import Link from 'next/link'
 import Image from 'next/image'
 
 interface Project {
-  slug: string
+  id: number
   title: string
   location: string
-  category: string
   imageSrc: string
-  imageAlt: string
+  alt: string
   description: string
 }
 
@@ -56,15 +55,15 @@ export function ProjectGrid({
         <div className={`grid ${gridClasses[columns]} gap-8 lg:gap-12`}>
           {displayProjects.map((project, index) => (
             <article 
-              key={project.slug} 
+              key={project.id} 
               className="group slide-up"
               style={{ animationDelay: `${index * 150}ms` }}
             >
-              <Link href={`/portfolio/${project.slug}`} className="block">
+              <Link href="/portfolio" className="block">
                 <div className="relative aspect-[4/3] overflow-hidden bg-french-gray/10 mb-6">
                   <Image
-                    src={`/images/${project.imageSrc}`}
-                    alt={project.imageAlt}
+                    src={project.imageSrc}
+                    alt={project.alt}
                     fill
                     className="object-cover transition-transform duration-700 group-hover:scale-105"
                     priority={index < 3}
@@ -75,7 +74,7 @@ export function ProjectGrid({
                 <div className="space-y-3">
                   <div className="flex items-center justify-between">
                     <span className="text-sm tracking-wide uppercase text-deep-green font-medium">
-                      {project.category}
+                      Custom Kitchen
                     </span>
                     <span className="text-sm text-charcoal/60">
                       {project.location}

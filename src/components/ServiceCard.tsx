@@ -6,7 +6,7 @@ interface ServiceCardProps {
   title: string
   description: string
   imageSrc: string
-  imageAlt: string
+  alt: string
   href: string
   features?: string[]
   isLarge?: boolean
@@ -16,7 +16,7 @@ export function ServiceCard({
   title,
   description,
   imageSrc,
-  imageAlt,
+  alt,
   href,
   features = [],
   isLarge = false
@@ -28,8 +28,8 @@ export function ServiceCard({
           {/* Image */}
           <div className={`relative overflow-hidden ${isLarge ? 'aspect-[2/1]' : 'aspect-[4/3]'}`}>
             <Image
-              src={`/images/${imageSrc}`}
-              alt={imageAlt}
+              src={imageSrc}
+              alt={alt}
               fill
               className="object-cover transition-transform duration-700 group-hover:scale-105"
               sizes={isLarge ? "(max-width: 768px) 100vw, 66vw" : "(max-width: 768px) 100vw, 33vw"}
