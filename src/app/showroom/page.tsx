@@ -1,7 +1,7 @@
 'use client'
 
 import Image from 'next/image'
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 
 // Generate all 138 gallery images
 const generateGalleryImages = () => {
@@ -36,6 +36,28 @@ export default function ShowroomPage() {
     const locationMatch = selectedLocation === 'All' || image.location === selectedLocation
     return categoryMatch && locationMatch
   })
+
+  // Keyboard navigation
+  useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (!selectedImage) return
+
+      if (event.key === 'ArrowLeft') {
+        const currentIndex = filteredImages.findIndex(img => img.id === selectedImage)
+        const prevIndex = currentIndex > 0 ? currentIndex - 1 : filteredImages.length - 1
+        setSelectedImage(filteredImages[prevIndex].id)
+      } else if (event.key === 'ArrowRight') {
+        const currentIndex = filteredImages.findIndex(img => img.id === selectedImage)
+        const nextIndex = currentIndex < filteredImages.length - 1 ? currentIndex + 1 : 0
+        setSelectedImage(filteredImages[nextIndex].id)
+      } else if (event.key === 'Escape') {
+        setSelectedImage(null)
+      }
+    }
+
+    window.addEventListener('keydown', handleKeyDown)
+    return () => window.removeEventListener('keydown', handleKeyDown)
+  }, [selectedImage, filteredImages])
 
   return (
     <div className="min-h-screen bg-ivory">
@@ -125,9 +147,6 @@ export default function ShowroomPage() {
                   </div>
                 </div>
                 <div className="space-y-1">
-                  <h3 className="font-medium text-charcoal group-hover:text-deep-green transition-colors duration-200">
-                    Project #{image.id}
-                  </h3>
                   <p className="text-sm text-charcoal/70">{image.location}</p>
                 </div>
               </div>
@@ -136,35 +155,83 @@ export default function ShowroomPage() {
         </div>
       </section>
 
-      {/* Image Modal */}
+      {/* Full-Screen Image Modal with Navigation */}
       {selectedImage && (
-        <div className="fixed inset-0 bg-black/90 z-50 flex items-center justify-center p-4">
-          <div className="relative max-w-6xl max-h-[90vh] w-full">
-            <button
-              onClick={() => setSelectedImage(null)}
-              className="absolute top-4 right-4 z-10 bg-white/20 hover:bg-white/30 text-white p-2 rounded-full transition-colors duration-200"
-            >
-              <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
-              </svg>
-            </button>
-            <div className="relative aspect-[4/3] w-full">
+        <div className="fixed inset-0 bg-black z-50 flex items-center justify-center">
+          {/* Close Button */}
+          <button
+            onClick={() => setSelectedImage(null)}
+            className="absolute top-6 right-6 z-20 bg-white/20 hover:bg-white/30 text-white p-3 rounded-full transition-colors duration-200"
+          >
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+
+          {/* Left Arrow */}
+          <button
+            onClick={() => {
+              const currentIndex = filteredImages.findIndex(img => img.id === selectedImage)
+              const prevIndex = currentIndex > 0 ? currentIndex - 1 : filteredImages.length - 1
+              setSelectedImage(filteredImages[prevIndex].id)
+            }}
+            className="absolute left-6 top-1/2 -translate-y-1/2 z-20 bg-white/20 hover:bg-white/30 text-white p-3 rounded-full transition-colors duration-200"
+          >
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 19l-7-7 7-7" />
+            </svg>
+          </button>
+
+          {/* Right Arrow */}
+          <button
+            onClick={() => {
+              const currentIndex = filteredImages.findIndex(img => img.id === selectedImage)
+              const nextIndex = currentIndex < filteredImages.length - 1 ? currentIndex + 1 : 0
+              setSelectedImage(filteredImages[nextIndex].id)
+            }}
+            className="absolute right-6 top-1/2 -translate-y-1/2 z-20 bg-white/20 hover:bg-white/30 text-white p-3 rounded-full transition-colors duration-200"
+          >
+            <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+            </svg>
+          </button>
+
+          {/* Main Image Container */}
+          <div className="relative w-full h-full flex items-center justify-center p-8">
+            <div className="relative max-w-7xl max-h-full w-full h-full">
               <Image
                 src={galleryImages[selectedImage - 1]?.src || ''}
                 alt={galleryImages[selectedImage - 1]?.alt || ''}
                 fill
                 className="object-contain"
-                sizes="90vw"
+                sizes="100vw"
+                priority
               />
             </div>
-            <div className="absolute bottom-4 left-4 right-4 bg-black/50 text-white p-4 rounded-lg">
-              <h3 className="text-xl font-semibold mb-2">
-                {galleryImages[selectedImage - 1]?.category} Kitchen - Project #{selectedImage}
-              </h3>
-              <p className="text-french-gray">
-                {galleryImages[selectedImage - 1]?.location} • {galleryImages[selectedImage - 1]?.alt}
-              </p>
+          </div>
+
+          {/* Image Info */}
+          <div className="absolute bottom-6 left-6 right-6 bg-black/70 text-white p-6 rounded-lg backdrop-blur-sm">
+            <div className="flex justify-between items-center">
+              <div>
+                <h3 className="text-2xl font-semibold mb-2">
+                  {galleryImages[selectedImage - 1]?.category} Kitchen
+                </h3>
+                <p className="text-french-gray text-lg">
+                  {galleryImages[selectedImage - 1]?.location} • {galleryImages[selectedImage - 1]?.alt}
+                </p>
+              </div>
+              <div className="text-right">
+                <p className="text-sm text-french-gray">
+                  {filteredImages.findIndex(img => img.id === selectedImage) + 1} of {filteredImages.length}
+                </p>
+              </div>
             </div>
+          </div>
+
+          {/* Keyboard Navigation Hints */}
+          <div className="absolute top-6 left-6 text-white/60 text-sm">
+            <p>Use ← → arrow keys or click arrows to navigate</p>
           </div>
         </div>
       )}
