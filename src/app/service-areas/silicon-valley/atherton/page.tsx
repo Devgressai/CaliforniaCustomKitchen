@@ -28,30 +28,27 @@ export const metadata: Metadata = {
 
 const athertonProjects = [
   {
-    slug: 'atherton-tech-executive-kitchen',
+    id: 1,
     title: 'Tech Executive Estate Kitchen',
     location: 'Atherton, CA',
-    category: 'Custom Kitchen',
-    imageSrc: 'atherton-walnut-inset-kitchen.webp',
-    imageAlt: 'Custom inset walnut cabinetry in Atherton tech executive kitchen with brass hardware',
+    imageSrc: '/images/portfolio/gallery-luxury-custom-kitchen-14-sacramento-california.webp',
+    alt: 'Custom inset walnut cabinetry in Atherton tech executive kitchen with brass hardware',
     description: 'A symphony of quarter-sawn walnut and hand-forged brass for a leading Silicon Valley innovator.'
   },
   {
-    slug: 'atherton-contemporary-minimalist',
+    id: 2,
     title: 'Contemporary Minimalist Kitchen',
     location: 'Atherton, CA',
-    category: 'Modern Cabinetry',
-    imageSrc: 'atherton-white-oak-modern.webp',
-    imageAlt: 'Minimalist white oak kitchen with integrated appliances in Atherton contemporary home',
+    imageSrc: '/images/portfolio/gallery-luxury-custom-kitchen-15-sacramento-california.webp',
+    alt: 'Minimalist white oak kitchen with integrated appliances in Atherton contemporary home',
     description: 'Clean lines and hidden storage create serene functionality for a venture capitalist family.'
   },
   {
-    slug: 'atherton-traditional-estate',
+    id: 3,
     title: 'Traditional Estate Kitchen',
     location: 'Atherton, CA',
-    category: 'Traditional Millwork',
-    imageSrc: 'atherton-cherry-traditional.webp',
-    imageAlt: 'Traditional cherry cabinetry with raised panels in historic Atherton estate',
+    imageSrc: '/images/portfolio/gallery-luxury-custom-kitchen-16-sacramento-california.webp',
+    alt: 'Traditional cherry cabinetry with raised panels in historic Atherton estate',
     description: 'Honoring architectural heritage while incorporating modern conveniences for multi-generational living.'
   }
 ]
