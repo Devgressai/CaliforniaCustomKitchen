@@ -18,7 +18,7 @@ const panelingTypes = [
     description: 'Classic raised panel construction creates depth and dimension on your walls. Each panel is carefully crafted with traditional joinery techniques to create a timeless, elegant appearance that enhances any space.',
     features: ['Traditional joinery', 'Depth and dimension', 'Timeless elegance', 'Custom sizing'],
     applications: ['Dining rooms', 'Libraries', 'Studies', 'Master bedrooms'],
-    imageSrc: 'services/raised-panels.jpg',
+    imageSrc: 'services/raised-panels.webp',
     imageAlt: 'Custom raised panel wall treatment in luxury home'
   },
   {
@@ -26,7 +26,7 @@ const panelingTypes = [
     description: 'Clean, contemporary flat panels provide a modern alternative to traditional raised panels. Perfect for contemporary homes or when you want a more minimalist approach to wall treatment.',
     features: ['Clean lines', 'Contemporary design', 'Minimalist approach', 'Versatile styling'],
     applications: ['Living rooms', 'Home offices', 'Contemporary spaces', 'Modern bedrooms'],
-    imageSrc: 'services/flat-panels.jpg',
+    imageSrc: 'services/flat-panels.webp',
     imageAlt: 'Modern flat panel wall treatment with clean lines'
   },
   {
@@ -34,7 +34,7 @@ const panelingTypes = [
     description: 'Traditional beadboard paneling adds character and charm to any space. Perfect for creating a cozy, cottage-like atmosphere or adding texture to contemporary designs.',
     features: ['Traditional charm', 'Textured appearance', 'Versatile styling', 'Easy maintenance'],
     applications: ['Powder rooms', 'Kitchens', 'Mudrooms', 'Cottage-style spaces'],
-    imageSrc: 'services/beadboard-paneling.jpg',
+    imageSrc: 'services/beadboard-paneling.webp',
     imageAlt: 'Traditional beadboard paneling in powder room'
   },
   {
@@ -42,7 +42,7 @@ const panelingTypes = [
     description: 'Rustic board and batten paneling creates a warm, inviting atmosphere. Perfect for creating a cozy, country-style feel or adding architectural interest to contemporary spaces.',
     features: ['Rustic charm', 'Warm atmosphere', 'Architectural interest', 'Versatile design'],
     applications: ['Family rooms', 'Mudrooms', 'Bedrooms', 'Country-style spaces'],
-    imageSrc: 'services/board-batten-paneling.jpg',
+    imageSrc: 'services/board-batten-paneling.webp',
     imageAlt: 'Rustic board and batten paneling treatment'
   }
 ]

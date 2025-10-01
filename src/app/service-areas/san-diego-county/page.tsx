@@ -17,7 +17,7 @@ const localProjects = [
     title: 'La Jolla Waterfront Kitchen',
     location: 'San Diego County, CA',
     description: 'A stunning waterfront kitchen renovation featuring custom walnut cabinetry and panoramic ocean views. Designed to maximize the breathtaking scenery while providing luxury functionality.',
-    imageSrc: 'portfolio/san-diego-la-jolla-waterfront-kitchen.jpg',
+    imageSrc: 'portfolio/san-diego-la-jolla-waterfront-kitchen.webp',
     imageAlt: 'Custom waterfront kitchen with panoramic San Diego County ocean views',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Del Mar Hillside Kitchen',
     location: 'San Diego County, CA',
     description: 'A contemporary hillside kitchen with clean lines and premium materials. Perfect for the modern San Diego lifestyle with integrated outdoor living spaces.',
-    imageSrc: 'portfolio/san-diego-del-mar-hillside-kitchen.jpg',
+    imageSrc: 'portfolio/san-diego-del-mar-hillside-kitchen.webp',
     imageAlt: 'Hillside kitchen in Del Mar with contemporary design',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Rancho Santa Fe Traditional Kitchen',
     location: 'San Diego County, CA',
     description: 'A classic traditional kitchen renovation with timeless details and luxury finishes. Designed for entertaining and family gatherings in the prestigious Rancho Santa Fe community.',
-    imageSrc: 'portfolio/san-diego-rancho-santa-fe-kitchen.jpg',
+    imageSrc: 'portfolio/san-diego-rancho-santa-fe-kitchen.webp',
     imageAlt: 'Traditional kitchen in Rancho Santa Fe with classic design',
     year: '2023'
   }

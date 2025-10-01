@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Wine Country Estate Kitchen',
     location: 'Napa Valley, CA',
     description: 'A stunning wine country kitchen renovation featuring custom walnut cabinetry and panoramic vineyard views. Designed to maximize the breathtaking scenery while providing luxury functionality for entertaining.',
-    imageSrc: 'portfolio/napa-valley-wine-country-kitchen.jpg',
+    imageSrc: 'portfolio/napa-valley-wine-country-kitchen.webp',
     imageAlt: 'Custom wine country kitchen with panoramic Napa Valley vineyard views',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Historic Winery Kitchen',
     location: 'Napa Valley, CA',
     description: 'A historic winery kitchen restoration with reclaimed wood cabinetry and traditional details. Perfect for the authentic wine country lifestyle with integrated wine storage solutions.',
-    imageSrc: 'portfolio/napa-valley-historic-winery-kitchen.jpg',
+    imageSrc: 'portfolio/napa-valley-historic-winery-kitchen.webp',
     imageAlt: 'Historic winery kitchen with reclaimed wood in Napa Valley',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Modern Vineyard Kitchen',
     location: 'Napa Valley, CA',
     description: 'A contemporary vineyard kitchen with clean lines and premium materials. Designed for the modern wine country lifestyle with seamless indoor-outdoor living.',
-    imageSrc: 'portfolio/napa-valley-modern-vineyard-kitchen.jpg',
+    imageSrc: 'portfolio/napa-valley-modern-vineyard-kitchen.webp',
     imageAlt: 'Modern vineyard kitchen in Napa Valley with contemporary design',
     year: '2023'
   }

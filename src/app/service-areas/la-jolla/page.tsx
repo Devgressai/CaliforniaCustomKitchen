@@ -17,7 +17,7 @@ const localProjects = [
     title: 'La Jolla Cove Waterfront Kitchen',
     location: 'La Jolla, CA',
     description: 'A stunning waterfront kitchen renovation featuring custom walnut cabinetry and panoramic ocean views. Designed to maximize the breathtaking coastal scenery while providing luxury functionality.',
-    imageSrc: 'portfolio/la-jolla-cove-waterfront-kitchen.jpg',
+    imageSrc: 'portfolio/la-jolla-cove-waterfront-kitchen.webp',
     imageAlt: 'Custom waterfront kitchen with panoramic La Jolla ocean views',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Torrey Pines Hillside Kitchen',
     location: 'La Jolla, CA',
     description: 'A contemporary hillside kitchen with clean lines and premium materials. Perfect for the modern La Jolla lifestyle with integrated outdoor living spaces.',
-    imageSrc: 'portfolio/la-jolla-torrey-pines-kitchen.jpg',
+    imageSrc: 'portfolio/la-jolla-torrey-pines-kitchen.webp',
     imageAlt: 'Hillside kitchen in Torrey Pines with contemporary design',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Bird Rock Traditional Kitchen',
     location: 'La Jolla, CA',
     description: 'A classic traditional kitchen renovation with timeless details and luxury finishes. Designed for entertaining and family gatherings in the prestigious Bird Rock community.',
-    imageSrc: 'portfolio/la-jolla-bird-rock-kitchen.jpg',
+    imageSrc: 'portfolio/la-jolla-bird-rock-kitchen.webp',
     imageAlt: 'Traditional kitchen in Bird Rock with classic design',
     year: '2023'
   }

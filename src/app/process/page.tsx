@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Our Process | AV's Cabinets",
     description: "Meticulous 6-phase process for creating custom kitchens and cabinetry with uncompromising craftsmanship.",
-    images: ['/images/process-hero.jpg'],
+    images: ['/images/process-hero.webp'],
   },
 }
 
@@ -29,7 +29,7 @@ export default function ProcessPage() {
         title="Craftsmanship as a Journey"
         subtitle="Our Six-Phase Process"
         description="From the first conversation to the final installation detail, every step in our process is designed to exceed expectations while honoring the traditions of fine craftsmanship."
-        imageSrc="/images/process-hero.jpg"
+        imageSrc="/images/process-hero.webp"
         imageAlt="Master craftsman working on custom cabinetry in AV's Cabinets workshop showing attention to detail"
         primaryCTA={{
           text: "Begin Your Journey",
@@ -113,7 +113,7 @@ export default function ProcessPage() {
                 </div>
                 <div className="mt-8 lg:mt-0 lg:pl-8">
                   <Image
-                    src="/images/process/phase-1-consultation.jpg"
+                    src="/images/process/phase-1-consultation.webp"
                     alt="Initial consultation process showing design discussion and space analysis"
                     width={600}
                     height={400}
@@ -159,7 +159,7 @@ export default function ProcessPage() {
                 </div>
                 <div className="mt-8 lg:mt-0 lg:order-1 lg:pr-8">
                   <Image
-                    src="/images/process/phase-2-conceptual-design.jpg"
+                    src="/images/process/phase-2-conceptual-design.webp"
                     alt="Conceptual design phase showing sketches, layouts, and initial design development"
                     width={600}
                     height={400}
@@ -205,7 +205,7 @@ export default function ProcessPage() {
                 </div>
                 <div className="mt-8 lg:mt-0 lg:pl-8">
                   <Image
-                    src="/images/process/phase-3-design-development.jpg"
+                    src="/images/process/phase-3-design-development.webp"
                     alt="Design development showing detailed drawings, 3D renderings, and material specifications"
                     width={600}
                     height={400}
@@ -251,7 +251,7 @@ export default function ProcessPage() {
                 </div>
                 <div className="mt-8 lg:mt-0 lg:order-1 lg:pr-8">
                   <Image
-                    src="/images/process/phase-4-specifications.jpg"
+                    src="/images/process/phase-4-specifications.webp"
                     alt="Final specifications phase showing shop drawings, material samples, and approval process"
                     width={600}
                     height={400}
@@ -297,7 +297,7 @@ export default function ProcessPage() {
                 </div>
                 <div className="mt-8 lg:mt-0 lg:pl-8">
                   <Image
-                    src="/images/process/phase-5-fabrication.jpg"
+                    src="/images/process/phase-5-fabrication.webp"
                     alt="Fabrication process showing master craftsmen working on custom cabinetry in workshop"
                     width={600}
                     height={400}
@@ -343,7 +343,7 @@ export default function ProcessPage() {
                 </div>
                 <div className="mt-8 lg:mt-0 lg:order-1 lg:pr-8">
                   <Image
-                    src="/images/process/phase-6-installation.jpg"
+                    src="/images/process/phase-6-installation.webp"
                     alt="White-glove installation process showing precision fitting and protection protocols"
                     width={600}
                     height={400}
@@ -404,7 +404,7 @@ export default function ProcessPage() {
             </div>
             <div className="relative">
               <Image
-                src="/images/process/consultation-lifestyle-assessment.jpg"
+                src="/images/process/consultation-lifestyle-assessment.webp"
                 alt="Lifestyle assessment consultation showing detailed discussion of family needs and cooking habits"
                 width={600}
                 height={800}
@@ -472,7 +472,7 @@ export default function ProcessPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center mb-16">
             <div className="relative">
               <Image
-                src="/images/process/workshop-traditional-joinery.jpg"
+                src="/images/process/workshop-traditional-joinery.webp"
                 alt="Traditional joinery techniques being performed by master craftsman in workshop"
                 width={600}
                 height={800}
@@ -649,7 +649,7 @@ export default function ProcessPage() {
             </div>
             <div className="relative">
               <Image
-                src="/images/process/architect-designer-collaboration.jpg"
+                src="/images/process/architect-designer-collaboration.webp"
                 alt="Collaborative meeting between AV's Cabinets team and architects reviewing project drawings"
                 width={600}
                 height={800}

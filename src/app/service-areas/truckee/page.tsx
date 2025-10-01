@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Martis Camp Mountain Kitchen',
     location: 'Truckee, CA',
     description: 'A sophisticated mountain kitchen renovation in the exclusive Martis Camp community, featuring custom walnut cabinetry and integrated ski storage solutions.',
-    imageSrc: 'portfolio/truckee-martis-camp-kitchen.jpg',
+    imageSrc: 'portfolio/truckee-martis-camp-kitchen.webp',
     imageAlt: 'Custom mountain kitchen in Martis Camp with ski storage',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Ski Resort Estate Kitchen',
     location: 'Truckee, CA',
     description: 'A luxury ski resort estate kitchen with reclaimed wood cabinetry and stone accents. Designed for entertaining after a day on the slopes.',
-    imageSrc: 'portfolio/truckee-ski-resort-kitchen.jpg',
+    imageSrc: 'portfolio/truckee-ski-resort-kitchen.webp',
     imageAlt: 'Ski resort estate kitchen with reclaimed wood in Truckee',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Mountain Modern Kitchen',
     location: 'Truckee, CA',
     description: 'A contemporary mountain home kitchen with clean lines and premium materials. Perfect for the modern mountain lifestyle.',
-    imageSrc: 'portfolio/truckee-mountain-modern-kitchen.jpg',
+    imageSrc: 'portfolio/truckee-mountain-modern-kitchen.webp',
     imageAlt: 'Mountain modern kitchen in Truckee with contemporary design',
     year: '2023'
   }

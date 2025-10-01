@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Newport Coast Estate Kitchen',
     location: 'Orange County, CA',
     description: 'A stunning estate kitchen renovation featuring custom walnut cabinetry and panoramic ocean views. Designed to maximize the breathtaking scenery while providing luxury functionality.',
-    imageSrc: 'portfolio/orange-county-newport-coast-kitchen.jpg',
+    imageSrc: 'portfolio/orange-county-newport-coast-kitchen.webp',
     imageAlt: 'Custom estate kitchen with panoramic Orange County ocean views',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Coto de Caza Modern Kitchen',
     location: 'Orange County, CA',
     description: 'A contemporary modern kitchen with clean lines and premium materials. Perfect for the modern Orange County lifestyle with integrated outdoor living spaces.',
-    imageSrc: 'portfolio/orange-county-coto-de-caza-kitchen.jpg',
+    imageSrc: 'portfolio/orange-county-coto-de-caza-kitchen.webp',
     imageAlt: 'Modern kitchen in Coto de Caza with contemporary design',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Laguna Beach Traditional Kitchen',
     location: 'Orange County, CA',
     description: 'A classic traditional kitchen renovation with timeless details and luxury finishes. Designed for entertaining and family gatherings in the prestigious Laguna Beach community.',
-    imageSrc: 'portfolio/orange-county-laguna-beach-kitchen.jpg',
+    imageSrc: 'portfolio/orange-county-laguna-beach-kitchen.webp',
     imageAlt: 'Traditional kitchen in Laguna Beach with classic design',
     year: '2023'
   }

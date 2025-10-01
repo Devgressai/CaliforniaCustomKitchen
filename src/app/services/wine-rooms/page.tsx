@@ -18,7 +18,7 @@ const wineRoomTypes = [
     description: 'Professional-grade wine cellars with precise temperature and humidity control. Perfect for serious collectors who require optimal storage conditions for their valuable wine collections.',
     features: ['Precise climate control', 'Professional racking', 'Security systems', 'Display lighting'],
     applications: ['Serious collectors', 'Investment wines', 'Long-term storage', 'Professional collections'],
-    imageSrc: 'services/climate-controlled-wine-cellar.jpg',
+    imageSrc: 'services/climate-controlled-wine-cellar.webp',
     imageAlt: 'Climate-controlled wine cellar with professional racking system'
   },
   {
@@ -26,7 +26,7 @@ const wineRoomTypes = [
     description: 'Elegant tasting rooms that combine storage with entertaining. Perfect for wine enthusiasts who want to showcase their collection while providing a sophisticated space for tastings and entertaining.',
     features: ['Integrated storage', 'Tasting areas', 'Display lighting', 'Entertaining space'],
     applications: ['Wine enthusiasts', 'Entertaining', 'Tastings', 'Social gatherings'],
-    imageSrc: 'services/wine-tasting-room.jpg',
+    imageSrc: 'services/wine-tasting-room.webp',
     imageAlt: 'Elegant wine tasting room with integrated storage and seating'
   },
   {
@@ -34,7 +34,7 @@ const wineRoomTypes = [
     description: 'Dramatic wine walls that serve as both storage and art. Perfect for contemporary homes where wine storage becomes a focal point and conversation piece.',
     features: ['Dramatic display', 'Space-efficient', 'Contemporary design', 'Focal point'],
     applications: ['Contemporary homes', 'Space efficiency', 'Artistic display', 'Modern design'],
-    imageSrc: 'services/wine-wall-display.jpg',
+    imageSrc: 'services/wine-wall-display.webp',
     imageAlt: 'Dramatic wine wall display in contemporary home'
   },
   {
@@ -42,7 +42,7 @@ const wineRoomTypes = [
     description: 'Compact wine storage solutions that maximize space efficiency. Perfect for smaller collections or when space is limited, providing organized storage without taking up valuable square footage.',
     features: ['Space-efficient', 'Organized storage', 'Compact design', 'Easy access'],
     applications: ['Smaller collections', 'Limited space', 'Apartment living', 'Starter collections'],
-    imageSrc: 'services/wine-closet-storage.jpg',
+    imageSrc: 'services/wine-closet-storage.webp',
     imageAlt: 'Compact wine closet with organized storage system'
   }
 ]

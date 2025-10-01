@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Desert Modern Estate Kitchen',
     location: 'Palm Springs, CA',
     description: 'A stunning desert modern kitchen renovation featuring custom walnut cabinetry and panoramic mountain views. Designed to maximize the breathtaking desert scenery while providing luxury functionality.',
-    imageSrc: 'portfolio/palm-springs-desert-modern-kitchen.jpg',
+    imageSrc: 'portfolio/palm-springs-desert-modern-kitchen.webp',
     imageAlt: 'Custom desert modern kitchen with panoramic Palm Springs mountain views',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Mid-Century Modern Kitchen',
     location: 'Palm Springs, CA',
     description: 'A classic mid-century modern kitchen restoration with authentic details and luxury finishes. Perfect for the iconic Palm Springs lifestyle with integrated outdoor living spaces.',
-    imageSrc: 'portfolio/palm-springs-mid-century-kitchen.jpg',
+    imageSrc: 'portfolio/palm-springs-mid-century-kitchen.webp',
     imageAlt: 'Mid-century modern kitchen in Palm Springs with authentic design',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Resort Style Kitchen',
     location: 'Palm Springs, CA',
     description: 'A luxury resort-style kitchen renovation with contemporary details and premium materials. Designed for entertaining and relaxation in the prestigious Palm Springs resort community.',
-    imageSrc: 'portfolio/palm-springs-resort-kitchen.jpg',
+    imageSrc: 'portfolio/palm-springs-resort-kitchen.webp',
     imageAlt: 'Resort style kitchen in Palm Springs with luxury design',
     year: '2023'
   }

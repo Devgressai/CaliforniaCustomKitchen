@@ -18,7 +18,7 @@ const spaceTypes = [
     description: 'Transform your home into a literary sanctuary with our custom library designs. From floor-to-ceiling built-in bookcases to cozy reading nooks, we create spaces that celebrate the written word.',
     features: ['Floor-to-ceiling shelving', 'Integrated lighting', 'Rolling ladders', 'Hidden storage'],
     applications: ['Home libraries', 'Studies', 'Reading rooms', 'Intellectual spaces'],
-    imageSrc: 'services/custom-library-design.jpg',
+    imageSrc: 'services/custom-library-design.webp',
     imageAlt: 'Custom library with floor-to-ceiling built-in bookcases'
   },
   {
@@ -26,7 +26,7 @@ const spaceTypes = [
     description: 'Create the ultimate dressing experience with our custom walk-in closet designs. Every detail is designed to enhance your daily routine while providing organized storage for your wardrobe.',
     features: ['Custom organization', 'Integrated lighting', 'Island storage', 'Seating areas'],
     applications: ['Master bedrooms', 'Dressing rooms', 'Wardrobe storage', 'Luxury spaces'],
-    imageSrc: 'services/walk-in-closet-design.jpg',
+    imageSrc: 'services/walk-in-closet-design.webp',
     imageAlt: 'Luxury walk-in closet with custom organization system'
   },
   {
@@ -34,7 +34,7 @@ const spaceTypes = [
     description: 'Design productive workspaces that inspire creativity and efficiency. Our custom home offices combine functionality with beauty, creating environments that support both work and well-being.',
     features: ['Built-in desks', 'File storage', 'Cable management', 'Ergonomic design'],
     applications: ['Home offices', 'Studies', 'Workspaces', 'Professional environments'],
-    imageSrc: 'services/home-office-design.jpg',
+    imageSrc: 'services/home-office-design.webp',
     imageAlt: 'Custom home office with built-in desk and storage'
   },
   {
@@ -42,7 +42,7 @@ const spaceTypes = [
     description: 'Create the ultimate entertainment experience with our custom media room designs. From hidden equipment storage to integrated seating, we design spaces that enhance your viewing experience.',
     features: ['Hidden equipment storage', 'Integrated seating', 'Acoustic considerations', 'Cable management'],
     applications: ['Media rooms', 'Home theaters', 'Entertainment spaces', 'Family rooms'],
-    imageSrc: 'services/media-room-design.jpg',
+    imageSrc: 'services/media-room-design.webp',
     imageAlt: 'Custom media room with integrated storage and seating'
   }
 ]

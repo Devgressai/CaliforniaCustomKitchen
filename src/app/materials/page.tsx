@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Premium Materials | AV's Cabinets",
     description: "Curated selection of premium hardwoods and museum-grade finishes for custom cabinetry.",
-    images: ['/images/materials-hero.jpg'],
+    images: ['/images/materials-hero.webp'],
   },
 }
 
@@ -30,7 +30,7 @@ export default function MaterialsPage() {
         title="Materials as Art"
         subtitle="Curated Excellence"
         description="From sustainably harvested American hardwoods to exotic species from responsibly managed forests worldwide, our material palette reflects both environmental stewardship and uncompromising quality."
-        imageSrc="/images/materials-hero.jpg"
+        imageSrc="/images/materials-hero.webp"
         imageAlt="Premium hardwood lumber selection showing grain patterns and natural beauty"
         primaryCTA={{
           text: "Schedule Material Consultation",
@@ -101,7 +101,7 @@ export default function MaterialsPage() {
             </div>
             <div className="relative">
               <Image
-                src="/images/sustainable-forest-management.jpg"
+                src="/images/sustainable-forest-management.webp"
                 alt="Sustainable forest management showing responsible harvesting practices for premium hardwood lumber"
                 width={600}
                 height={800}
@@ -138,7 +138,7 @@ export default function MaterialsPage() {
                   characteristics: 'Exceptional dimensional stability with distinctive ray fleck patterns. The quarter-sawing process cuts perpendicular to growth rings, minimizing seasonal movement while showcasing the wood\'s natural medullary rays.',
                   applications: 'Face frames, door construction, architectural millwork',
                   sustainability: 'FSC-certified from managed forests with 60+ year rotation cycles',
-                  image: '/images/materials/quarter-sawn-white-oak.jpg',
+                  image: '/images/materials/quarter-sawn-white-oak.webp',
                   specs: {
                     density: '0.68 g/cm³',
                     janka: '1,360 lbf',
@@ -153,7 +153,7 @@ export default function MaterialsPage() {
                   characteristics: 'Rich chocolate-brown heartwood with occasional purple undertones. Exceptional grain character ranging from straight to highly figured, with natural color variation that deepens with age and light exposure.',
                   applications: 'Premium door panels, drawer fronts, decorative veneers',
                   sustainability: 'Sustainably harvested from managed woodlands supporting local economies',
-                  image: '/images/materials/black-walnut-lumber.jpg',
+                  image: '/images/materials/black-walnut-lumber.webp',
                   specs: {
                     density: '0.55 g/cm³',
                     janka: '1,010 lbf',
@@ -168,7 +168,7 @@ export default function MaterialsPage() {
                   characteristics: 'Fine, even grain structure with natural light coloration ideal for both natural and painted finishes. Exceptional hardness and wear resistance make it perfect for high-use applications.',
                   applications: 'Painted cabinetry, drawer boxes, structural components',
                   sustainability: 'Abundant renewable resource from well-managed northern forests',
-                  image: '/images/materials/hard-maple-lumber.jpg',
+                  image: '/images/materials/hard-maple-lumber.webp',
                   specs: {
                     density: '0.63 g/cm³',
                     janka: '1,450 lbf',
@@ -183,7 +183,7 @@ export default function MaterialsPage() {
                   characteristics: 'Warm reddish-brown heartwood that deepens dramatically with UV exposure. Smooth grain with occasional gum pockets and mineral streaks that add character without compromising structural integrity.',
                   applications: 'Traditional cabinetry, raised panels, decorative elements',
                   sustainability: 'Selectively harvested from mixed hardwood forests',
-                  image: '/images/materials/american-cherry-lumber.jpg',
+                  image: '/images/materials/american-cherry-lumber.webp',
                   specs: {
                     density: '0.50 g/cm³',
                     janka: '995 lbf',
@@ -248,42 +248,42 @@ export default function MaterialsPage() {
                   latin: 'Dalbergia nigra',
                   origin: 'Brazil (CITES Certified)',
                   description: 'Deep purple-brown with dramatic black streaks. Available only from certified reclaimed sources.',
-                  image: '/images/materials/brazilian-rosewood.jpg'
+                  image: '/images/materials/brazilian-rosewood.webp'
                 },
                 {
                   name: 'Zebrawood',
                   latin: 'Microberlinia brazzavillensis',
                   origin: 'Central Africa',
                   description: 'Distinctive alternating light and dark stripes create dramatic visual impact in accent applications.',
-                  image: '/images/materials/zebrawood-veneer.jpg'
+                  image: '/images/materials/zebrawood-veneer.webp'
                 },
                 {
                   name: 'Wenge',
                   latin: 'Millettia laurentii',
                   origin: 'Central Africa',
                   description: 'Deep chocolate brown with fine black veining. Exceptional density and contemporary appeal.',
-                  image: '/images/materials/wenge-lumber.jpg'
+                  image: '/images/materials/wenge-lumber.webp'
                 },
                 {
                   name: 'European Beech',
                   latin: 'Fagus sylvatica',
                   origin: 'Germany & Austria',
                   description: 'Fine, even grain with natural steaming creating warm honey tones. Superior for bent laminations.',
-                  image: '/images/materials/european-beech.jpg'
+                  image: '/images/materials/european-beech.webp'
                 },
                 {
                   name: 'Teak',
                   latin: 'Tectona grandis',
                   origin: 'Myanmar (Plantation)',
                   description: 'Marine-grade durability with natural oils providing weather resistance for coastal applications.',
-                  image: '/images/materials/plantation-teak.jpg'
+                  image: '/images/materials/plantation-teak.webp'
                 },
                 {
                   name: 'Bubinga',
                   latin: 'Guibourtia tessmannii',
                   origin: 'Central Africa',
                   description: 'Rich reddish-brown with purple undertones and occasional figure patterns creating luxury appeal.',
-                  image: '/images/materials/bubinga-veneer.jpg'
+                  image: '/images/materials/bubinga-veneer.webp'
                 }
               ].map((wood, index) => (
                 <div key={index} className="bg-charcoal text-ivory p-6 rounded-lg">
@@ -325,7 +325,7 @@ export default function MaterialsPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center mb-16">
             <div className="relative">
               <Image
-                src="/images/materials/reclaimed-chestnut-beams.jpg"
+                src="/images/materials/reclaimed-chestnut-beams.webp"
                 alt="Reclaimed American chestnut beams being restored for custom cabinetry applications"
                 width={600}
                 height={800}
@@ -455,7 +455,7 @@ export default function MaterialsPage() {
             </div>
             <div className="relative">
               <Image
-                src="/images/materials/finishing-booth-process.jpg"
+                src="/images/materials/finishing-booth-process.webp"
                 alt="Museum-grade finishing booth showing precision spray application and environmental controls"
                 width={600}
                 height={800}
@@ -808,7 +808,7 @@ export default function MaterialsPage() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <div>
                 <Image
-                  src="/images/materials/sample-library-consultation.jpg"
+                  src="/images/materials/sample-library-consultation.webp"
                   alt="Material sample library consultation showing wood species, finishes, and hardware options"
                   width={600}
                   height={400}

@@ -22,7 +22,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Custom Kitchen Cabinets Atherton CA | AV's Cabinets",
     description: "Museum-grade custom kitchens for Atherton's most discerning homeowners. Serving Silicon Valley's tech elite with uncompromising craftsmanship.",
-    images: ['/images/atherton-estate-kitchen-hero.jpg'],
+    images: ['/images/atherton-estate-kitchen-hero.webp'],
   },
 }
 
@@ -32,7 +32,7 @@ const athertonProjects = [
     title: 'Tech Executive Estate Kitchen',
     location: 'Atherton, CA',
     category: 'Custom Kitchen',
-    imageSrc: 'atherton-walnut-inset-kitchen.jpg',
+    imageSrc: 'atherton-walnut-inset-kitchen.webp',
     imageAlt: 'Custom inset walnut cabinetry in Atherton tech executive kitchen with brass hardware',
     description: 'A symphony of quarter-sawn walnut and hand-forged brass for a leading Silicon Valley innovator.'
   },
@@ -41,7 +41,7 @@ const athertonProjects = [
     title: 'Contemporary Minimalist Kitchen',
     location: 'Atherton, CA',
     category: 'Modern Cabinetry',
-    imageSrc: 'atherton-white-oak-modern.jpg',
+    imageSrc: 'atherton-white-oak-modern.webp',
     imageAlt: 'Minimalist white oak kitchen with integrated appliances in Atherton contemporary home',
     description: 'Clean lines and hidden storage create serene functionality for a venture capitalist family.'
   },
@@ -50,7 +50,7 @@ const athertonProjects = [
     title: 'Traditional Estate Kitchen',
     location: 'Atherton, CA',
     category: 'Traditional Millwork',
-    imageSrc: 'atherton-cherry-traditional.jpg',
+    imageSrc: 'atherton-cherry-traditional.webp',
     imageAlt: 'Traditional cherry cabinetry with raised panels in historic Atherton estate',
     description: 'Honoring architectural heritage while incorporating modern conveniences for multi-generational living.'
   }
@@ -70,7 +70,7 @@ export default function AthertonPage() {
         title="Atherton's Premier Custom Cabinetry"
         subtitle="Silicon Valley Excellence"
         description="Where innovation meets tradition. Museum-grade craftsmanship for America's most exclusive community, serving tech leaders and visionaries who demand nothing less than perfection."
-        imageSrc="atherton-estate-kitchen-hero.jpg"
+        imageSrc="atherton-estate-kitchen-hero.webp"
         imageAlt="Luxury custom kitchen in Atherton estate with marble countertops and walnut cabinetry"
         primaryCTA={{
           text: "Schedule Private Consultation",
@@ -130,7 +130,7 @@ export default function AthertonPage() {
             </div>
             <div className="relative">
               <OptimizedImage
-                filename="atherton-design-process.jpg"
+                filename="atherton-design-process.webp"
                 alt="Custom kitchen design process for Atherton estate showing architectural drawings and wood samples"
                 width={600}
                 height={800}
@@ -238,7 +238,7 @@ export default function AthertonPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="relative">
               <OptimizedImage
-                filename="atherton-engineering-precision.jpg"
+                filename="atherton-engineering-precision.webp"
                 alt="Precision engineering and tolerances in custom cabinetry manufacturing for Atherton homes"
                 width={600}
                 height={800}
@@ -349,7 +349,7 @@ export default function AthertonPage() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <div>
                 <OptimizedImage
-                  filename="atherton-executive-kitchen-case-study.jpg"
+                  filename="atherton-executive-kitchen-case-study.webp"
                   alt="Custom kitchen designed for Silicon Valley tech executive featuring smart technology integration"
                   width={600}
                   height={400}
@@ -499,7 +499,7 @@ export default function AthertonPage() {
             </div>
             <div className="relative">
               <OptimizedImage
-                filename="atherton-historic-restoration.jpg"
+                filename="atherton-historic-restoration.webp"
                 alt="Historic Atherton estate kitchen restoration with period-appropriate cabinetry"
                 width={600}
                 height={800}
@@ -511,7 +511,7 @@ export default function AthertonPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="relative order-2 lg:order-1">
               <OptimizedImage
-                filename="atherton-contemporary-design.jpg"
+                filename="atherton-contemporary-design.webp"
                 alt="Contemporary Atherton home with minimalist custom cabinetry design"
                 width={600}
                 height={800}

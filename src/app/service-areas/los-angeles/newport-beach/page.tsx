@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Harbor View Estate Kitchen',
     location: 'Newport Beach, CA',
     description: 'A stunning harbor view kitchen renovation featuring custom walnut cabinetry and panoramic water views. Designed to maximize the breathtaking coastal scenery while providing luxury functionality.',
-    imageSrc: 'portfolio/newport-beach-harbor-kitchen.jpg',
+    imageSrc: 'portfolio/newport-beach-harbor-kitchen.webp',
     imageAlt: 'Custom harbor view kitchen with panoramic Newport Beach views',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Coastal Contemporary Kitchen',
     location: 'Newport Beach, CA',
     description: 'A modern coastal kitchen with clean lines and premium materials. Perfect for the contemporary beach lifestyle with integrated outdoor living spaces.',
-    imageSrc: 'portfolio/newport-beach-coastal-kitchen.jpg',
+    imageSrc: 'portfolio/newport-beach-coastal-kitchen.webp',
     imageAlt: 'Coastal contemporary kitchen in Newport Beach',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Traditional Beach House Kitchen',
     location: 'Newport Beach, CA',
     description: 'A classic beach house kitchen renovation with traditional details and coastal charm. Designed for entertaining and family gatherings.',
-    imageSrc: 'portfolio/newport-beach-traditional-kitchen.jpg',
+    imageSrc: 'portfolio/newport-beach-traditional-kitchen.webp',
     imageAlt: 'Traditional beach house kitchen in Newport Beach',
     year: '2023'
   }

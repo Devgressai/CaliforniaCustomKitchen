@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Hollywood Executive Kitchen',
     location: 'Beverly Hills, CA',
     description: 'A stunning kitchen renovation for a major studio executive, featuring custom walnut cabinetry and integrated entertainment systems.',
-    imageSrc: 'portfolio/beverly-hills-executive-kitchen.jpg',
+    imageSrc: 'portfolio/beverly-hills-executive-kitchen.webp',
     imageAlt: 'Luxury kitchen in Beverly Hills executive home',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Entertainment Industry Chef\'s Kitchen',
     location: 'Beverly Hills, CA',
     description: 'Professional-grade kitchen designed for a celebrity chef, with commercial-quality appliances and custom storage solutions.',
-    imageSrc: 'portfolio/beverly-hills-chef-kitchen.jpg',
+    imageSrc: 'portfolio/beverly-hills-chef-kitchen.webp',
     imageAlt: 'Professional chef\'s kitchen in Beverly Hills',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Historic Estate Restoration',
     location: 'Beverly Hills, CA',
     description: 'Careful restoration of a 1920s Spanish Colonial Revival home, maintaining period authenticity while modernizing functionality.',
-    imageSrc: 'portfolio/beverly-hills-historic-kitchen.jpg',
+    imageSrc: 'portfolio/beverly-hills-historic-kitchen.webp',
     imageAlt: 'Restored historic kitchen in Beverly Hills Spanish Colonial home',
     year: '2023'
   }

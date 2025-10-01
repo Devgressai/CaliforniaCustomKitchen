@@ -16,7 +16,7 @@ const teamMembers = [
   {
     name: 'Alexander Voss',
     title: 'Founder & Master Craftsman',
-    imageSrc: 'team/alexander-voss.jpg',
+    imageSrc: 'team/alexander-voss.webp',
     imageAlt: 'Alexander Voss, founder and master craftsman of AV\'s Cabinets',
     bio: 'With over 25 years of experience in fine woodworking, Alexander founded AV\'s Cabinets in 2006 to bring European craftsmanship traditions to California\'s luxury market.',
     specialties: ['Traditional Joinery', 'Design Consultation', 'Project Management']
@@ -24,7 +24,7 @@ const teamMembers = [
   {
     name: 'Maria Rodriguez',
     title: 'Lead Designer',
-    imageSrc: 'team/maria-rodriguez.jpg',
+    imageSrc: 'team/maria-rodriguez.webp',
     imageAlt: 'Maria Rodriguez, lead designer at AV\'s Cabinets',
     bio: 'Maria brings 15 years of interior design experience, specializing in creating spaces that seamlessly blend functionality with aesthetic excellence.',
     specialties: ['Space Planning', 'Material Selection', 'Client Relations']
@@ -32,7 +32,7 @@ const teamMembers = [
   {
     name: 'James Chen',
     title: 'Master Woodworker',
-    imageSrc: 'team/james-chen.jpg',
+    imageSrc: 'team/james-chen.webp',
     imageAlt: 'James Chen, master woodworker at AV\'s Cabinets',
     bio: 'A third-generation woodworker, James specializes in complex joinery and hand-carved details that define our most intricate projects.',
     specialties: ['Hand Carving', 'Complex Joinery', 'Restoration Work']
@@ -40,7 +40,7 @@ const teamMembers = [
   {
     name: 'Sarah Thompson',
     title: 'Project Manager',
-    imageSrc: 'team/sarah-thompson.jpg',
+    imageSrc: 'team/sarah-thompson.webp',
     imageAlt: 'Sarah Thompson, project manager at AV\'s Cabinets',
     bio: 'Sarah ensures every project runs smoothly from conception to completion, maintaining our commitment to quality and client satisfaction.',
     specialties: ['Project Coordination', 'Timeline Management', 'Quality Control']

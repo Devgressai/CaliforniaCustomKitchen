@@ -18,7 +18,7 @@ const millworkTypes = [
     description: 'Transform your ceilings into architectural masterpieces with our custom coffered ceiling designs. Each coffered ceiling is hand-crafted to complement your home\'s architectural style while adding dramatic visual impact.',
     features: ['Hand-carved details', 'Custom profiles', 'Seamless installation', 'Period-appropriate design'],
     applications: ['Dining rooms', 'Living rooms', 'Libraries', 'Master bedrooms'],
-    imageSrc: 'services/coffered-ceilings.jpg',
+    imageSrc: 'services/coffered-ceilings.webp',
     imageAlt: 'Custom coffered ceiling with hand-carved details'
   },
   {
@@ -26,7 +26,7 @@ const millworkTypes = [
     description: 'Add elegance and sophistication to any room with our custom crown molding designs. We create period-appropriate profiles that enhance your home\'s architectural character while providing a seamless, professional installation.',
     features: ['Period-appropriate profiles', 'Seamless joints', 'Custom sizing', 'Professional installation'],
     applications: ['Living rooms', 'Dining rooms', 'Bedrooms', 'Hallways'],
-    imageSrc: 'services/crown-molding.jpg',
+    imageSrc: 'services/crown-molding.webp',
     imageAlt: 'Custom crown molding installation in luxury home'
   },
   {
@@ -34,7 +34,7 @@ const millworkTypes = [
     description: 'Protect your walls while adding architectural interest with our custom wainscoting designs. From traditional raised panels to contemporary flat panels, we create wainscoting that complements your home\'s style.',
     features: ['Custom panel designs', 'Premium materials', 'Seamless installation', 'Versatile styles'],
     applications: ['Dining rooms', 'Hallways', 'Powder rooms', 'Home offices'],
-    imageSrc: 'services/wainscoting.jpg',
+    imageSrc: 'services/wainscoting.webp',
     imageAlt: 'Custom wainscoting with raised panel design'
   },
   {
@@ -42,7 +42,7 @@ const millworkTypes = [
     description: 'Create the perfect library or study with our custom built-in bookcases. Each bookcase is designed to fit your specific space and style, providing both storage and display opportunities while enhancing your home\'s architecture.',
     features: ['Custom sizing', 'Integrated lighting', 'Adjustable shelves', 'Hidden storage'],
     applications: ['Libraries', 'Home offices', 'Living rooms', 'Studies'],
-    imageSrc: 'services/built-in-bookcases.jpg',
+    imageSrc: 'services/built-in-bookcases.webp',
     imageAlt: 'Custom built-in bookcases with integrated lighting'
   }
 ]

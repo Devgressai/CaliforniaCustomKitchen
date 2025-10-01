@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Beachfront Estate Kitchen',
     location: 'Manhattan Beach, CA',
     description: 'A stunning beachfront kitchen renovation featuring custom walnut cabinetry and panoramic ocean views. Designed to maximize the breathtaking coastal scenery while providing luxury functionality.',
-    imageSrc: 'portfolio/manhattan-beach-beachfront-kitchen.jpg',
+    imageSrc: 'portfolio/manhattan-beach-beachfront-kitchen.webp',
     imageAlt: 'Custom beachfront kitchen with panoramic Manhattan Beach ocean views',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Hill Section Modern Kitchen',
     location: 'Manhattan Beach, CA',
     description: 'A contemporary hill section kitchen with clean lines and premium materials. Perfect for the modern beach lifestyle with integrated outdoor living spaces.',
-    imageSrc: 'portfolio/manhattan-beach-hill-kitchen.jpg',
+    imageSrc: 'portfolio/manhattan-beach-hill-kitchen.webp',
     imageAlt: 'Modern hill section kitchen in Manhattan Beach',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Sand Section Traditional Kitchen',
     location: 'Manhattan Beach, CA',
     description: 'A classic sand section kitchen renovation with traditional details and coastal charm. Designed for entertaining and family gatherings.',
-    imageSrc: 'portfolio/manhattan-beach-sand-kitchen.jpg',
+    imageSrc: 'portfolio/manhattan-beach-sand-kitchen.webp',
     imageAlt: 'Traditional sand section kitchen in Manhattan Beach',
     year: '2023'
   }

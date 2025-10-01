@@ -18,7 +18,7 @@ const vanityTypes = [
     description: 'Luxurious master bathroom vanities designed for the most discerning clients. Each vanity is custom-crafted to provide both exceptional beauty and superior functionality in your private sanctuary.',
     features: ['Custom sizing', 'Premium materials', 'Integrated storage', 'Luxury finishes'],
     applications: ['Master bathrooms', 'Luxury homes', 'Primary suites', 'Spa-like spaces'],
-    imageSrc: 'services/master-bathroom-vanity.jpg',
+    imageSrc: 'services/master-bathroom-vanity.webp',
     imageAlt: 'Luxurious master bathroom vanity with custom cabinetry'
   },
   {
@@ -26,7 +26,7 @@ const vanityTypes = [
     description: 'Elegant guest bathroom vanities that make a lasting impression on your visitors. Designed to complement your home\'s style while providing practical storage and functionality.',
     features: ['Elegant design', 'Practical storage', 'Guest-friendly', 'Style coordination'],
     applications: ['Guest bathrooms', 'Powder rooms', 'Hall bathrooms', 'Entertaining spaces'],
-    imageSrc: 'services/guest-bathroom-vanity.jpg',
+    imageSrc: 'services/guest-bathroom-vanity.webp',
     imageAlt: 'Elegant guest bathroom vanity with practical storage'
   },
   {
@@ -34,7 +34,7 @@ const vanityTypes = [
     description: 'Spacious double vanities designed for couples who value both personal space and shared functionality. Each side is custom-designed to meet individual needs while maintaining visual harmony.',
     features: ['Dual functionality', 'Personal space', 'Shared storage', 'Harmonious design'],
     applications: ['Master bathrooms', 'Couples\' spaces', 'Large bathrooms', 'Shared spaces'],
-    imageSrc: 'services/double-vanity-bathroom.jpg',
+    imageSrc: 'services/double-vanity-bathroom.webp',
     imageAlt: 'Custom double vanity with dual functionality'
   },
   {
@@ -42,7 +42,7 @@ const vanityTypes = [
     description: 'Modern floating vanities that create a sense of space and contemporary elegance. Perfect for contemporary bathrooms where clean lines and minimalist design are desired.',
     features: ['Space-enhancing', 'Contemporary design', 'Easy cleaning', 'Modern aesthetic'],
     applications: ['Contemporary bathrooms', 'Small spaces', 'Modern homes', 'Minimalist design'],
-    imageSrc: 'services/floating-vanity-bathroom.jpg',
+    imageSrc: 'services/floating-vanity-bathroom.webp',
     imageAlt: 'Modern floating vanity with contemporary design'
   }
 ]

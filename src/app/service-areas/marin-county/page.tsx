@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Tiburon Waterfront Kitchen',
     location: 'Marin County, CA',
     description: 'A stunning waterfront kitchen renovation featuring custom walnut cabinetry and panoramic bay views. Designed to maximize the breathtaking scenery while providing luxury functionality.',
-    imageSrc: 'portfolio/marin-tiburon-waterfront-kitchen.jpg',
+    imageSrc: 'portfolio/marin-tiburon-waterfront-kitchen.webp',
     imageAlt: 'Custom waterfront kitchen with panoramic Marin County bay views',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Mill Valley Hillside Kitchen',
     location: 'Marin County, CA',
     description: 'A contemporary hillside kitchen with clean lines and premium materials. Perfect for the modern Marin lifestyle with integrated outdoor living spaces.',
-    imageSrc: 'portfolio/marin-mill-valley-hillside-kitchen.jpg',
+    imageSrc: 'portfolio/marin-mill-valley-hillside-kitchen.webp',
     imageAlt: 'Hillside kitchen in Mill Valley with contemporary design',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Ross Traditional Kitchen',
     location: 'Marin County, CA',
     description: 'A classic traditional kitchen renovation with timeless details and luxury finishes. Designed for entertaining and family gatherings in the prestigious Ross community.',
-    imageSrc: 'portfolio/marin-ross-traditional-kitchen.jpg',
+    imageSrc: 'portfolio/marin-ross-traditional-kitchen.webp',
     imageAlt: 'Traditional kitchen in Ross with classic design',
     year: '2023'
   }

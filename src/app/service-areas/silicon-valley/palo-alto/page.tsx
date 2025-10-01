@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Professor\'s Estate Kitchen',
     location: 'Professorville, Palo Alto',
     description: 'A sophisticated kitchen renovation for a Stanford professor, featuring custom walnut cabinetry and integrated smart home technology.',
-    imageSrc: 'portfolio/palo-alto-professor-kitchen.jpg',
+    imageSrc: 'portfolio/palo-alto-professor-kitchen.webp',
     imageAlt: 'Custom walnut kitchen in Palo Alto professor\'s home',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Tech Executive Modern Kitchen',
     location: 'Crescent Park, Palo Alto',
     description: 'Ultra-modern kitchen design with minimalist cabinetry and premium materials for a Silicon Valley tech executive.',
-    imageSrc: 'portfolio/palo-alto-tech-kitchen.jpg',
+    imageSrc: 'portfolio/palo-alto-tech-kitchen.webp',
     imageAlt: 'Modern minimalist kitchen in Palo Alto tech executive home',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Historic Home Restoration',
     location: 'Old Palo Alto',
     description: 'Careful restoration of period-appropriate cabinetry in a 1920s Craftsman home, maintaining architectural integrity.',
-    imageSrc: 'portfolio/palo-alto-historic-kitchen.jpg',
+    imageSrc: 'portfolio/palo-alto-historic-kitchen.webp',
     imageAlt: 'Restored historic kitchen in Palo Alto Craftsman home',
     year: '2023'
   }

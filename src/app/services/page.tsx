@@ -16,7 +16,7 @@ const services = [
   {
     title: 'Custom Kitchens',
     description: 'The heart of the home deserves nothing less than perfection. Our custom kitchens blend functionality with artistry, creating spaces that serve both daily rituals and grand entertaining.',
-    imageSrc: 'services/custom-kitchens-hero.jpg',
+    imageSrc: 'services/custom-kitchens-hero.webp',
     imageAlt: 'Luxury custom kitchen with marble countertops and walnut cabinetry',
     href: '/services/custom-kitchens',
     features: [
@@ -33,7 +33,7 @@ const services = [
   {
     title: 'Bespoke Cabinetry',
     description: 'Beyond kitchens, we craft storage solutions that disappear into architecture while maximizing both beauty and utility throughout your home.',
-    imageSrc: 'services/bespoke-cabinetry-hero.jpg',
+    imageSrc: 'services/bespoke-cabinetry-hero.webp',
     imageAlt: 'Built-in entertainment center with hidden storage in living room',
     href: '/services/bespoke-cabinetry',
     features: [
@@ -50,7 +50,7 @@ const services = [
   {
     title: 'Architectural Millwork',
     description: 'From coffered ceilings to intricate moldings, our millwork transforms spaces into architectural statements worthy of the finest estates.',
-    imageSrc: 'services/architectural-millwork-hero.jpg',
+    imageSrc: 'services/architectural-millwork-hero.webp',
     imageAlt: 'Coffered ceiling and crown molding in formal dining room',
     href: '/services/architectural-millwork',
     features: [
@@ -67,7 +67,7 @@ const services = [
   {
     title: 'Wine Cellars & Storage',
     description: 'Create the ultimate wine storage solution with climate-controlled environments and custom racking systems designed for serious collectors.',
-    imageSrc: 'services/wine-cellar-storage.jpg',
+    imageSrc: 'services/wine-cellar-storage.webp',
     imageAlt: 'Climate-controlled wine cellar with custom racking system',
     href: '/services/wine-cellars',
     features: [
@@ -84,7 +84,7 @@ const services = [
   {
     title: 'Pantry Design',
     description: 'Transform your pantry into a highly organized, beautiful space that maximizes storage and simplifies meal preparation.',
-    imageSrc: 'services/pantry-design.jpg',
+    imageSrc: 'services/pantry-design.webp',
     imageAlt: 'Custom pantry with pull-out shelves and organization systems',
     href: '/services/pantry-design',
     features: [
@@ -101,7 +101,7 @@ const services = [
   {
     title: 'Laundry Room Cabinetry',
     description: 'Create a functional and beautiful laundry space with custom cabinetry designed for efficiency and organization.',
-    imageSrc: 'services/laundry-room-cabinetry.jpg',
+    imageSrc: 'services/laundry-room-cabinetry.webp',
     imageAlt: 'Custom laundry room with built-in cabinetry and organization',
     href: '/services/laundry-room-cabinetry',
     features: [

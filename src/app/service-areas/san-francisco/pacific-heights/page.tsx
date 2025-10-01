@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Victorian Mansion Kitchen',
     location: 'Pacific Heights, San Francisco',
     description: 'A stunning kitchen renovation in a historic Victorian mansion, featuring custom walnut cabinetry that honors the home\'s architectural heritage while modernizing functionality.',
-    imageSrc: 'portfolio/pacific-heights-victorian-kitchen.jpg',
+    imageSrc: 'portfolio/pacific-heights-victorian-kitchen.webp',
     imageAlt: 'Custom walnut kitchen in Pacific Heights Victorian mansion',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Edwardian Estate Kitchen',
     location: 'Pacific Heights, San Francisco',
     description: 'A sophisticated kitchen design for an Edwardian estate, featuring period-appropriate details and premium materials that complement the home\'s architectural style.',
-    imageSrc: 'portfolio/pacific-heights-edwardian-kitchen.jpg',
+    imageSrc: 'portfolio/pacific-heights-edwardian-kitchen.webp',
     imageAlt: 'Edwardian estate kitchen in Pacific Heights with period details',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Modern Victorian Renovation',
     location: 'Pacific Heights, San Francisco',
     description: 'A contemporary kitchen renovation in a Victorian home, featuring modern cabinetry that respects the home\'s historic character while providing contemporary functionality.',
-    imageSrc: 'portfolio/pacific-heights-modern-victorian-kitchen.jpg',
+    imageSrc: 'portfolio/pacific-heights-modern-victorian-kitchen.webp',
     imageAlt: 'Modern Victorian kitchen renovation in Pacific Heights',
     year: '2023'
   }

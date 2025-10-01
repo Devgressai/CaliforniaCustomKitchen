@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Atherton Tech Executive Kitchen',
     location: 'Silicon Valley, CA',
     description: 'A stunning tech executive kitchen featuring smart home integration, custom walnut cabinetry, and panoramic Silicon Valley views. Designed for the modern tech lifestyle with seamless connectivity.',
-    imageSrc: 'portfolio/atherton-tech-executive-kitchen.jpg',
+    imageSrc: 'portfolio/atherton-tech-executive-kitchen.webp',
     imageAlt: 'Custom tech executive kitchen with smart home integration in Atherton',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Palo Alto Modern Kitchen',
     location: 'Silicon Valley, CA',
     description: 'A contemporary Palo Alto kitchen with clean lines, premium materials, and integrated smart home technology. Perfect for the Silicon Valley lifestyle with cutting-edge features.',
-    imageSrc: 'portfolio/palo-alto-modern-kitchen.jpg',
+    imageSrc: 'portfolio/palo-alto-modern-kitchen.webp',
     imageAlt: 'Modern kitchen with smart home integration in Palo Alto',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Los Altos Hills Estate Kitchen',
     location: 'Silicon Valley, CA',
     description: 'A luxury estate kitchen renovation with traditional details and modern smart home integration. Designed for entertaining and family gatherings in the prestigious Los Altos Hills community.',
-    imageSrc: 'portfolio/los-altos-hills-estate-kitchen.jpg',
+    imageSrc: 'portfolio/los-altos-hills-estate-kitchen.webp',
     imageAlt: 'Luxury estate kitchen with smart home features in Los Altos Hills',
     year: '2023'
   }

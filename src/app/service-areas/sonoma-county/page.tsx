@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Healdsburg Wine Country Kitchen',
     location: 'Sonoma County, CA',
     description: 'A stunning wine country kitchen renovation featuring custom walnut cabinetry and panoramic vineyard views. Designed to maximize the breathtaking scenery while providing luxury functionality for entertaining.',
-    imageSrc: 'portfolio/sonoma-healdsburg-wine-kitchen.jpg',
+    imageSrc: 'portfolio/sonoma-healdsburg-wine-kitchen.webp',
     imageAlt: 'Custom wine country kitchen with panoramic Sonoma County vineyard views',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Sebastopol Farmhouse Kitchen',
     location: 'Sonoma County, CA',
     description: 'A historic farmhouse kitchen restoration with reclaimed wood cabinetry and traditional details. Perfect for the authentic wine country lifestyle with integrated wine storage solutions.',
-    imageSrc: 'portfolio/sonoma-sebastopol-farmhouse-kitchen.jpg',
+    imageSrc: 'portfolio/sonoma-sebastopol-farmhouse-kitchen.webp',
     imageAlt: 'Historic farmhouse kitchen with reclaimed wood in Sonoma County',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Petaluma Modern Kitchen',
     location: 'Sonoma County, CA',
     description: 'A contemporary wine country kitchen with clean lines and premium materials. Designed for the modern wine country lifestyle with seamless indoor-outdoor living.',
-    imageSrc: 'portfolio/sonoma-petaluma-modern-kitchen.jpg',
+    imageSrc: 'portfolio/sonoma-petaluma-modern-kitchen.webp',
     imageAlt: 'Modern wine country kitchen in Sonoma County with contemporary design',
     year: '2023'
   }

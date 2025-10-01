@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Custom Kitchen Cabinets Pebble Beach CA | AV's Cabinets",
     description: "Museum-grade custom kitchens for Pebble Beach's most discerning homeowners. Serving Central Coast's elite with uncompromising craftsmanship.",
-    images: ['/images/pebble-beach-estate-kitchen-hero.jpg'],
+    images: ['/images/pebble-beach-estate-kitchen-hero.webp'],
   },
 }
 
@@ -37,7 +37,7 @@ export default function PebbleBeachPage() {
         title="Pebble Beach's Artisan of Choice"
         subtitle="Coastal Elegance & Championship Luxury"
         description="Where world-class golf meets museum-grade craftsmanship. Bespoke cabinetry for the Central Coast's most prestigious addresses, crafted with reverence for both natural beauty and architectural excellence."
-        imageSrc="pebble-beach-modern-luxury-kitchen.jpg"
+        imageSrc="pebble-beach-modern-luxury-kitchen.webp"
         imageAlt="Modern luxury kitchen cabinetry in Pebble Beach estate with large glass windows"
         primaryCTA={{
           text: "Schedule Private Consultation",

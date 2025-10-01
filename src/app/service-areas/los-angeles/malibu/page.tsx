@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Beachfront Estate Kitchen',
     location: 'Malibu, CA',
     description: 'A stunning ocean-view kitchen featuring teak cabinetry and marine-grade hardware, designed to withstand coastal conditions while maintaining luxury aesthetics.',
-    imageSrc: 'portfolio/malibu-beachfront-kitchen.jpg',
+    imageSrc: 'portfolio/malibu-beachfront-kitchen.webp',
     imageAlt: 'Ocean-view kitchen with teak cabinetry in Malibu beachfront estate',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Celebrity Beach House',
     location: 'Malibu, CA',
     description: 'A sophisticated kitchen renovation for a Hollywood celebrity, featuring custom walnut cabinetry and integrated entertainment systems with ocean views.',
-    imageSrc: 'portfolio/malibu-celebrity-kitchen.jpg',
+    imageSrc: 'portfolio/malibu-celebrity-kitchen.webp',
     imageAlt: 'Celebrity beach house kitchen in Malibu with ocean views',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Modern Cliffside Home',
     location: 'Malibu, CA',
     description: 'Contemporary kitchen design for a modern cliffside home, featuring minimalist cabinetry and premium materials that complement the dramatic ocean setting.',
-    imageSrc: 'portfolio/malibu-cliffside-kitchen.jpg',
+    imageSrc: 'portfolio/malibu-cliffside-kitchen.webp',
     imageAlt: 'Modern cliffside kitchen in Malibu with minimalist design',
     year: '2023'
   }

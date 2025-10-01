@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Bespoke Cabinetry | AV's Cabinets",
     description: "Museum-grade bespoke cabinetry for libraries, closets, entertainment centers, and wine rooms throughout California's luxury homes.",
-    images: ['/images/services/bespoke-cabinetry-hero.jpg'],
+    images: ['/images/services/bespoke-cabinetry-hero.webp'],
   },
 }
 
@@ -40,7 +40,7 @@ export default function BespokeCabinetryPage() {
         title="Bespoke Cabinetry Beyond the Kitchen"
         subtitle="Custom Built-Ins & Storage Solutions"
         description="From library sanctuaries to entertainment centers, from wine cellars to walk-in closets—we create bespoke storage solutions that disappear into architecture while maximizing both beauty and utility."
-        imageSrc="bespoke-cabinetry-hero.jpg"
+        imageSrc="bespoke-cabinetry-hero.webp"
         imageAlt="Built-in entertainment center with hidden storage in living room"
         primaryCTA={{
           text: "Schedule Design Consultation",
@@ -99,37 +99,37 @@ export default function BespokeCabinetryPage() {
                 title: 'Libraries & Studies',
                 description: 'Floor-to-ceiling bookcases, reading nooks, and display systems that celebrate literary collections while providing comfortable spaces for contemplation and work.',
                 features: ['Rolling ladder systems', 'Integrated lighting', 'Climate control', 'Display cases', 'Reading alcoves', 'Desk integration'],
-                image: 'library-millwork-walnut.jpg'
+                image: 'library-millwork-walnut.webp'
               },
               {
                 title: 'Entertainment Centers',
                 description: 'Sophisticated media integration that conceals technology while providing optimal viewing experiences and organized storage for equipment and media.',
                 features: ['Hidden TV lifts', 'Equipment ventilation', 'Cable management', 'Acoustic design', 'Remote integration', 'Gaming storage'],
-                image: 'entertainment-center-modern.jpg'
+                image: 'entertainment-center-modern.webp'
               },
               {
                 title: 'Wine Cellars & Tasting Rooms',
                 description: 'Climate-controlled environments that preserve and display wine collections while creating atmospheric spaces for tasting and entertaining.',
                 features: ['Temperature control', 'Humidity management', 'Bottle organization', 'Tasting bars', 'Display lighting', 'Security systems'],
-                image: 'wine-cellar-custom-storage.jpg'
+                image: 'wine-cellar-custom-storage.webp'
               },
               {
                 title: 'Walk-In Closets',
                 description: 'Boutique-quality organization systems that transform closets into luxury dressing rooms with specialized storage for every wardrobe need.',
                 features: ['Automated systems', 'LED lighting', 'Jewelry storage', 'Shoe organization', 'Tie & belt racks', 'Island seating'],
-                image: 'walk-in-closet-luxury.jpg'
+                image: 'walk-in-closet-luxury.webp'
               },
               {
                 title: 'Home Offices',
                 description: 'Productive workspace solutions that integrate technology, storage, and comfort while maintaining residential warmth and style.',
                 features: ['Built-in desks', 'File organization', 'Technology integration', 'Acoustic treatments', 'Privacy screens', 'Meeting areas'],
-                image: 'home-office-built-ins.jpg'
+                image: 'home-office-built-ins.webp'
               },
               {
                 title: 'Specialty Storage',
                 description: 'Custom solutions for unique collections and hobbies, from art storage to sports equipment organization, crafted to preserve and display treasured items.',
                 features: ['Art storage systems', 'Sports equipment', 'Hobby organization', 'Collection displays', 'Climate protection', 'Security features'],
-                image: 'specialty-storage-custom.jpg'
+                image: 'specialty-storage-custom.webp'
               }
             ].map((service, index) => (
               <div key={index} className="bg-ivory p-8 rounded-lg border border-french-gray/20 hover:border-deep-green/30 transition-all duration-300 hover:shadow-lg">
@@ -198,7 +198,7 @@ export default function BespokeCabinetryPage() {
             </div>
             <div className="relative">
               <OptimizedImage
-                filename="bespoke-design-process.jpg"
+                filename="bespoke-design-process.webp"
                 alt="Bespoke cabinetry design process showing architectural integration and custom solutions"
                 width={600}
                 height={800}
@@ -224,7 +224,7 @@ export default function BespokeCabinetryPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center mb-16">
             <div className="relative">
               <OptimizedImage
-                filename="atherton-estate-library-case-study.jpg"
+                filename="atherton-estate-library-case-study.webp"
                 alt="Custom library millwork in Atherton estate featuring floor-to-ceiling bookcases and reading nook"
                 width={600}
                 height={800}

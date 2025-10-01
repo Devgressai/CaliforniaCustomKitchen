@@ -17,7 +17,7 @@ const localProjects = [
     title: 'Lakefront Estate Kitchen',
     location: 'Lake Tahoe, CA',
     description: 'A stunning lakefront kitchen renovation featuring custom walnut cabinetry and panoramic lake views. Designed to maximize the breathtaking scenery while providing luxury functionality.',
-    imageSrc: 'portfolio/lake-tahoe-lakefront-kitchen.jpg',
+    imageSrc: 'portfolio/lake-tahoe-lakefront-kitchen.webp',
     imageAlt: 'Custom lakefront kitchen with panoramic Lake Tahoe views',
     year: '2024'
   },
@@ -25,7 +25,7 @@ const localProjects = [
     title: 'Mountain Lodge Kitchen',
     location: 'Lake Tahoe, CA',
     description: 'A rustic yet luxurious mountain lodge kitchen featuring reclaimed wood cabinetry and stone accents. Perfect for entertaining after a day on the slopes.',
-    imageSrc: 'portfolio/lake-tahoe-mountain-lodge-kitchen.jpg',
+    imageSrc: 'portfolio/lake-tahoe-mountain-lodge-kitchen.webp',
     imageAlt: 'Mountain lodge kitchen with reclaimed wood cabinetry in Lake Tahoe',
     year: '2024'
   },
@@ -33,7 +33,7 @@ const localProjects = [
     title: 'Contemporary Lake House',
     location: 'Lake Tahoe, CA',
     description: 'A modern lake house kitchen with clean lines and premium materials. Designed to complement the contemporary architecture while maximizing lake views.',
-    imageSrc: 'portfolio/lake-tahoe-contemporary-kitchen.jpg',
+    imageSrc: 'portfolio/lake-tahoe-contemporary-kitchen.webp',
     imageAlt: 'Contemporary lake house kitchen in Lake Tahoe',
     year: '2023'
   }

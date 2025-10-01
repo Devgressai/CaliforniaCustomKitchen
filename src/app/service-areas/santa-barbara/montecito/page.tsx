@@ -20,7 +20,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Custom Kitchen Cabinets Montecito CA | AV's Cabinets",
     description: "Bespoke cabinetry for Montecito's most discerning homeowners. Serving Santa Barbara's elite with uncompromising craftsmanship.",
-    images: ['/images/montecito-estate-kitchen-hero.jpg'],
+    images: ['/images/montecito-estate-kitchen-hero.webp'],
   },
 }
 
@@ -30,7 +30,7 @@ const montecitoProjects = [
     title: 'Mediterranean Revival Estate',
     location: 'Montecito, CA',
     category: 'Traditional Kitchen',
-    imageSrc: '/images/portfolio/montecito-mediterranean-kitchen.jpg',
+    imageSrc: '/images/portfolio/montecito-mediterranean-kitchen.webp',
     imageAlt: 'Custom Mediterranean-style kitchen with hand-carved details in Montecito estate',
     description: 'Hand-carved walnut cabinetry with old-world craftsmanship for a Hollywood producer\'s historic estate.'
   },
@@ -39,7 +39,7 @@ const montecitoProjects = [
     title: 'Coastal Contemporary Kitchen',
     location: 'Montecito, CA',
     category: 'Modern Cabinetry',
-    imageSrc: '/images/portfolio/montecito-coastal-modern.jpg',
+    imageSrc: '/images/portfolio/montecito-coastal-modern.webp',
     imageAlt: 'Contemporary kitchen with ocean views and integrated wine storage in Montecito',
     description: 'Seamless indoor-outdoor integration with climate-controlled wine storage for a tech entrepreneur\'s retreat.'
   },
@@ -48,7 +48,7 @@ const montecitoProjects = [
     title: 'Spanish Colonial Revival',
     location: 'Montecito, CA',
     category: 'Historic Restoration',
-    imageSrc: '/images/portfolio/montecito-spanish-colonial.jpg',
+    imageSrc: '/images/portfolio/montecito-spanish-colonial.webp',
     imageAlt: 'Restored Spanish Colonial kitchen with period-appropriate cabinetry in historic Montecito home',
     description: 'Authentic restoration honoring 1920s architecture while incorporating modern functionality for daily living.'
   }
@@ -97,7 +97,7 @@ export default function MontecitoPage() {
         title="Montecito's Artisan of Choice"
         subtitle="Coastal Elegance & Timeless Craft"
         description="Where Mediterranean romance meets California sophistication. Bespoke cabinetry for Santa Barbara's most exclusive enclave, crafted with reverence for both tradition and innovation."
-        imageSrc="/images/montecito-estate-kitchen-hero.jpg"
+        imageSrc="/images/montecito-estate-kitchen-hero.webp"
         imageAlt="Luxury custom kitchen overlooking Pacific Ocean in Montecito estate with hand-carved cabinetry"
         primaryCTA={{
           text: "Schedule Private Consultation",
@@ -153,7 +153,7 @@ export default function MontecitoPage() {
             </div>
             <div className="relative">
               <Image
-                src="/images/montecito-mediterranean-influence.jpg"
+                src="/images/montecito-mediterranean-influence.webp"
                 alt="Mediterranean-inspired custom cabinetry design elements for Montecito estate kitchen"
                 width={600}
                 height={800}
@@ -249,7 +249,7 @@ export default function MontecitoPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="relative">
               <Image
-                src="/images/montecito-coastal-engineering.jpg"
+                src="/images/montecito-coastal-engineering.webp"
                 alt="Specialized engineering solutions for coastal cabinetry in Montecito homes"
                 width={600}
                 height={800}
@@ -367,7 +367,7 @@ export default function MontecitoPage() {
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <div>
                 <Image
-                  src="/images/montecito-entertainment-executive-kitchen.jpg"
+                  src="/images/montecito-entertainment-executive-kitchen.webp"
                   alt="Custom kitchen for entertainment industry executive in Montecito featuring ocean views and smart technology"
                   width={600}
                   height={400}
@@ -451,7 +451,7 @@ export default function MontecitoPage() {
             </div>
             <div className="relative">
               <Image
-                src="/images/montecito-historic-restoration-detail.jpg"
+                src="/images/montecito-historic-restoration-detail.webp"
                 alt="Historic restoration details showing period-appropriate cabinetry craftsmanship in Montecito estate"
                 width={600}
                 height={800}
@@ -515,7 +515,7 @@ export default function MontecitoPage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center mb-16">
             <div className="relative">
               <Image
-                src="/images/montecito-wine-storage-system.jpg"
+                src="/images/montecito-wine-storage-system.webp"
                 alt="Custom wine storage and serving area integrated into Montecito kitchen design"
                 width={600}
                 height={800}
