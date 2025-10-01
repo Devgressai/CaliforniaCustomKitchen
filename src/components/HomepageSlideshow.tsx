@@ -15,23 +15,23 @@ interface Slide {
 const slides: Slide[] = [
   {
     id: 1,
-    src: '/images/portfolio/gallery-luxury-custom-kitchen-1-sacramento-california.webp',
-    alt: 'Luxury custom kitchen with contemporary design and premium materials',
-    title: 'Contemporary Luxury',
-    subtitle: 'Modern Kitchen Design',
-    description: 'Where form meets function in the most elegant way possible'
+    src: '/images/portfolio/gallery-luxury-custom-kitchen-3-sacramento-california.webp',
+    alt: 'Classical Mediterranean Villa Kitchen with Rich Wood Cabinetry and Stone Elements',
+    title: 'Mediterranean Villa Kitchen',
+    subtitle: 'Classical All-Wood Design',
+    description: 'Timeless classical design with rich wood cabinetry, perfect for mountain estates and coastal villas'
   },
   {
     id: 2,
-    src: '/images/portfolio/gallery-luxury-custom-kitchen-2-sacramento-california.webp',
-    alt: 'Traditional kitchen with classic cabinetry and timeless appeal',
-    title: 'Timeless Tradition',
-    subtitle: 'Classic Craftsmanship',
-    description: 'Heritage techniques meet modern luxury in every detail'
+    src: '/images/portfolio/gallery-luxury-custom-kitchen-17-sacramento-california.webp',
+    alt: 'Contemporary Luxury Kitchen Design with Integrated Appliances and Modern Materials',
+    title: 'Contemporary Luxury',
+    subtitle: 'Modern Innovation',
+    description: 'Sleek lines, innovative materials, and unparalleled functionality for the modern home'
   },
   {
     id: 3,
-    src: '/images/portfolio/gallery-luxury-custom-kitchen-3-sacramento-california.webp',
+    src: '/images/portfolio/gallery-luxury-custom-kitchen-18-sacramento-california.webp',
     alt: 'Modern kitchen with sleek lines and premium finishes',
     title: 'Modern Sophistication',
     subtitle: 'Sleek Design Excellence',
