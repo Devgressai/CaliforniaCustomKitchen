@@ -206,7 +206,19 @@ export default function HomePage() {
       </section>
 
       {/* CTA Section */}
-      <CTASection />
+      <CTASection 
+        title="Ready to Begin Your Project?"
+        description="Every masterpiece begins with a conversation. Let's discuss how we can bring your vision to life with the finest materials and time-honored craftsmanship."
+        primaryCTA={{
+          text: "Request a Private Consultation",
+          href: "/contact"
+        }}
+        secondaryCTA={{
+          text: "View Our Portfolio", 
+          href: "/portfolio"
+        }}
+        background="dark"
+      />
     </div>
   )
 }
