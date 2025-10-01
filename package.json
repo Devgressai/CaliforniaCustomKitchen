@@ -11,8 +11,12 @@
     "optimize-images": "npm run convert-webp",
     "scrape-images": "node scripts/scrape-images.js",
     "scrape-gallery": "node scripts/scrape-gallery.js",
-    "download-all": "npm run scrape-images",
-    "download-gallery": "npm run scrape-gallery"
+    "scrape-entire-site": "node scripts/scrape-entire-site.js",
+    "scrape-avs-gallery": "node scripts/scrape-avs-gallery.js",
+    "download-all": "npm run scrape-entire-site",
+    "download-gallery": "npm run scrape-gallery",
+    "download-avs-images": "npm run scrape-avs-gallery",
+    "scrape-and-convert": "npm run scrape-entire-site"
   },
   "dependencies": {
     "@mdx-js/loader": "^3.0.0",
