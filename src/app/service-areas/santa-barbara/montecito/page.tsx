@@ -26,30 +26,27 @@ export const metadata: Metadata = {
 
 const montecitoProjects = [
   {
-    slug: 'montecito-mediterranean-revival',
+    id: 1,
     title: 'Mediterranean Revival Estate',
     location: 'Montecito, CA',
-    category: 'Traditional Kitchen',
-    imageSrc: '/images/portfolio/montecito-mediterranean-kitchen.webp',
-    imageAlt: 'Custom Mediterranean-style kitchen with hand-carved details in Montecito estate',
+    imageSrc: '/images/portfolio/gallery-luxury-custom-kitchen-11-sacramento-california.webp',
+    alt: 'Custom Mediterranean-style kitchen with hand-carved details in Montecito estate',
     description: 'Hand-carved walnut cabinetry with old-world craftsmanship for a Hollywood producer\'s historic estate.'
   },
   {
-    slug: 'montecito-coastal-contemporary',
+    id: 2,
     title: 'Coastal Contemporary Kitchen',
     location: 'Montecito, CA',
-    category: 'Modern Cabinetry',
-    imageSrc: '/images/portfolio/montecito-coastal-modern.webp',
-    imageAlt: 'Contemporary kitchen with ocean views and integrated wine storage in Montecito',
+    imageSrc: '/images/portfolio/gallery-luxury-custom-kitchen-12-sacramento-california.webp',
+    alt: 'Contemporary kitchen with ocean views and integrated wine storage in Montecito',
     description: 'Seamless indoor-outdoor integration with climate-controlled wine storage for a tech entrepreneur\'s retreat.'
   },
   {
-    slug: 'montecito-spanish-colonial',
+    id: 3,
     title: 'Spanish Colonial Revival',
     location: 'Montecito, CA',
-    category: 'Historic Restoration',
-    imageSrc: '/images/portfolio/montecito-spanish-colonial.webp',
-    imageAlt: 'Restored Spanish Colonial kitchen with period-appropriate cabinetry in historic Montecito home',
+    imageSrc: '/images/portfolio/gallery-luxury-custom-kitchen-13-sacramento-california.webp',
+    alt: 'Restored Spanish Colonial kitchen with period-appropriate cabinetry in historic Montecito home',
     description: 'Authentic restoration honoring 1920s architecture while incorporating modern functionality for daily living.'
   }
 ]
