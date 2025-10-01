@@ -17,8 +17,8 @@ const footerNavigation = {
   ],
   regions: [
     { name: 'Silicon Valley', href: '/service-areas/silicon-valley' },
-    { name: 'Marin County', href: '/service-areas/marin' },
-    { name: 'Lake Tahoe', href: '/service-areas/lake-tahoe-truckee' },
+    { name: 'Marin County', href: '/service-areas/marin-county' },
+    { name: 'Lake Tahoe', href: '/service-areas/lake-tahoe' },
     { name: 'Central Coast', href: '/service-areas/central-coast' },
     { name: 'Los Angeles', href: '/service-areas/los-angeles' },
   ],
