@@ -41,7 +41,7 @@ export const metadata: Metadata = {
     description: "Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork for California's finest homes.",
     images: [
       {
-        url: '/images/og-home.jpg',
+        url: '/images/portfolio/gallery-luxury-custom-kitchen-1-sacramento-california.webp',
         width: 1200,
         height: 630,
         alt: "AV's Cabinets - Custom Kitchen Cabinetry",
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: "AV's Cabinets | Custom Kitchens & Bespoke Cabinetry",
     description: "Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork for California's finest homes.",
-    images: ['/images/og-home.jpg'],
+    images: ['/images/portfolio/gallery-luxury-custom-kitchen-1-sacramento-california.webp'],
   },
   robots: {
     index: true,

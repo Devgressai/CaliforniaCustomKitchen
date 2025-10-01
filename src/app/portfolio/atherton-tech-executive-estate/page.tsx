@@ -18,7 +18,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Atherton Tech Executive Estate Kitchen | AV's Cabinets Portfolio",
     description: "Museum-grade walnut cabinetry with smart home integration for Silicon Valley's tech elite.",
-    images: ['/images/portfolio/atherton-tech-executive-hero.jpg'],
+    images: ['/images/portfolio/gallery-luxury-custom-kitchen-17-sacramento-california.webp'],
   },
 }
 
@@ -55,7 +55,7 @@ export default function AthertonTechExecutivePage() {
         title="Silicon Valley Innovation Meets Timeless Craft"
         subtitle="Atherton Tech Executive Estate"
         description="A 12,000-square-foot contemporary masterpiece where cutting-edge technology seamlessly integrates with museum-grade craftsmanship, creating the ultimate kitchen for a visionary tech leader."
-        imageSrc="/images/portfolio/atherton-tech-executive-hero.jpg"
+        imageSrc="/images/portfolio/gallery-luxury-custom-kitchen-17-sacramento-california.webp"
         imageAlt="Luxury custom kitchen in Atherton tech executive estate featuring quarter-sawn walnut cabinetry and smart home integration"
         primaryCTA={{
           text: "Schedule Consultation",
@@ -154,7 +154,7 @@ export default function AthertonTechExecutivePage() {
             </div>
             <div className="relative">
               <Image
-                src="/images/portfolio/atherton-tech-executive-design-process.jpg"
+                src="/images/portfolio/gallery-luxury-custom-kitchen-18-sacramento-california.webp"
                 alt="Design development process for Atherton tech executive kitchen showing 3D renderings and material samples"
                 width={600}
                 height={800}
@@ -180,7 +180,7 @@ export default function AthertonTechExecutivePage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center mb-16">
             <div className="relative">
               <Image
-                src="/images/portfolio/atherton-walnut-grain-matching.jpg"
+                src="/images/portfolio/gallery-luxury-custom-kitchen-19-sacramento-california.webp"
                 alt="Quarter-sawn walnut grain matching process showing sequential veneer sheets for continuous grain flow"
                 width={600}
                 height={800}
@@ -329,7 +329,7 @@ export default function AthertonTechExecutivePage() {
             </div>
             <div className="relative">
               <Image
-                src="/images/portfolio/atherton-structural-engineering.jpg"
+                src="/images/portfolio/gallery-luxury-custom-kitchen-20-sacramento-california.webp"
                 alt="Structural engineering details showing hidden steel reinforcement in custom kitchen island"
                 width={600}
                 height={800}
@@ -345,7 +345,7 @@ export default function AthertonTechExecutivePage() {
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
               <div>
                 <Image
-                  src="/images/portfolio/atherton-smart-home-integration.jpg"
+                  src="/images/portfolio/gallery-luxury-custom-kitchen-21-sacramento-california.webp"
                   alt="Smart home technology integration in custom kitchen cabinetry including hidden charging stations and automated systems"
                   width={600}
                   height={400}
@@ -493,7 +493,7 @@ export default function AthertonTechExecutivePage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div className="relative">
               <Image
-                src="/images/portfolio/atherton-installation-process.jpg"
+                src="/images/portfolio/gallery-luxury-custom-kitchen-22-sacramento-california.webp"
                 alt="White-glove installation process showing precision fitting and protection protocols in Atherton estate"
                 width={600}
                 height={800}
@@ -719,19 +719,19 @@ export default function AthertonTechExecutivePage() {
               {
                 title: 'Palo Alto Venture Capitalist',
                 location: 'Palo Alto, CA',
-                image: '/images/portfolio/palo-alto-vc-kitchen.jpg',
+                image: '/images/portfolio/gallery-luxury-custom-kitchen-23-sacramento-california.webp',
                 href: '/portfolio/palo-alto-venture-capitalist'
               },
               {
                 title: 'Hillsborough Tech Founder',
                 location: 'Hillsborough, CA', 
-                image: '/images/portfolio/hillsborough-tech-founder.jpg',
+                image: '/images/portfolio/gallery-luxury-custom-kitchen-24-sacramento-california.webp',
                 href: '/portfolio/hillsborough-tech-founder'
               },
               {
                 title: 'Woodside Innovation Leader',
                 location: 'Woodside, CA',
-                image: '/images/portfolio/woodside-innovation-leader.jpg',
+                image: '/images/portfolio/gallery-luxury-custom-kitchen-25-sacramento-california.webp',
                 href: '/portfolio/woodside-innovation-leader'
               }
             ].map((project, index) => (
