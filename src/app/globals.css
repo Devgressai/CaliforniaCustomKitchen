@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-feature-settings: "rlig" 1, "calt" 1;
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-body text-charcoal bg-ivory antialiased;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+    font-feature-settings: "lnum" 1;
+  }
+
+  /* Custom scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    @apply bg-ivory;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    @apply bg-french-gray rounded;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-deep-green;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply bg-deep-green text-ivory px-8 py-4 font-medium tracking-wide transition-all duration-300 hover:bg-opacity-90 focus:outline-none focus:ring-2 focus:ring-deep-green focus:ring-offset-2 focus:ring-offset-ivory;
+  }
+
+  .btn-ghost {
+    @apply border border-deep-green text-deep-green px-8 py-4 font-medium tracking-wide transition-all duration-300 hover:bg-deep-green hover:text-ivory focus:outline-none focus:ring-2 focus:ring-deep-green focus:ring-offset-2 focus:ring-offset-ivory;
+  }
+
+  .prose-luxury {
+    @apply prose prose-lg max-w-none;
+    color: #1F1F1F; /* charcoal color */
+  }
+
+  .prose-luxury h1,
+  .prose-luxury h2,
+  .prose-luxury h3,
+  .prose-luxury h4,
+  .prose-luxury h5,
+  .prose-luxury h6 {
+    @apply font-display text-charcoal;
+  }
+
+  .prose-luxury h2 {
+    @apply text-3xl md:text-4xl mb-6 mt-12 first:mt-0;
+  }
+
+  .prose-luxury h3 {
+    @apply text-2xl md:text-3xl mb-4 mt-10;
+  }
+
+  .prose-luxury p {
+    @apply mb-6 leading-relaxed;
+  }
+
+  .prose-luxury a {
+    @apply text-deep-green hover:text-oxblood transition-colors duration-200 no-underline border-b border-deep-green border-opacity-30 hover:border-opacity-100;
+  }
+
+  .brass-rule {
+    @apply h-px bg-gradient-to-r from-transparent via-brass to-transparent;
+  }
+
+  .fade-in {
+    @apply animate-fade-in;
+  }
+
+  .slide-up {
+    @apply animate-slide-up;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .bg-grain {
+    background-image: 
+      radial-gradient(circle at 1px 1px, rgba(185,182,174,0.15) 1px, transparent 0);
+    background-size: 20px 20px;
+  }
+}
