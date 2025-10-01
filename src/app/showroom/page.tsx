@@ -9,9 +9,11 @@ const generateGalleryImages = () => {
   
   // Portfolio images (1-138)
   for (let i = 1; i <= 138; i++) {
+    // Check if the file exists with -sacramento-california suffix
+    const hasSacramentoSuffix = i <= 19 || (i >= 53 && i <= 79)
     images.push({
       id: i,
-      src: `/images/portfolio/gallery-luxury-custom-kitchen-${i}${i <= 79 ? '-sacramento-california' : ''}.webp`,
+      src: `/images/portfolio/gallery-luxury-custom-kitchen-${i}${hasSacramentoSuffix ? '-sacramento-california' : ''}.webp`,
       alt: `Luxury custom kitchen design ${i} - Premium cabinetry and millwork`,
       category: i <= 30 ? 'Contemporary' : i <= 60 ? 'Traditional' : i <= 90 ? 'Transitional' : 'Modern',
       location: i <= 40 ? 'Silicon Valley' : i <= 80 ? 'Los Angeles' : i <= 120 ? 'Central Coast' : 'Northern California'
