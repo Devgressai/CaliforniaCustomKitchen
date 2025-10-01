@@ -1,6 +1,6 @@
 import { Metadata } from 'next'
 import { HeroQuiet } from '@/components/HeroQuiet'
-import { CTASection } from '@/components/CTASection'
+import CTASection from '@/components/CTASection'
 import { ProjectGrid } from '@/components/ProjectGrid'
 import Image from 'next/image'
 import Link from 'next/link'

@@ -1,6 +1,6 @@
 import { Metadata } from 'next'
 import { HeroQuiet } from '@/components/HeroQuiet'
-import { CTASection } from '@/components/CTASection'
+import CTASection from '@/components/CTASection'
 import { LocationBreadcrumbs } from '@/components/Breadcrumbs'
 import { StructuredData, generateLocalBusinessSchema } from '@/components/StructuredData'
 
