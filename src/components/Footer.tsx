@@ -21,6 +21,7 @@ const footerNavigation = {
     { name: 'Lake Tahoe', href: '/service-areas/lake-tahoe' },
     { name: 'Central Coast', href: '/service-areas/central-coast' },
     { name: 'Los Angeles', href: '/service-areas/los-angeles' },
+    { name: 'Sacramento', href: '/service-areas/sacramento' },
   ],
 }
 
