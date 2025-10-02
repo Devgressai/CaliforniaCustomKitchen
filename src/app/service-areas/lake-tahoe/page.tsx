@@ -400,17 +400,29 @@ export default function LakeTahoePage() {
               Lake Tahoe Neighborhoods
             </h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
-              We serve all of Lake Tahoe\'s prestigious neighborhoods, from the exclusive lakefront communities to the serene mountain retreats.
+              We serve all of Lake Tahoe\'s prestigious neighborhoods, from the exclusive lakefront communities to the serene mountain retreats. Each area offers unique opportunities for custom kitchen and cabinetry design.
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
-            {neighborhoods.map((neighborhood) => (
-              <div key={neighborhood} className="bg-white p-6 rounded-lg shadow-sm border border-french-gray/20 text-center hover:shadow-md transition-shadow duration-300">
-                <h3 className="font-semibold text-charcoal mb-2">{neighborhood}</h3>
-                <p className="text-sm text-charcoal/70">Custom cabinetry services</p>
-              </div>
-            ))}
+            {neighborhoods.map((neighborhood) => {
+              const neighborhoodSlug = neighborhood.toLowerCase().replace(/\s+/g, '-');
+              return (
+                <Link 
+                  key={neighborhood} 
+                  href={`/service-areas/lake-tahoe/${neighborhoodSlug}`}
+                  className="block bg-white p-6 rounded-lg shadow-sm border border-french-gray/20 text-center hover:shadow-md transition-all duration-300 group"
+                >
+                  <h3 className="font-semibold text-charcoal mb-2 group-hover:text-deep-green transition-colors duration-200">
+                    {neighborhood}
+                  </h3>
+                  <p className="text-sm text-charcoal/70 mb-2">Custom Kitchen Builder</p>
+                  <p className="text-xs text-deep-green font-medium group-hover:text-oxblood transition-colors duration-200">
+                    View Details →
+                  </p>
+                </Link>
+              );
+            })}
           </div>
         </div>
       </section>
