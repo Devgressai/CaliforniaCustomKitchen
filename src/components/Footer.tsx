@@ -14,14 +14,15 @@ const footerNavigation = {
     { name: 'Materials', href: '/materials' },
     { name: 'Portfolio', href: '/portfolio' },
     { name: 'Journal', href: '/journal' },
+    { name: 'Service Areas', href: '/service-areas' },
   ],
-  regions: [
+  mainRegions: [
     { name: 'Silicon Valley', href: '/service-areas/silicon-valley' },
-    { name: 'Marin County', href: '/service-areas/marin-county' },
     { name: 'Lake Tahoe', href: '/service-areas/lake-tahoe' },
-    { name: 'Central Coast', href: '/service-areas/central-coast' },
     { name: 'Los Angeles', href: '/service-areas/los-angeles' },
     { name: 'Sacramento', href: '/service-areas/sacramento' },
+    { name: 'Central Coast', href: '/service-areas/central-coast' },
+    { name: 'Marin County', href: '/service-areas/marin-county' },
   ],
 }
 
@@ -82,8 +83,8 @@ export function Footer() {
           {/* Service Areas */}
           <div>
             <h3 className="font-display text-lg font-semibold mb-6">Service Areas</h3>
-            <ul className="space-y-3">
-              {footerNavigation.regions.map((item) => (
+            <ul className="space-y-3 mb-6">
+              {footerNavigation.mainRegions.map((item) => (
                 <li key={item.name}>
                   <Link
                     href={item.href}
@@ -94,6 +95,12 @@ export function Footer() {
                 </li>
               ))}
             </ul>
+            <Link
+              href="/service-areas"
+              className="inline-block bg-deep-green hover:bg-oxblood text-ivory px-4 py-2 rounded-lg font-semibold text-sm transition-colors duration-200"
+            >
+              View All Service Areas →
+            </Link>
           </div>
         </div>
 
