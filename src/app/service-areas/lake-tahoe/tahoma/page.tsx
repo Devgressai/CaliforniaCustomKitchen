@@ -581,7 +581,7 @@ export default function TahomaPage() {
             "@type": "LocalBusiness",
             "name": "AV's Cabinets - Custom Kitchen Builder in Tahoma",
             "description": "Custom kitchen builder in Tahoma specializing in luxury cabinetry for Lake Tahoe's most exclusive west shore communities.",
-            "url": "https://avscabinets.com/service-areas/lake-tahoe/tahoma",
+            "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/tahoma",
             "telephone": "+1-XXX-XXX-XXXX",
             "address": {
               "@type": "PostalAddress",

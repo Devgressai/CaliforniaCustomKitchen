@@ -23,7 +23,7 @@ const contactMethods = [
   {
     title: 'Email Inquiry',
     description: 'Send us detailed information about your project and we\'ll respond within 24 hours.',
-    contact: 'info@avscabinets.com',
+    contact: 'info@california-custom-kitchen.vercel.app',
     hours: 'Response within 24 hours',
     icon: '✉️'
   },
@@ -437,7 +437,7 @@ export default function ContactPage() {
             <a href="tel:+15551234567" className="bg-ivory text-deep-green px-8 py-4 rounded font-medium hover:bg-ivory/90 transition-colors">
               Call (555) 123-4567
             </a>
-            <a href="mailto:info@avscabinets.com" className="border border-ivory text-ivory px-8 py-4 rounded font-medium hover:bg-ivory hover:text-deep-green transition-colors">
+            <a href="mailto:info@california-custom-kitchen.vercel.app" className="border border-ivory text-ivory px-8 py-4 rounded font-medium hover:bg-ivory hover:text-deep-green transition-colors">
               Email Us
             </a>
           </div>

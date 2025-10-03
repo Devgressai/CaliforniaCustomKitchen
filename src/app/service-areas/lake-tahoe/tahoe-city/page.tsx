@@ -581,7 +581,7 @@ export default function TahoeCityPage() {
             "@type": "LocalBusiness",
             "name": "AV's Cabinets - Custom Kitchen Builder in Tahoe City",
             "description": "Custom kitchen builder in Tahoe City specializing in luxury cabinetry for Lake Tahoe's most prestigious lakefront estates.",
-            "url": "https://avscabinets.com/service-areas/lake-tahoe/tahoe-city",
+            "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/tahoe-city",
             "telephone": "+1-XXX-XXX-XXXX",
             "address": {
               "@type": "PostalAddress",

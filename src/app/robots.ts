@@ -28,7 +28,7 @@ export default function robots(): MetadataRoute.Robots {
         ]
       }
     ],
-    sitemap: 'https://avscabinets.com/sitemap.xml',
-    host: 'https://avscabinets.com'
+    sitemap: 'https://california-custom-kitchen.vercel.app/sitemap.xml',
+    host: 'https://california-custom-kitchen.vercel.app'
   }
 }

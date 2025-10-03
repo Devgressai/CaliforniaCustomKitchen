@@ -581,7 +581,7 @@ export default function HomewoodPage() {
             "@type": "LocalBusiness",
             "name": "AV's Cabinets - Custom Kitchen Builder in Homewood",
             "description": "Custom kitchen builder in Homewood specializing in luxury cabinetry for Lake Tahoe's most serene lakefront communities.",
-            "url": "https://avscabinets.com/service-areas/lake-tahoe/homewood",
+            "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/homewood",
             "telephone": "+1-XXX-XXX-XXXX",
             "address": {
               "@type": "PostalAddress",

@@ -28,14 +28,14 @@ export const metadata: Metadata = {
     address: false,
     telephone: false,
   },
-  metadataBase: new URL('https://avscabinets.com'),
+  metadataBase: new URL('https://california-custom-kitchen.vercel.app'),
   alternates: {
     canonical: '/',
   },
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://avscabinets.com',
+    url: 'https://california-custom-kitchen.vercel.app',
     siteName: "AV's Cabinets",
     title: "AV's Cabinets | Custom Kitchens & Bespoke Cabinetry",
     description: "Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork for California's finest homes.",
@@ -83,8 +83,8 @@ export default function RootLayout({
               "@type": "Organization",
               "name": "AV's Cabinets",
               "description": "Custom kitchens, bespoke cabinetry, and architectural millwork",
-              "url": "https://avscabinets.com",
-              "logo": "https://avscabinets.com/images/logo.svg",
+              "url": "https://california-custom-kitchen.vercel.app",
+              "logo": "https://california-custom-kitchen.vercel.app/images/logo.svg",
               "contactPoint": {
                 "@type": "ContactPoint",
                 "telephone": "+1-XXX-XXX-XXXX",

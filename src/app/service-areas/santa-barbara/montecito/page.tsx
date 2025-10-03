@@ -62,7 +62,7 @@ export default function MontecitoPage() {
             "@type": "LocalBusiness",
             "name": "AV's Cabinets - Montecito",
             "description": "Custom kitchen cabinets and luxury cabinetry for Montecito, California",
-            "url": "https://avscabinets.com/service-areas/santa-barbara/montecito",
+            "url": "https://california-custom-kitchen.vercel.app/service-areas/santa-barbara/montecito",
             "telephone": "+1-XXX-XXX-XXXX",
             "address": {
               "@type": "PostalAddress",

@@ -581,7 +581,7 @@ export default function RubiconBayPage() {
             "@type": "LocalBusiness",
             "name": "AV's Cabinets - Custom Kitchen Builder in Rubicon Bay",
             "description": "Custom kitchen builder in Rubicon Bay specializing in luxury cabinetry for Lake Tahoe's most exclusive west shore communities.",
-            "url": "https://avscabinets.com/service-areas/lake-tahoe/rubicon-bay",
+            "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/rubicon-bay",
             "telephone": "+1-XXX-XXX-XXXX",
             "address": {
               "@type": "PostalAddress",

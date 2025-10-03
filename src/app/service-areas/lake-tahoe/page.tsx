@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
+import { Breadcrumbs } from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
   title: 'Custom Kitchens Lake Tahoe | Luxury Cabinetry | AV\'s Cabinets California',
@@ -139,6 +140,18 @@ const localMaterials = [
 export default function LakeTahoePage() {
   return (
     <div className="min-h-screen bg-ivory">
+      {/* Breadcrumbs */}
+      <section className="bg-ivory py-6">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <Breadcrumbs 
+            items={[
+              { name: 'Service Areas', href: '/service-areas' },
+              { name: 'Lake Tahoe', href: '/service-areas/lake-tahoe', current: true }
+            ]} 
+          />
+        </div>
+      </section>
+
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">

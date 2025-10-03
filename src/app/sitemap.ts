@@ -1,7 +1,7 @@
 import { MetadataRoute } from 'next'
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://avscabinets.com'
+  const baseUrl = 'https://california-custom-kitchen.vercel.app'
   const currentDate = new Date()
 
   // Static pages

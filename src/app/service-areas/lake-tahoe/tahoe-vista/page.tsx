@@ -581,7 +581,7 @@ export default function TahoeVistaPage() {
             "@type": "LocalBusiness",
             "name": "AV's Cabinets - Custom Kitchen Builder in Tahoe Vista",
             "description": "Custom kitchen builder in Tahoe Vista specializing in luxury cabinetry for Lake Tahoe's most charming lakefront communities.",
-            "url": "https://avscabinets.com/service-areas/lake-tahoe/tahoe-vista",
+            "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/tahoe-vista",
             "telephone": "+1-XXX-XXX-XXXX",
             "address": {
               "@type": "PostalAddress",

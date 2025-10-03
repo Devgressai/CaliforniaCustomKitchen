@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { Metadata } from 'next'
+import { Breadcrumbs } from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
   title: 'Service Areas | AV\'s Cabinets - Custom Kitchen Builder California',
@@ -74,6 +75,17 @@ const serviceAreas = {
 export default function ServiceAreasPage() {
   return (
     <div className="min-h-screen bg-ivory">
+      {/* Breadcrumbs */}
+      <section className="bg-ivory py-6">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <Breadcrumbs 
+            items={[
+              { name: 'Service Areas', href: '/service-areas', current: true }
+            ]} 
+          />
+        </div>
+      </section>
+
       {/* Hero Section */}
       <section className="bg-charcoal text-ivory py-24">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
@@ -175,7 +187,7 @@ export default function ServiceAreasPage() {
             "provider": {
               "@type": "Organization",
               "name": "AV's Cabinets",
-              "url": "https://avscabinets.com"
+              "url": "https://california-custom-kitchen.vercel.app"
             },
             "areaServed": Object.values(serviceAreas).flat().map(area => ({
               "@type": "Place",

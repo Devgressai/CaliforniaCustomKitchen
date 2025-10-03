@@ -581,7 +581,7 @@ export default function SouthLakeTahoePage() {
             "@type": "LocalBusiness",
             "name": "AV's Cabinets - Custom Kitchen Builder in South Lake Tahoe",
             "description": "Custom kitchen builder in South Lake Tahoe specializing in luxury cabinetry for Lake Tahoe's most vibrant mountain communities.",
-            "url": "https://avscabinets.com/service-areas/lake-tahoe/south-lake-tahoe",
+            "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/south-lake-tahoe",
             "telephone": "+1-XXX-XXX-XXXX",
             "address": {
               "@type": "PostalAddress",

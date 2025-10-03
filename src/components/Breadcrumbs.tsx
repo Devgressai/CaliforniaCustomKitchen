@@ -24,7 +24,7 @@ export function Breadcrumbs({ items, className = '' }: BreadcrumbsProps) {
   const breadcrumbSchema = generateBreadcrumbSchema(
     allItems.map(item => ({
       name: item.name,
-      url: `https://avscabinets.com${item.href}`
+      url: `https://california-custom-kitchen.vercel.app${item.href}`
     }))
   )
 

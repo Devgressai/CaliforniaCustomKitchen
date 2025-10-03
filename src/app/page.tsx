@@ -12,7 +12,7 @@ export const metadata: Metadata = {
     title: 'AV\'s Cabinets | Custom Kitchens & Bespoke Cabinetry',
     description: 'Luxury custom kitchens and bespoke cabinetry for California\'s most discerning clients.',
     type: 'website',
-    url: 'https://avscabinets.com',
+    url: 'https://california-custom-kitchen.vercel.app',
     images: [
       {
         url: '/images/portfolio/gallery-luxury-custom-kitchen-1-sacramento-california.webp',

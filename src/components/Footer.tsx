@@ -16,21 +16,71 @@ const footerNavigation = {
     { name: 'Journal', href: '/journal' },
     { name: 'Service Areas', href: '/service-areas' },
   ],
-  mainRegions: [
-    { name: 'Silicon Valley', href: '/service-areas/silicon-valley' },
-    { name: 'Lake Tahoe', href: '/service-areas/lake-tahoe' },
-    { name: 'Los Angeles', href: '/service-areas/los-angeles' },
-    { name: 'Sacramento', href: '/service-areas/sacramento' },
-    { name: 'Central Coast', href: '/service-areas/central-coast' },
-    { name: 'Marin County', href: '/service-areas/marin-county' },
-  ],
+  serviceAreas: {
+    'Northern California': [
+      { name: 'Silicon Valley', href: '/service-areas/silicon-valley' },
+      { name: 'Atherton', href: '/service-areas/silicon-valley/atherton' },
+      { name: 'Palo Alto', href: '/service-areas/silicon-valley/palo-alto' },
+      { name: 'Marin County', href: '/service-areas/marin-county' },
+      { name: 'Sacramento', href: '/service-areas/sacramento' },
+      { name: 'Auburn', href: '/service-areas/sacramento/auburn' },
+      { name: 'El Dorado Hills', href: '/service-areas/sacramento/el-dorado-hills' },
+      { name: 'Grass Valley', href: '/service-areas/sacramento/grass-valley' },
+      { name: 'Loomis', href: '/service-areas/sacramento/loomis' },
+      { name: 'Nevada City', href: '/service-areas/sacramento/nevada-city' },
+      { name: 'Newcastle', href: '/service-areas/sacramento/newcastle' },
+      { name: 'Roseville', href: '/service-areas/sacramento/roseville' },
+      { name: 'Napa Valley', href: '/service-areas/napa-valley' },
+      { name: 'Sonoma County', href: '/service-areas/sonoma-county' },
+      { name: 'Truckee', href: '/service-areas/truckee' },
+      { name: 'San Francisco', href: '/service-areas/san-francisco' },
+      { name: 'Pacific Heights', href: '/service-areas/san-francisco/pacific-heights' },
+    ],
+    'Lake Tahoe': [
+      { name: 'Lake Tahoe', href: '/service-areas/lake-tahoe' },
+      { name: 'Carnelian Bay', href: '/service-areas/lake-tahoe/carnelian-bay' },
+      { name: 'Crystal Bay', href: '/service-areas/lake-tahoe/crystal-bay' },
+      { name: 'Emerald Bay', href: '/service-areas/lake-tahoe/emerald-bay' },
+      { name: 'Homewood', href: '/service-areas/lake-tahoe/homewood' },
+      { name: 'Incline Village', href: '/service-areas/lake-tahoe/incline-village' },
+      { name: 'Kings Beach', href: '/service-areas/lake-tahoe/kings-beach' },
+      { name: 'Meeks Bay', href: '/service-areas/lake-tahoe/meeks-bay' },
+      { name: 'Rubicon Bay', href: '/service-areas/lake-tahoe/rubicon-bay' },
+      { name: 'South Lake Tahoe', href: '/service-areas/lake-tahoe/south-lake-tahoe' },
+      { name: 'Tahoe City', href: '/service-areas/lake-tahoe/tahoe-city' },
+      { name: 'Tahoe Vista', href: '/service-areas/lake-tahoe/tahoe-vista' },
+      { name: 'Tahoma', href: '/service-areas/lake-tahoe/tahoma' },
+    ],
+    'Central California': [
+      { name: 'Central Coast', href: '/service-areas/central-coast' },
+      { name: 'Pebble Beach', href: '/service-areas/central-coast/pebble-beach' },
+      { name: 'Santa Barbara', href: '/service-areas/santa-barbara' },
+      { name: 'Montecito', href: '/service-areas/santa-barbara/montecito' },
+    ],
+    'Southern California': [
+      { name: 'Los Angeles', href: '/service-areas/los-angeles' },
+      { name: 'Beverly Hills', href: '/service-areas/los-angeles/beverly-hills' },
+      { name: 'Bel Air', href: '/service-areas/los-angeles/bel-air' },
+      { name: 'Brentwood', href: '/service-areas/los-angeles/brentwood' },
+      { name: 'Calabasas', href: '/service-areas/los-angeles/calabasas' },
+      { name: 'Hollywood Hills', href: '/service-areas/los-angeles/hollywood-hills' },
+      { name: 'Malibu', href: '/service-areas/los-angeles/malibu' },
+      { name: 'Manhattan Beach', href: '/service-areas/los-angeles/manhattan-beach' },
+      { name: 'Newport Beach', href: '/service-areas/los-angeles/newport-beach' },
+      { name: 'Pasadena', href: '/service-areas/los-angeles/pasadena' },
+      { name: 'Orange County', href: '/service-areas/orange-county' },
+      { name: 'San Diego County', href: '/service-areas/san-diego-county' },
+      { name: 'La Jolla', href: '/service-areas/la-jolla' },
+      { name: 'Palm Springs', href: '/service-areas/palm-springs' },
+    ],
+  },
 }
 
 export function Footer() {
   return (
     <footer className="bg-charcoal text-ivory">
       <div className="max-w-7xl mx-auto px-6 lg:px-8 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-8 lg:gap-12">
           {/* Brand */}
           <div className="lg:col-span-1">
             <Link href="/" className="inline-block">
@@ -80,27 +130,73 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Service Areas */}
+          {/* Service Areas - Northern California */}
           <div>
-            <h3 className="font-display text-lg font-semibold mb-6">Service Areas</h3>
-            <ul className="space-y-3 mb-6">
-              {footerNavigation.mainRegions.map((item) => (
+            <h3 className="font-display text-lg font-semibold mb-6">Northern California</h3>
+            <ul className="space-y-2">
+              {footerNavigation.serviceAreas['Northern California'].map((item) => (
                 <li key={item.name}>
                   <Link
                     href={item.href}
-                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-sm"
+                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
                   >
                     {item.name}
                   </Link>
                 </li>
               ))}
             </ul>
-            <Link
-              href="/service-areas"
-              className="inline-block bg-deep-green hover:bg-oxblood text-ivory px-4 py-2 rounded-lg font-semibold text-sm transition-colors duration-200"
-            >
-              View All Service Areas →
-            </Link>
+          </div>
+
+          {/* Service Areas - Lake Tahoe */}
+          <div>
+            <h3 className="font-display text-lg font-semibold mb-6">Lake Tahoe</h3>
+            <ul className="space-y-2">
+              {footerNavigation.serviceAreas['Lake Tahoe'].map((item) => (
+                <li key={item.name}>
+                  <Link
+                    href={item.href}
+                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
+                  >
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Service Areas - Central & Southern California */}
+          <div>
+            <div className="mb-6">
+              <h3 className="font-display text-lg font-semibold mb-4">Central California</h3>
+              <ul className="space-y-2 mb-6">
+                {footerNavigation.serviceAreas['Central California'].map((item) => (
+                  <li key={item.name}>
+                    <Link
+                      href={item.href}
+                      className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
+                    >
+                      {item.name}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            <div>
+              <h3 className="font-display text-lg font-semibold mb-4">Southern California</h3>
+              <ul className="space-y-2">
+                {footerNavigation.serviceAreas['Southern California'].map((item) => (
+                  <li key={item.name}>
+                    <Link
+                      href={item.href}
+                      className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
+                    >
+                      {item.name}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
           </div>
         </div>
 

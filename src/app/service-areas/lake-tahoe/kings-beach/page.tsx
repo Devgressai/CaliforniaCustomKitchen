@@ -581,7 +581,7 @@ export default function KingsBeachPage() {
             "@type": "LocalBusiness",
             "name": "AV's Cabinets - Custom Kitchen Builder in Kings Beach",
             "description": "Custom kitchen builder in Kings Beach specializing in luxury cabinetry for Lake Tahoe's most vibrant lakefront communities.",
-            "url": "https://avscabinets.com/service-areas/lake-tahoe/kings-beach",
+            "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/kings-beach",
             "telephone": "+1-XXX-XXX-XXXX",
             "address": {
               "@type": "PostalAddress",

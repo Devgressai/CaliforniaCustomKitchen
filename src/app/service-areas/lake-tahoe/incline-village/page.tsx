@@ -581,7 +581,7 @@ export default function InclineVillagePage() {
             "@type": "LocalBusiness",
             "name": "AV's Cabinets - Custom Kitchen Builder in Incline Village",
             "description": "Custom kitchen builder in Incline Village specializing in luxury cabinetry for Lake Tahoe's most prestigious mountain estates.",
-            "url": "https://avscabinets.com/service-areas/lake-tahoe/incline-village",
+            "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/incline-village",
             "telephone": "+1-XXX-XXX-XXXX",
             "address": {
               "@type": "PostalAddress",

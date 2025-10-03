@@ -174,8 +174,8 @@ export function StructuredData({
 export const organizationSchema: OrganizationData = {
   name: "AV's Cabinets",
   description: "Custom kitchens, bespoke cabinetry, and architectural millwork for California's finest homes",
-  url: "https://avscabinets.com",
-  logo: "https://avscabinets.com/images/logo.svg",
+  url: "https://california-custom-kitchen.vercel.app",
+  logo: "https://california-custom-kitchen.vercel.app/images/logo.svg",
   address: {
     addressLocality: "California",
     addressRegion: "CA",

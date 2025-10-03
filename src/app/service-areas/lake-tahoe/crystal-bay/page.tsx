@@ -581,7 +581,7 @@ export default function CrystalBayPage() {
             "@type": "LocalBusiness",
             "name": "AV's Cabinets - Custom Kitchen Builder in Crystal Bay",
             "description": "Custom kitchen builder in Crystal Bay specializing in luxury cabinetry for Lake Tahoe's most exclusive alpine communities.",
-            "url": "https://avscabinets.com/service-areas/lake-tahoe/crystal-bay",
+            "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/crystal-bay",
             "telephone": "+1-XXX-XXX-XXXX",
             "address": {
               "@type": "PostalAddress",

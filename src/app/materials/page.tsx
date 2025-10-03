@@ -3,6 +3,7 @@ import { HeroQuiet } from '@/components/HeroQuiet'
 import CTASection from '@/components/CTASection'
 import Image from 'next/image'
 import Link from 'next/link'
+import { Breadcrumbs } from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
   title: "Premium Materials | Custom Kitchen Cabinetry Woods & Finishes",
@@ -26,6 +27,17 @@ export const metadata: Metadata = {
 export default function MaterialsPage() {
   return (
     <>
+      {/* Breadcrumbs */}
+      <section className="bg-ivory py-6">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <Breadcrumbs 
+            items={[
+              { name: 'Materials', href: '/materials', current: true }
+            ]} 
+          />
+        </div>
+      </section>
+
       <HeroQuiet
         title="Materials as Art"
         subtitle="Curated Excellence"

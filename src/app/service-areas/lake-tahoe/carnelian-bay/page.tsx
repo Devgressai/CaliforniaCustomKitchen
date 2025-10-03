@@ -1,6 +1,7 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 import Image from 'next/image'
+import { Breadcrumbs } from '@/components/Breadcrumbs'
 
 export const metadata: Metadata = {
   title: 'Custom Kitchen Builder in Carnelian Bay | Luxury Cabinetry | AV\'s Cabinets',
@@ -168,19 +169,17 @@ export default function CarnelianBayPage() {
   return (
     <main className="min-h-screen">
       {/* Breadcrumbs */}
-      <nav className="bg-french-gray/10 py-4">
+      <section className="bg-ivory py-6">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
-          <ol className="flex items-center space-x-2 text-sm">
-            <li><Link href="/" className="text-deep-green hover:text-deep-green/80">Home</Link></li>
-            <li className="text-charcoal/60">/</li>
-            <li><Link href="/service-areas" className="text-deep-green hover:text-deep-green/80">Service Areas</Link></li>
-            <li className="text-charcoal/60">/</li>
-            <li><Link href="/service-areas/lake-tahoe" className="text-deep-green hover:text-deep-green/80">Lake Tahoe</Link></li>
-            <li className="text-charcoal/60">/</li>
-            <li className="text-charcoal">Carnelian Bay</li>
-          </ol>
+          <Breadcrumbs 
+            items={[
+              { name: 'Service Areas', href: '/service-areas' },
+              { name: 'Lake Tahoe', href: '/service-areas/lake-tahoe' },
+              { name: 'Carnelian Bay', href: '/service-areas/lake-tahoe/carnelian-bay', current: true }
+            ]} 
+          />
         </div>
-      </nav>
+      </section>
 
       {/* Hero Section */}
       <section className="relative h-[60vh] flex items-center justify-center overflow-hidden">
@@ -581,7 +580,7 @@ export default function CarnelianBayPage() {
             "@type": "LocalBusiness",
             "name": "AV's Cabinets - Custom Kitchen Builder in Carnelian Bay",
             "description": "Custom kitchen builder in Carnelian Bay specializing in luxury cabinetry for Lake Tahoe's most exclusive lakefront estates.",
-            "url": "https://avscabinets.com/service-areas/lake-tahoe/carnelian-bay",
+            "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/carnelian-bay",
             "telephone": "+1-XXX-XXX-XXXX",
             "address": {
               "@type": "PostalAddress",
