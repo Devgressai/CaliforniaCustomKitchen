@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     'design development process'
   ],
   openGraph: {
-    title: "Our Process | AV's Cabinets",
+    title: "Our Process | PineWood Cabinets",
     description: "Meticulous 6-phase process for creating custom kitchens and cabinetry with uncompromising craftsmanship.",
     images: ['/images/process-hero.webp'],
   },
@@ -30,7 +30,7 @@ export default function ProcessPage() {
         subtitle="Our Six-Phase Process"
         description="From the first conversation to the final installation detail, every step in our process is designed to exceed expectations while honoring the traditions of fine craftsmanship."
         imageSrc="/images/process-hero.webp"
-        imageAlt="Master craftsman working on custom cabinetry in AV's Cabinets workshop showing attention to detail"
+        imageAlt="Master craftsman working on custom cabinetry in PineWood Cabinets workshop showing attention to detail"
         primaryCTA={{
           text: "Begin Your Journey",
           href: "/contact"
@@ -56,7 +56,7 @@ export default function ProcessPage() {
                 This systematic approach allows us to navigate the complex intersection of aesthetic vision, functional requirements, and technical constraints while providing multiple opportunities for refinement and approval. Each phase builds upon the previous, creating a foundation of understanding and agreement that supports the exceptional craftsmanship for which we are known.
               </p>
               <p className="text-base leading-relaxed text-charcoal/70">
-                Whether you are renovating a historic estate in Montecito or creating a contemporary masterpiece in Atherton, our process adapts to your unique requirements while maintaining the standards of excellence that define every AV's Cabinets project. The result is not just beautiful cabinetry, but a collaborative experience that honors both your vision and our commitment to craftsmanship.
+                Whether you are renovating a historic estate in Montecito or creating a contemporary masterpiece in Atherton, our process adapts to your unique requirements while maintaining the standards of excellence that define every PineWood Cabinets project. The result is not just beautiful cabinetry, but a collaborative experience that honors both your vision and our commitment to craftsmanship.
               </p>
             </div>
           </div>
@@ -650,7 +650,7 @@ export default function ProcessPage() {
             <div className="relative">
               <Image
                 src="/images/process/architect-designer-collaboration.webp"
-                alt="Collaborative meeting between AV's Cabinets team and architects reviewing project drawings"
+                alt="Collaborative meeting between PineWood Cabinets team and architects reviewing project drawings"
                 width={600}
                 height={800}
                 className="rounded-lg shadow-2xl"

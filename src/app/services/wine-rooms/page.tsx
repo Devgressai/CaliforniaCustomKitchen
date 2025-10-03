@@ -166,7 +166,7 @@ const processSteps = [
 
 const testimonials = [
   {
-    quote: "The wine cellar AV's Cabinets created for us is absolutely perfect. The climate control is precise, the racking is beautiful, and our collection has never been better organized.",
+    quote: "The wine cellar PineWood Cabinets created for us is absolutely perfect. The climate control is precise, the racking is beautiful, and our collection has never been better organized.",
     author: "Robert Martinez",
     location: "Napa Valley, CA",
     project: "Climate-Controlled Wine Cellar"

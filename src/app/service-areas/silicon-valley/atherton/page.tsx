@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     'luxury home renovations Silicon Valley'
   ],
   openGraph: {
-    title: "Custom Kitchen Cabinets Atherton CA | AV's Cabinets",
+    title: "Custom Kitchen Cabinets Atherton CA | PineWood Cabinets",
     description: "Museum-grade custom kitchens for Atherton's most discerning homeowners. Serving Silicon Valley's tech elite with uncompromising craftsmanship.",
     images: ['/images/atherton-estate-kitchen-hero.webp'],
   },
@@ -95,7 +95,7 @@ export default function AthertonPage() {
             </h1>
             <div className="prose-luxury">
               <p className="text-xl leading-relaxed text-charcoal/80 mb-8">
-                In Atherton—America's most expensive zip code and home to tech titans, venture capitalists, and visionary entrepreneurs—exceptional homes demand exceptional craftsmanship. Since 2006, AV's Cabinets has served as the preferred cabinetry artisan for Silicon Valley's most discerning residents, creating custom kitchens and architectural millwork that reflect both the innovation spirit of the Valley and the timeless principles of fine craftsmanship.
+                In Atherton—America's most expensive zip code and home to tech titans, venture capitalists, and visionary entrepreneurs—exceptional homes demand exceptional craftsmanship. Since 2006, PineWood Cabinets has served as the preferred cabinetry artisan for Silicon Valley's most discerning residents, creating custom kitchens and architectural millwork that reflect both the innovation spirit of the Valley and the timeless principles of fine craftsmanship.
               </p>
               <p className="text-lg leading-relaxed text-charcoal/70 mb-6">
                 Our Atherton clients represent the pinnacle of achievement in technology, finance, and entrepreneurship—individuals who have revolutionized industries and shaped the global economy. They understand that true luxury lies not in ostentation, but in the quiet confidence of uncompromising quality, meticulous attention to detail, and the kind of craftsmanship that improves with age rather than diminishing over time.
@@ -693,7 +693,7 @@ export default function AthertonPage() {
           <div className="space-y-8">
             {[
               {
-                question: "What makes AV's Cabinets the preferred choice for Atherton's tech elite?",
+                question: "What makes PineWood Cabinets the preferred choice for Atherton's tech elite?",
                 answer: "Our clients choose us because we understand the intersection of innovation and tradition that defines Silicon Valley leadership. We combine cutting-edge engineering and manufacturing techniques with time-honored craftsmanship traditions, creating cabinetry that reflects the same pursuit of excellence that drives success in technology and business. Our ability to integrate smart home technology, accommodate complex entertaining requirements, and deliver museum-quality finishing sets us apart in serving the unique needs of Atherton residents."
               },
               {
@@ -741,7 +741,7 @@ export default function AthertonPage() {
       {/* Final CTA */}
       <CTASection
         title="Ready to Begin Your Atherton Kitchen Journey?"
-        description="Join Silicon Valley's most discerning homeowners who have chosen AV's Cabinets for their custom cabinetry needs. Schedule a private consultation to discuss how we can bring your vision to life with uncompromising craftsmanship."
+        description="Join Silicon Valley's most discerning homeowners who have chosen PineWood Cabinets for their custom cabinetry needs. Schedule a private consultation to discuss how we can bring your vision to life with uncompromising craftsmanship."
         primaryCTA={{
           text: "Schedule Private Consultation",
           href: "/contact"

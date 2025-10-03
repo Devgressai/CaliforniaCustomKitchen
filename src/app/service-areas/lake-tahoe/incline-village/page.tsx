@@ -579,7 +579,7 @@ export default function InclineVillagePage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "AV's Cabinets - Custom Kitchen Builder in Incline Village",
+            "name": "PineWood Cabinets - Custom Kitchen Builder in Incline Village",
             "description": "Custom kitchen builder in Incline Village specializing in luxury cabinetry for Lake Tahoe's most prestigious mountain estates.",
             "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/incline-village",
             "telephone": "+1-XXX-XXX-XXXX",

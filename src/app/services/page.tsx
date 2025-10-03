@@ -2,13 +2,25 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Luxury Kitchen & Cabinet Services | Custom Design | AV\'s Cabinets',
-  description: 'Discover our comprehensive luxury cabinetry services: custom kitchens, bespoke cabinetry, architectural millwork, and storage solutions for California\'s most discerning clientele.',
+  title: 'Luxury Kitchen & Cabinet Services | Custom Design | PineWood Cabinets',
+  description: 'Luxury cabinetry services: custom kitchens, bespoke cabinetry, architectural millwork, and storage solutions for California\'s most discerning clientele.',
   keywords: 'luxury kitchen services, custom cabinetry, bespoke millwork, kitchen design, cabinet installation, California cabinetry, high-end kitchens',
+  alternates: {
+    canonical: '/services',
+  },
   openGraph: {
-    title: 'Luxury Kitchen & Cabinet Services | AV\'s Cabinets',
+    title: 'Luxury Kitchen & Cabinet Services | PineWood Cabinets',
     description: 'Comprehensive luxury cabinetry services for California\'s most discerning clientele.',
     type: 'website',
+    url: 'https://california-custom-kitchen.vercel.app/services',
+    images: [
+      {
+        url: '/images/services/luxury-kitchen-services.webp',
+        width: 1200,
+        height: 630,
+        alt: 'Luxury kitchen and cabinet services by PineWood Cabinets',
+      },
+    ],
   },
 }
 

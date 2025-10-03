@@ -286,14 +286,14 @@ export default function PortfolioPage() {
               Client Testimonials
             </h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
-              The satisfaction of our clients is the ultimate measure of our success. Here's what they say about working with AV's Cabinets.
+              The satisfaction of our clients is the ultimate measure of our success. Here's what they say about working with PineWood Cabinets.
             </p>
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
             <div className="bg-ivory/10 p-8 rounded-lg">
               <p className="text-french-gray mb-6 italic">
-                "AV's Cabinets transformed our kitchen into a work of art. The attention to detail and craftsmanship is simply extraordinary. Every day, I'm reminded of the care that went into creating this space."
+                "PineWood Cabinets transformed our kitchen into a work of art. The attention to detail and craftsmanship is simply extraordinary. Every day, I'm reminded of the care that went into creating this space."
               </p>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-deep-green rounded-full flex items-center justify-center text-ivory font-bold mr-4">
@@ -323,7 +323,7 @@ export default function PortfolioPage() {
 
             <div className="bg-ivory/10 p-8 rounded-lg">
               <p className="text-french-gray mb-6 italic">
-                "Working with AV's Cabinets was a pleasure from start to finish. Their process is transparent, their craftsmanship is impeccable, and the final result exceeded our expectations."
+                "Working with PineWood Cabinets was a pleasure from start to finish. Their process is transparent, their craftsmanship is impeccable, and the final result exceeded our expectations."
               </p>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-deep-green rounded-full flex items-center justify-center text-ivory font-bold mr-4">

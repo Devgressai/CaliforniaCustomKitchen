@@ -166,7 +166,7 @@ const processSteps = [
 
 const testimonials = [
   {
-    quote: "The master bathroom vanity AV's Cabinets created for us is absolutely stunning. The custom sizing and storage solutions make our morning routine so much more enjoyable.",
+    quote: "The master bathroom vanity PineWood Cabinets created for us is absolutely stunning. The custom sizing and storage solutions make our morning routine so much more enjoyable.",
     author: "Lisa Rodriguez",
     location: "Beverly Hills, CA",
     project: "Master Bathroom Vanity"

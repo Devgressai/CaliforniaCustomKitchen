@@ -16,7 +16,7 @@ export function OptimizedImage({
   ...props 
 }: OptimizedImageProps) {
   const imagePath = `/images/${filename}`
-  const imageAlt = alt || `AV's Cabinets custom cabinetry`
+  const imageAlt = alt || `PineWood Cabinets custom cabinetry`
   
   return (
     <Image

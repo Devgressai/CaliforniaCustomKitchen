@@ -186,7 +186,7 @@ export default function ServiceAreasPage() {
             "description": "Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork for California's finest homes",
             "provider": {
               "@type": "Organization",
-              "name": "AV's Cabinets",
+              "name": "PineWood Cabinets",
               "url": "https://california-custom-kitchen.vercel.app"
             },
             "areaServed": Object.values(serviceAreas).flat().map(area => ({

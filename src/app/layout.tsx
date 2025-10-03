@@ -5,24 +5,30 @@ import { Footer } from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: {
-    default: "AV's Cabinets | Custom Kitchens & Bespoke Cabinetry | California",
-    template: "%s | AV's Cabinets"
+    default: "PineWood Cabinets | Custom Kitchens & Bespoke Cabinetry | California",
+    template: "%s | PineWood Cabinets"
   },
   description: "Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork for California's finest homes. Serving Silicon Valley, Marin, Lake Tahoe, and beyond since 2006.",
   keywords: [
-    'custom kitchens',
-    'bespoke cabinetry',
-    'architectural millwork',
-    'luxury cabinetry',
-    'custom millwork',
-    'California',
-    'Silicon Valley',
-    'Marin County',
-    'Lake Tahoe'
+    'custom kitchens California',
+    'luxury cabinetry Silicon Valley',
+    'bespoke cabinetry Beverly Hills',
+    'custom kitchen cabinets Atherton',
+    'architectural millwork Marin County',
+    'luxury kitchen design Malibu',
+    'custom cabinets Pacific Heights',
+    'high-end kitchen renovation',
+    'premium cabinetry Los Angeles',
+    'custom millwork San Francisco',
+    'kitchen design consultation',
+    'luxury home renovation',
+    'custom storage solutions',
+    'wine cellar design',
+    'kitchen remodeling California'
   ],
-  authors: [{ name: "AV's Cabinets" }],
-  creator: "AV's Cabinets",
-  publisher: "AV's Cabinets",
+  authors: [{ name: "PineWood Cabinets" }],
+  creator: "PineWood Cabinets",
+  publisher: "PineWood Cabinets",
   formatDetection: {
     email: false,
     address: false,
@@ -36,21 +42,21 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'en_US',
     url: 'https://california-custom-kitchen.vercel.app',
-    siteName: "AV's Cabinets",
-    title: "AV's Cabinets | Custom Kitchens & Bespoke Cabinetry",
+    siteName: "PineWood Cabinets",
+    title: "PineWood Cabinets | Custom Kitchens & Bespoke Cabinetry",
     description: "Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork for California's finest homes.",
     images: [
       {
         url: '/images/portfolio/gallery-luxury-custom-kitchen-1-sacramento-california.webp',
         width: 1200,
         height: 630,
-        alt: "AV's Cabinets - Custom Kitchen Cabinetry",
+        alt: "PineWood Cabinets - Custom Kitchen Cabinetry",
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: "AV's Cabinets | Custom Kitchens & Bespoke Cabinetry",
+    title: "PineWood Cabinets | Custom Kitchens & Bespoke Cabinetry",
     description: "Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork for California's finest homes.",
     images: ['/images/portfolio/gallery-luxury-custom-kitchen-1-sacramento-california.webp'],
   },
@@ -81,21 +87,61 @@ export default function RootLayout({
             __html: JSON.stringify({
               "@context": "https://schema.org",
               "@type": "Organization",
-              "name": "AV's Cabinets",
-              "description": "Custom kitchens, bespoke cabinetry, and architectural millwork",
+              "name": "PineWood Cabinets",
+              "description": "Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork for California's finest homes",
               "url": "https://california-custom-kitchen.vercel.app",
               "logo": "https://california-custom-kitchen.vercel.app/images/logo.svg",
+              "foundingDate": "2006",
               "contactPoint": {
                 "@type": "ContactPoint",
                 "telephone": "+1-XXX-XXX-XXXX",
                 "contactType": "customer service",
-                "availableLanguage": "English"
+                "availableLanguage": "English",
+                "areaServed": "California"
               },
               "address": {
                 "@type": "PostalAddress",
                 "addressLocality": "California",
+                "addressRegion": "CA",
                 "addressCountry": "US"
               },
+              "areaServed": [
+                {
+                  "@type": "City",
+                  "name": "Atherton",
+                  "sameAs": "https://en.wikipedia.org/wiki/Atherton,_California"
+                },
+                {
+                  "@type": "City", 
+                  "name": "Beverly Hills",
+                  "sameAs": "https://en.wikipedia.org/wiki/Beverly_Hills,_California"
+                },
+                {
+                  "@type": "City",
+                  "name": "Malibu",
+                  "sameAs": "https://en.wikipedia.org/wiki/Malibu,_California"
+                },
+                {
+                  "@type": "City",
+                  "name": "Palo Alto",
+                  "sameAs": "https://en.wikipedia.org/wiki/Palo_Alto,_California"
+                },
+                {
+                  "@type": "City",
+                  "name": "San Francisco",
+                  "sameAs": "https://en.wikipedia.org/wiki/San_Francisco"
+                }
+              ],
+              "serviceType": [
+                "Custom Kitchen Cabinets",
+                "Luxury Cabinetry",
+                "Architectural Millwork",
+                "Bespoke Furniture",
+                "Kitchen Design",
+                "Cabinet Refacing",
+                "Custom Storage Solutions"
+              ],
+              "priceRange": "$$$",
               "sameAs": []
             })
           }}

@@ -166,7 +166,7 @@ const processSteps = [
 
 const testimonials = [
   {
-    quote: "The library AV's Cabinets created for us is absolutely magnificent. The floor-to-ceiling bookcases and rolling ladder make it feel like a scene from a movie. It's our favorite room in the house.",
+    quote: "The library PineWood Cabinets created for us is absolutely magnificent. The floor-to-ceiling bookcases and rolling ladder make it feel like a scene from a movie. It's our favorite room in the house.",
     author: "Dr. Margaret Thompson",
     location: "Pacific Heights, San Francisco",
     project: "Custom Library"

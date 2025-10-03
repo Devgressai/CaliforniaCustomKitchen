@@ -579,7 +579,7 @@ export default function MeeksBayPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "AV's Cabinets - Custom Kitchen Builder in Meeks Bay",
+            "name": "PineWood Cabinets - Custom Kitchen Builder in Meeks Bay",
             "description": "Custom kitchen builder in Meeks Bay specializing in luxury cabinetry for Lake Tahoe's most pristine west shore communities.",
             "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/meeks-bay",
             "telephone": "+1-XXX-XXX-XXXX",

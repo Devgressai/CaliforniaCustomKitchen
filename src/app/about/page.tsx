@@ -126,7 +126,7 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
             <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              About AV's Cabinets
+              About PineWood Cabinets
             </h1>
             <p className="text-xl md:text-2xl text-french-gray leading-relaxed mb-8">
               Since 2006, we have been guardians of an ancient craft, creating bespoke cabinetry and architectural millwork that defines California's most luxurious homes.
@@ -151,10 +151,10 @@ export default function AboutPage() {
               </h2>
               <div className="prose-luxury text-charcoal/80 mb-8">
                 <p>
-                  AV's Cabinets was born from a simple belief: that the spaces where we live and work deserve the same attention to detail and craftsmanship as the finest furniture and art. Founded in 2006 by Alexander Voss, our company began as a small workshop dedicated to preserving traditional woodworking techniques while serving California's most discerning clientele.
+                  PineWood Cabinets was born from a simple belief: that the spaces where we live and work deserve the same attention to detail and craftsmanship as the finest furniture and art. Founded in 2006 by Alexander Voss, our company began as a small workshop dedicated to preserving traditional woodworking techniques while serving California's most discerning clientele.
                 </p>
                 <p>
-                  Alexander's journey began in Germany, where he apprenticed under master cabinetmakers who taught him that true craftsmanship is not just about technical skill, but about understanding the soul of the materials and the needs of those who will use the finished pieces. This philosophy became the foundation of AV's Cabinets.
+                  Alexander's journey began in Germany, where he apprenticed under master cabinetmakers who taught him that true craftsmanship is not just about technical skill, but about understanding the soul of the materials and the needs of those who will use the finished pieces. This philosophy became the foundation of PineWood Cabinets.
                 </p>
                 <p>
                   Today, we remain committed to these principles while embracing innovation. Our workshop combines time-honored techniques with modern precision, creating cabinetry that is both timeless and contemporary. Every project is an opportunity to push the boundaries of what's possible while honoring the traditions that define our craft.

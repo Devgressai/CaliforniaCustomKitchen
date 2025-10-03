@@ -579,7 +579,7 @@ export default function TahoeCityPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "AV's Cabinets - Custom Kitchen Builder in Tahoe City",
+            "name": "PineWood Cabinets - Custom Kitchen Builder in Tahoe City",
             "description": "Custom kitchen builder in Tahoe City specializing in luxury cabinetry for Lake Tahoe's most prestigious lakefront estates.",
             "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/tahoe-city",
             "telephone": "+1-XXX-XXX-XXXX",

@@ -78,6 +78,44 @@ interface ArticleData {
   wordCount?: number
 }
 
+interface FAQData {
+  mainEntity: Array<{
+    "@type": "Question"
+    name: string
+    acceptedAnswer: {
+      "@type": "Answer"
+      text: string
+    }
+  }>
+}
+
+interface BreadcrumbListData {
+  itemListElement: Array<{
+    "@type": "ListItem"
+    position: number
+    name: string
+    item: string
+  }>
+}
+
+interface ServiceData {
+  "@type": "Service"
+  name: string
+  description: string
+  provider: OrganizationData
+  areaServed: Array<{
+    "@type": "City"
+    name: string
+  }>
+  serviceType: string
+  category: string
+  offers?: {
+    "@type": "Offer"
+    priceRange: string
+    availability: string
+  }
+}
+
 interface StructuredDataProps {
   organization?: OrganizationData
   localBusiness?: LocalBusinessData
@@ -85,6 +123,8 @@ interface StructuredDataProps {
   product?: ProductData
   service?: ServiceData
   article?: ArticleData
+  faq?: FAQData
+  breadcrumbList?: BreadcrumbListData
 }
 
 export function StructuredData({
@@ -93,7 +133,9 @@ export function StructuredData({
   breadcrumb,
   product,
   service,
-  article
+  article,
+  faq,
+  breadcrumbList
 }: StructuredDataProps) {
   const generateSchema = () => {
     const schemas = []
@@ -151,6 +193,21 @@ export function StructuredData({
       })
     }
 
+    if (faq) {
+      schemas.push({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        ...faq
+      })
+    }
+
+    if (breadcrumbList) {
+      schemas.push({
+        "@context": "https://schema.org",
+        ...breadcrumbList
+      })
+    }
+
     return schemas.length === 1 ? schemas[0] : schemas
   }
 
@@ -172,7 +229,7 @@ export function StructuredData({
 
 // Predefined schemas for common use cases
 export const organizationSchema: OrganizationData = {
-  name: "AV's Cabinets",
+  name: "PineWood Cabinets",
   description: "Custom kitchens, bespoke cabinetry, and architectural millwork for California's finest homes",
   url: "https://california-custom-kitchen.vercel.app",
   logo: "https://california-custom-kitchen.vercel.app/images/logo.svg",
@@ -231,4 +288,48 @@ export function generateServiceSchema(serviceName: string, description: string, 
 
 export function generateBreadcrumbSchema(items: Array<{ name: string; url: string }>): BreadcrumbData {
   return { items }
+}
+
+export function generateFAQSchema(faqs: Array<{ question: string; answer: string }>): FAQData {
+  return {
+    mainEntity: faqs.map(faq => ({
+      "@type": "Question",
+      name: faq.question,
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: faq.answer
+      }
+    }))
+  }
+}
+
+export function generateBreadcrumbListSchema(items: Array<{ name: string; url: string }>): BreadcrumbListData {
+  return {
+    itemListElement: items.map((item, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      name: item.name,
+      item: item.url
+    }))
+  }
+}
+
+export function generateServiceSchema(serviceName: string, description: string, category: string, areasServed: string[]): ServiceData {
+  return {
+    "@type": "Service",
+    name: serviceName,
+    description: description,
+    provider: organizationSchema,
+    areaServed: areasServed.map(area => ({
+      "@type": "City",
+      name: area
+    })),
+    serviceType: serviceName,
+    category: category,
+    offers: {
+      "@type": "Offer",
+      priceRange: "$$$",
+      availability: "https://schema.org/InStock"
+    }
+  }
 }

@@ -405,7 +405,7 @@ export default function ContactPage() {
               Frequently Asked Questions
             </h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
-              Common questions about our services, process, and what to expect when working with AV's Cabinets.
+              Common questions about our services, process, and what to expect when working with PineWood Cabinets.
             </p>
           </div>
 

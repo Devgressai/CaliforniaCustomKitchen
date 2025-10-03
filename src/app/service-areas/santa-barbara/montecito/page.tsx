@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     'luxury estate renovations Santa Barbara'
   ],
   openGraph: {
-    title: "Custom Kitchen Cabinets Montecito CA | AV's Cabinets",
+    title: "Custom Kitchen Cabinets Montecito CA | PineWood Cabinets",
     description: "Bespoke cabinetry for Montecito's most discerning homeowners. Serving Santa Barbara's elite with uncompromising craftsmanship.",
     images: ['/images/montecito-estate-kitchen-hero.webp'],
   },
@@ -60,7 +60,7 @@ export default function MontecitoPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "AV's Cabinets - Montecito",
+            "name": "PineWood Cabinets - Montecito",
             "description": "Custom kitchen cabinets and luxury cabinetry for Montecito, California",
             "url": "https://california-custom-kitchen.vercel.app/service-areas/santa-barbara/montecito",
             "telephone": "+1-XXX-XXX-XXXX",
@@ -115,7 +115,7 @@ export default function MontecitoPage() {
             </h1>
             <div className="prose-luxury">
               <p className="text-xl leading-relaxed text-charcoal/80 mb-8">
-                Nestled between the Santa Ynez Mountains and the Pacific Ocean, Montecito stands as California's most refined coastal community—a sanctuary where entertainment industry luminaries, literary figures, and cultural philanthropists have created some of America's most beautiful homes. Since 2006, AV's Cabinets has served as the preferred artisan for this discerning community, creating custom kitchens and architectural millwork that honor both the region's Mediterranean heritage and its residents' sophisticated sensibilities.
+                Nestled between the Santa Ynez Mountains and the Pacific Ocean, Montecito stands as California's most refined coastal community—a sanctuary where entertainment industry luminaries, literary figures, and cultural philanthropists have created some of America's most beautiful homes. Since 2006, PineWood Cabinets has served as the preferred artisan for this discerning community, creating custom kitchens and architectural millwork that honor both the region's Mediterranean heritage and its residents' sophisticated sensibilities.
               </p>
               <p className="text-lg leading-relaxed text-charcoal/70 mb-6">
                 Our Montecito clients represent the pinnacle of creative achievement—Academy Award winners, bestselling authors, renowned directors, and cultural tastemakers who understand that true luxury lies in authenticity, craftsmanship, and the kind of understated elegance that improves with time. They seek not mere status symbols, but heirloom pieces that will grace their homes for generations while supporting the rituals of gracious living that define the Montecito lifestyle.
@@ -713,7 +713,7 @@ export default function MontecitoPage() {
       {/* Final CTA */}
       <CTASection
         title="Begin Your Montecito Kitchen Journey"
-        description="Join Montecito's cultural elite who have chosen AV's Cabinets for their custom cabinetry needs. Experience the perfect blend of Mediterranean romance and California innovation in your dream kitchen."
+        description="Join Montecito's cultural elite who have chosen PineWood Cabinets for their custom cabinetry needs. Experience the perfect blend of Mediterranean romance and California innovation in your dream kitchen."
         primaryCTA={{
           text: "Schedule Private Consultation",
           href: "/contact"

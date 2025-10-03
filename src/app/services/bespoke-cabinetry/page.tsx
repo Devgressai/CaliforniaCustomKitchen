@@ -19,7 +19,7 @@ export const metadata: Metadata = {
     'home office built-ins'
   ],
   openGraph: {
-    title: "Bespoke Cabinetry | AV's Cabinets",
+    title: "Bespoke Cabinetry | PineWood Cabinets",
     description: "Museum-grade bespoke cabinetry for libraries, closets, entertainment centers, and wine rooms throughout California's luxury homes.",
     images: ['/images/services/bespoke-cabinetry-hero.webp'],
   },

@@ -579,7 +579,7 @@ export default function CrystalBayPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "AV's Cabinets - Custom Kitchen Builder in Crystal Bay",
+            "name": "PineWood Cabinets - Custom Kitchen Builder in Crystal Bay",
             "description": "Custom kitchen builder in Crystal Bay specializing in luxury cabinetry for Lake Tahoe's most exclusive alpine communities.",
             "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/crystal-bay",
             "telephone": "+1-XXX-XXX-XXXX",

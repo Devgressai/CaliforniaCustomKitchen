@@ -17,11 +17,77 @@ const footerNavigation = {
     { name: 'Service Areas', href: '/service-areas' },
   ],
   serviceAreas: {
-    'Northern California': [
+    'San Francisco Bay Area': [
+      { name: 'San Francisco', href: '/service-areas/san-francisco' },
+      { name: 'Pacific Heights', href: '/service-areas/san-francisco/pacific-heights' },
+      { name: 'Nob Hill', href: '/service-areas/san-francisco/nob-hill' },
+      { name: 'Marina District', href: '/service-areas/san-francisco/marina-district' },
+      { name: 'Castro District', href: '/service-areas/san-francisco/castro-district' },
+      { name: 'Richmond District', href: '/service-areas/san-francisco/richmond-district' },
+      { name: 'SOMA', href: '/service-areas/san-francisco/soma' },
+      { name: 'Mission District', href: '/service-areas/san-francisco/mission-district' },
+      { name: 'Hayes Valley', href: '/service-areas/san-francisco/hayes-valley' },
+      { name: 'Noe Valley', href: '/service-areas/san-francisco/noe-valley' },
+    ],
+    'Silicon Valley': [
       { name: 'Silicon Valley', href: '/service-areas/silicon-valley' },
       { name: 'Atherton', href: '/service-areas/silicon-valley/atherton' },
       { name: 'Palo Alto', href: '/service-areas/silicon-valley/palo-alto' },
+      { name: 'Menlo Park', href: '/service-areas/silicon-valley/menlo-park' },
+      { name: 'Los Gatos', href: '/service-areas/silicon-valley/los-gatos' },
+      { name: 'Saratoga', href: '/service-areas/silicon-valley/saratoga' },
+      { name: 'Cupertino', href: '/service-areas/silicon-valley/cupertino' },
+      { name: 'Sunnyvale', href: '/service-areas/silicon-valley/sunnyvale' },
+      { name: 'Mountain View', href: '/service-areas/silicon-valley/mountain-view' },
+      { name: 'Los Altos', href: '/service-areas/silicon-valley/los-altos' },
+      { name: 'Los Altos Hills', href: '/service-areas/silicon-valley/los-altos-hills' },
+      { name: 'Woodside', href: '/service-areas/silicon-valley/woodside' },
+    ],
+    'Marin County': [
       { name: 'Marin County', href: '/service-areas/marin-county' },
+      { name: 'Sausalito', href: '/service-areas/marin-county/sausalito' },
+      { name: 'Mill Valley', href: '/service-areas/marin-county/mill-valley' },
+      { name: 'Tiburon', href: '/service-areas/marin-county/tiburon' },
+      { name: 'Belvedere', href: '/service-areas/marin-county/belvedere' },
+      { name: 'Corte Madera', href: '/service-areas/marin-county/corte-madera' },
+      { name: 'Larkspur', href: '/service-areas/marin-county/larkspur' },
+      { name: 'Ross', href: '/service-areas/marin-county/ross' },
+      { name: 'Kentfield', href: '/service-areas/marin-county/kentfield' },
+      { name: 'Greenbrae', href: '/service-areas/marin-county/greenbrae' },
+    ],
+    'East Bay': [
+      { name: 'Oakland', href: '/service-areas/oakland' },
+      { name: 'Berkeley', href: '/service-areas/berkeley' },
+      { name: 'Piedmont', href: '/service-areas/piedmont' },
+      { name: 'Orinda', href: '/service-areas/orinda' },
+      { name: 'Lafayette', href: '/service-areas/lafayette' },
+      { name: 'Moraga', href: '/service-areas/moraga' },
+      { name: 'Walnut Creek', href: '/service-areas/walnut-creek' },
+      { name: 'Danville', href: '/service-areas/danville' },
+      { name: 'Alamo', href: '/service-areas/alamo' },
+      { name: 'San Ramon', href: '/service-areas/san-ramon' },
+    ],
+    'Peninsula': [
+      { name: 'Hillsborough', href: '/service-areas/hillsborough' },
+      { name: 'Burlingame', href: '/service-areas/burlingame' },
+      { name: 'San Mateo', href: '/service-areas/san-mateo' },
+      { name: 'Foster City', href: '/service-areas/foster-city' },
+      { name: 'Redwood City', href: '/service-areas/redwood-city' },
+      { name: 'San Carlos', href: '/service-areas/san-carlos' },
+      { name: 'Belmont', href: '/service-areas/belmont' },
+      { name: 'Half Moon Bay', href: '/service-areas/half-moon-bay' },
+    ],
+    'North Bay': [
+      { name: 'Napa Valley', href: '/service-areas/napa-valley' },
+      { name: 'Sonoma County', href: '/service-areas/sonoma-county' },
+      { name: 'Healdsburg', href: '/service-areas/healdsburg' },
+      { name: 'Petaluma', href: '/service-areas/petaluma' },
+      { name: 'Santa Rosa', href: '/service-areas/santa-rosa' },
+      { name: 'Windsor', href: '/service-areas/windsor' },
+      { name: 'Calistoga', href: '/service-areas/calistoga' },
+      { name: 'St. Helena', href: '/service-areas/st-helena' },
+    ],
+    'Sacramento Area': [
       { name: 'Sacramento', href: '/service-areas/sacramento' },
       { name: 'Auburn', href: '/service-areas/sacramento/auburn' },
       { name: 'El Dorado Hills', href: '/service-areas/sacramento/el-dorado-hills' },
@@ -30,11 +96,7 @@ const footerNavigation = {
       { name: 'Nevada City', href: '/service-areas/sacramento/nevada-city' },
       { name: 'Newcastle', href: '/service-areas/sacramento/newcastle' },
       { name: 'Roseville', href: '/service-areas/sacramento/roseville' },
-      { name: 'Napa Valley', href: '/service-areas/napa-valley' },
-      { name: 'Sonoma County', href: '/service-areas/sonoma-county' },
       { name: 'Truckee', href: '/service-areas/truckee' },
-      { name: 'San Francisco', href: '/service-areas/san-francisco' },
-      { name: 'Pacific Heights', href: '/service-areas/san-francisco/pacific-heights' },
     ],
     'Lake Tahoe': [
       { name: 'Lake Tahoe', href: '/service-areas/lake-tahoe' },
@@ -80,11 +142,11 @@ export function Footer() {
   return (
     <footer className="bg-charcoal text-ivory">
       <div className="max-w-7xl mx-auto px-6 lg:px-8 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-6 gap-8 lg:gap-12">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 gap-8 lg:gap-12">
           {/* Brand */}
           <div className="lg:col-span-1">
             <Link href="/" className="inline-block">
-              <span className="font-display text-2xl font-bold">AV's Cabinets</span>
+              <span className="font-display text-2xl font-bold">PineWood Cabinets</span>
             </Link>
             <p className="mt-4 text-french-gray leading-relaxed">
               Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork 
@@ -130,11 +192,11 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Service Areas - Northern California */}
+          {/* Service Areas - San Francisco Bay Area */}
           <div>
-            <h3 className="font-display text-lg font-semibold mb-6">Northern California</h3>
+            <h3 className="font-display text-lg font-semibold mb-6">San Francisco Bay Area</h3>
             <ul className="space-y-2">
-              {footerNavigation.serviceAreas['Northern California'].map((item) => (
+              {footerNavigation.serviceAreas['San Francisco Bay Area'].map((item) => (
                 <li key={item.name}>
                   <Link
                     href={item.href}
@@ -147,11 +209,11 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Service Areas - Lake Tahoe */}
+          {/* Service Areas - Silicon Valley */}
           <div>
-            <h3 className="font-display text-lg font-semibold mb-6">Lake Tahoe</h3>
+            <h3 className="font-display text-lg font-semibold mb-6">Silicon Valley</h3>
             <ul className="space-y-2">
-              {footerNavigation.serviceAreas['Lake Tahoe'].map((item) => (
+              {footerNavigation.serviceAreas['Silicon Valley'].map((item) => (
                 <li key={item.name}>
                   <Link
                     href={item.href}
@@ -164,12 +226,79 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Service Areas - Central & Southern California */}
+          {/* Service Areas - Marin County */}
+          <div>
+            <h3 className="font-display text-lg font-semibold mb-6">Marin County</h3>
+            <ul className="space-y-2">
+              {footerNavigation.serviceAreas['Marin County'].map((item) => (
+                <li key={item.name}>
+                  <Link
+                    href={item.href}
+                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
+                  >
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Service Areas - East Bay */}
+          <div>
+            <h3 className="font-display text-lg font-semibold mb-6">East Bay</h3>
+            <ul className="space-y-2">
+              {footerNavigation.serviceAreas['East Bay'].map((item) => (
+                <li key={item.name}>
+                  <Link
+                    href={item.href}
+                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
+                  >
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Service Areas - Peninsula */}
+          <div>
+            <h3 className="font-display text-lg font-semibold mb-6">Peninsula</h3>
+            <ul className="space-y-2">
+              {footerNavigation.serviceAreas['Peninsula'].map((item) => (
+                <li key={item.name}>
+                  <Link
+                    href={item.href}
+                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
+                  >
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Service Areas - North Bay & Others */}
           <div>
             <div className="mb-6">
-              <h3 className="font-display text-lg font-semibold mb-4">Central California</h3>
+              <h3 className="font-display text-lg font-semibold mb-4">North Bay</h3>
               <ul className="space-y-2 mb-6">
-                {footerNavigation.serviceAreas['Central California'].map((item) => (
+                {footerNavigation.serviceAreas['North Bay'].map((item) => (
+                  <li key={item.name}>
+                    <Link
+                      href={item.href}
+                      className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
+                    >
+                      {item.name}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            <div className="mb-6">
+              <h3 className="font-display text-lg font-semibold mb-4">Sacramento Area</h3>
+              <ul className="space-y-2 mb-6">
+                {footerNavigation.serviceAreas['Sacramento Area'].map((item) => (
                   <li key={item.name}>
                     <Link
                       href={item.href}
@@ -183,9 +312,9 @@ export function Footer() {
             </div>
 
             <div>
-              <h3 className="font-display text-lg font-semibold mb-4">Southern California</h3>
+              <h3 className="font-display text-lg font-semibold mb-4">Lake Tahoe</h3>
               <ul className="space-y-2">
-                {footerNavigation.serviceAreas['Southern California'].map((item) => (
+                {footerNavigation.serviceAreas['Lake Tahoe'].map((item) => (
                   <li key={item.name}>
                     <Link
                       href={item.href}
@@ -204,7 +333,7 @@ export function Footer() {
         <div className="mt-16 pt-8 border-t border-french-gray/20">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-sm text-french-gray">
-              © {new Date().getFullYear()} AV's Cabinets. All rights reserved.
+              © {new Date().getFullYear()} PineWood Cabinets. All rights reserved.
             </p>
             <div className="mt-4 md:mt-0 flex space-x-6">
               <Link href="/privacy" className="text-sm text-french-gray hover:text-ivory transition-colors duration-200">

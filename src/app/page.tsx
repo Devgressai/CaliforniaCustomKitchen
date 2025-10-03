@@ -5,12 +5,15 @@ import CTASection from '@/components/CTASection';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'AV\'s Cabinets | Custom Kitchens & Bespoke Cabinetry | Sacramento, California',
-  description: 'Luxury custom kitchens and bespoke cabinetry for California\'s most discerning clients. Handcrafted excellence in Sacramento, Atherton, Palo Alto, and beyond.',
-  keywords: 'custom kitchens, bespoke cabinetry, luxury kitchens, Sacramento, Atherton, Palo Alto, custom cabinets, kitchen design',
+  title: 'PineWood Cabinets | Custom Kitchens & Bespoke Cabinetry | California',
+  description: 'Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork for California\'s finest homes. Serving Silicon Valley, Marin, Lake Tahoe since 2006.',
+  keywords: 'custom kitchens, bespoke cabinetry, luxury kitchens, Silicon Valley, Marin County, Lake Tahoe, custom cabinets, kitchen design',
+  alternates: {
+    canonical: '/',
+  },
   openGraph: {
-    title: 'AV\'s Cabinets | Custom Kitchens & Bespoke Cabinetry',
-    description: 'Luxury custom kitchens and bespoke cabinetry for California\'s most discerning clients.',
+    title: 'PineWood Cabinets | Custom Kitchens & Bespoke Cabinetry',
+    description: 'Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork for California\'s finest homes.',
     type: 'website',
     url: 'https://california-custom-kitchen.vercel.app',
     images: [
@@ -38,7 +41,7 @@ export default function HomePage() {
               Craftsmanship as Stewardship
             </h2>
             <p className="text-xl leading-relaxed text-charcoal/80 mb-8">
-              Since 2006, AV's Cabinets has served as guardians of an ancient craft, creating bespoke cabinetry and architectural millwork that honors both tradition and innovation. Our workshop in California's heartland combines time-tested joinery techniques with contemporary design sensibilities, producing pieces that will grace homes for generations.
+              Since 2006, PineWood Cabinets has served as guardians of an ancient craft, creating bespoke cabinetry and architectural millwork that honors both tradition and innovation. Our workshop in California's heartland combines time-tested joinery techniques with contemporary design sensibilities, producing pieces that will grace homes for generations.
             </p>
             <p className="text-lg leading-relaxed text-charcoal/70">
               Every project begins with understanding—of your lifestyle, your home's architecture, and the materials that will become part of your daily experience. We believe in quiet luxury: craftsmanship so refined it speaks in whispers, not shouts.

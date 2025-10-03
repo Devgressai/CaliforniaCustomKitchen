@@ -50,7 +50,7 @@ export function Navigation() {
           {/* Logo */}
           <Link href="/" className="flex items-center space-x-2">
             <span className="font-display text-2xl text-deep-green font-bold">
-              AV's Cabinets
+              PineWood Cabinets
             </span>
           </Link>
 

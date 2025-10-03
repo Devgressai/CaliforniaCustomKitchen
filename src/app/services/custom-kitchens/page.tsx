@@ -162,7 +162,7 @@ const processSteps = [
 
 const testimonials = [
   {
-    quote: "AV's Cabinets transformed our kitchen into a work of art. The attention to detail and craftsmanship is simply extraordinary. Every day, I'm reminded of the care that went into creating this space.",
+    quote: "PineWood Cabinets transformed our kitchen into a work of art. The attention to detail and craftsmanship is simply extraordinary. Every day, I'm reminded of the care that went into creating this space.",
     author: "Sarah Chen",
     location: "Atherton, CA",
     project: "Modern Contemporary Kitchen"
@@ -174,7 +174,7 @@ const testimonials = [
     project: "Traditional Inset Kitchen"
   },
   {
-    quote: "Working with AV's Cabinets was a pleasure from start to finish. Their process is transparent, their craftsmanship is impeccable, and the final result exceeded our expectations.",
+    quote: "Working with PineWood Cabinets was a pleasure from start to finish. Their process is transparent, their craftsmanship is impeccable, and the final result exceeded our expectations.",
     author: "Jennifer Walsh",
     location: "Bel Air, CA",
     project: "Transitional Kitchen"

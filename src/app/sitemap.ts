@@ -15,7 +15,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/journal',
     '/showroom',
     '/contact',
-    '/service-areas'
+    '/service-areas',
+    '/faq'
   ]
 
   // Service pages
@@ -26,104 +27,115 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/services/paneling',
     '/services/wine-rooms',
     '/services/vanities',
-    '/services/libraries-closets-offices'
+    '/services/libraries-closets-offices',
+    '/services/kitchen-remodeling',
+    '/services/cabinet-refacing',
+    '/services/custom-storage',
+    '/services/kitchen-design-consultation',
+    '/services/cabinet-hardware',
+    '/services/kitchen-lighting',
+    '/services/appliance-integration'
   ]
 
   // Service area pages - main regions
   const serviceAreaPages = [
-    '/service-areas/lake-tahoe-truckee',
+    '/service-areas/san-francisco',
     '/service-areas/silicon-valley',
-    '/service-areas/marin',
-    '/service-areas/east-bay',
-    '/service-areas/sacramento-foothills',
+    '/service-areas/marin-county',
+    '/service-areas/oakland',
+    '/service-areas/berkeley',
+    '/service-areas/hillsborough',
+    '/service-areas/lake-tahoe',
+    '/service-areas/sacramento',
+    '/service-areas/napa-valley',
+    '/service-areas/sonoma-county',
     '/service-areas/central-coast',
-    '/service-areas/los-angeles',
     '/service-areas/santa-barbara',
-    '/service-areas/san-diego',
+    '/service-areas/los-angeles',
+    '/service-areas/san-diego-county',
     '/service-areas/orange-county'
   ]
 
   // Service area sub-pages - high-value neighborhoods
   const serviceAreaSubPages = [
-    // Lake Tahoe & Truckee
-    '/service-areas/lake-tahoe-truckee/martis-camp',
-    '/service-areas/lake-tahoe-truckee/lahontan',
-    '/service-areas/lake-tahoe-truckee/schaffers-mill',
+    // San Francisco neighborhoods
+    '/service-areas/san-francisco/pacific-heights',
+    '/service-areas/san-francisco/nob-hill',
+    '/service-areas/san-francisco/marina-district',
+    '/service-areas/san-francisco/castro-district',
+    '/service-areas/san-francisco/richmond-district',
     
-    // Silicon Valley
+    // Silicon Valley neighborhoods
     '/service-areas/silicon-valley/atherton',
-    '/service-areas/silicon-valley/hillsborough',
-    '/service-areas/silicon-valley/los-altos-hills',
     '/service-areas/silicon-valley/palo-alto',
-    '/service-areas/silicon-valley/portola-valley',
+    '/service-areas/silicon-valley/menlo-park',
+    '/service-areas/silicon-valley/los-gatos',
+    '/service-areas/silicon-valley/saratoga',
+    '/service-areas/silicon-valley/cupertino',
+    '/service-areas/silicon-valley/sunnyvale',
+    '/service-areas/silicon-valley/mountain-view',
     '/service-areas/silicon-valley/woodside',
     
-    // Marin
-    '/service-areas/marin/belvedere',
-    '/service-areas/marin/tiburon',
-    '/service-areas/marin/ross',
-    '/service-areas/marin/kentfield',
+    // Marin County neighborhoods
+    '/service-areas/marin-county/sausalito',
+    '/service-areas/marin-county/mill-valley',
+    '/service-areas/marin-county/tiburon',
+    '/service-areas/marin-county/belvedere',
     
-    // East Bay
-    '/service-areas/east-bay/berkeley-claremont-elmwood',
-    '/service-areas/east-bay/orinda',
-    '/service-areas/east-bay/lafayette',
-    
-    // Sacramento Foothills
-    '/service-areas/sacramento-foothills/granite-bay',
-    '/service-areas/sacramento-foothills/loomis',
-    '/service-areas/sacramento-foothills/newcastle',
-    
-    // Central Coast
-    '/service-areas/central-coast/carmel',
-    '/service-areas/central-coast/carmel-valley',
-    '/service-areas/central-coast/monterey',
-    '/service-areas/central-coast/pebble-beach',
-    '/service-areas/central-coast/big-sur',
-    '/service-areas/central-coast/santa-cruz',
-    
-    // Los Angeles
-    '/service-areas/los-angeles/bel-air',
-    '/service-areas/los-angeles/holmby-hills',
+    // Los Angeles neighborhoods
     '/service-areas/los-angeles/beverly-hills',
-    '/service-areas/los-angeles/beverly-park',
-    '/service-areas/los-angeles/brentwood',
-    '/service-areas/los-angeles/pacific-palisades',
-    '/service-areas/los-angeles/hollywood-hills',
+    '/service-areas/los-angeles/bel-air',
     '/service-areas/los-angeles/malibu',
+    '/service-areas/los-angeles/west-hollywood',
+    '/service-areas/los-angeles/santa-monica',
+    '/service-areas/los-angeles/venice',
+    '/service-areas/los-angeles/century-city',
+    '/service-areas/los-angeles/encino',
+    '/service-areas/los-angeles/trousdale-estates',
+    '/service-areas/los-angeles/palos-verdes-estates',
     
-    // Santa Barbara
-    '/service-areas/santa-barbara/montecito',
-    '/service-areas/santa-barbara/hope-ranch',
+    // San Diego neighborhoods
+    '/service-areas/san-diego-county/del-mar',
+    '/service-areas/san-diego-county/encinitas',
+    '/service-areas/san-diego-county/carlsbad',
+    '/service-areas/san-diego-county/solana-beach',
+    '/service-areas/san-diego-county/rancho-santa-fe',
     
-    // San Diego
-    '/service-areas/san-diego/rancho-santa-fe',
-    '/service-areas/san-diego/la-jolla',
-    
-    // Orange County
-    '/service-areas/orange-county/newport-coast',
-    '/service-areas/orange-county/laguna-beach',
-    '/service-areas/orange-county/corona-del-mar'
+    // Lake Tahoe neighborhoods
+    '/service-areas/lake-tahoe/carnelian-bay',
+    '/service-areas/lake-tahoe/crystal-bay',
+    '/service-areas/lake-tahoe/emerald-bay',
+    '/service-areas/lake-tahoe/homewood',
+    '/service-areas/lake-tahoe/incline-village',
+    '/service-areas/lake-tahoe/kings-beach',
+    '/service-areas/lake-tahoe/meeks-bay',
+    '/service-areas/lake-tahoe/rubicon-bay',
+    '/service-areas/lake-tahoe/south-lake-tahoe',
+    '/service-areas/lake-tahoe/tahoe-city',
+    '/service-areas/lake-tahoe/tahoe-vista',
+    '/service-areas/lake-tahoe/tahoma'
   ]
 
-  // Portfolio pages (sample - would be dynamic in real implementation)
+  // Content pages
+  const contentPages = [
+    '/journal/luxury-kitchen-design-trends-2025',
+    '/journal/kitchen-design-trends-2025',
+    '/materials/premium-hardwood-guide',
+    '/materials/wood-species-guide',
+    '/materials/cabinet-hardware-guide',
+    '/materials/kitchen-lighting-guide',
+    '/materials/kitchen-appliance-guide',
+    '/process/kitchen-layout-guide',
+    '/process/kitchen-renovation-costs'
+  ]
+
+  // Portfolio pages
   const portfolioPages = [
-    '/portfolio/atherton-tech-executive-estate',
-    '/portfolio/montecito-mediterranean-revival',
-    '/portfolio/martis-camp-mountain-retreat',
-    '/portfolio/pebble-beach-contemporary',
-    '/portfolio/bel-air-modern-luxury',
-    '/portfolio/malibu-coastal-estate'
-  ]
-
-  // Journal pages (sample - would be dynamic in real implementation)
-  const journalPages = [
-    '/journal/grain-matching-techniques',
-    '/journal/sustainable-hardwood-sourcing',
-    '/journal/smart-home-integration',
-    '/journal/coastal-cabinetry-considerations',
-    '/journal/historic-restoration-methods',
-    '/journal/luxury-kitchen-trends-2024'
+    '/portfolio/beverly-hills-modern-kitchen',
+    '/portfolio/malibu-coastal-kitchen',
+    '/portfolio/palo-alto-tech-executive-kitchen',
+    '/portfolio/montecito-wine-country-kitchen',
+    '/portfolio/lake-tahoe-lodge-kitchen'
   ]
 
   // Combine all pages
@@ -132,44 +144,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...servicePages,
     ...serviceAreaPages,
     ...serviceAreaSubPages,
-    ...portfolioPages,
-    ...journalPages
+    ...contentPages,
+    ...portfolioPages
   ]
 
-  return allPages.map((page) => {
-    // Determine priority based on page type
-    let priority = 0.5
-    let changeFrequency: 'yearly' | 'monthly' | 'weekly' = 'monthly'
-
-    if (page === '') {
-      priority = 1.0
-      changeFrequency = 'weekly'
-    } else if (page.startsWith('/service-areas/') && page.split('/').length === 4) {
-      // High-value neighborhood pages
-      priority = 0.9
-      changeFrequency = 'monthly'
-    } else if (page.startsWith('/services/')) {
-      priority = 0.8
-      changeFrequency = 'monthly'
-    } else if (page.startsWith('/service-areas/')) {
-      priority = 0.7
-      changeFrequency = 'monthly'
-    } else if (page.startsWith('/portfolio/')) {
-      priority = 0.7
-      changeFrequency = 'yearly'
-    } else if (page.startsWith('/journal/')) {
-      priority = 0.6
-      changeFrequency = 'monthly'
-    } else if (['/process', '/materials', '/about'].includes(page)) {
-      priority = 0.8
-      changeFrequency = 'monthly'
-    }
-
-    return {
-      url: `${baseUrl}${page}`,
-      lastModified: currentDate,
-      changeFrequency,
-      priority
-    }
-  })
+  // Generate sitemap entries
+  return allPages.map((page) => ({
+    url: `${baseUrl}${page}`,
+    lastModified: currentDate,
+    changeFrequency: 'monthly' as const,
+    priority: page === '' ? 1.0 : page.includes('/service-areas/') ? 0.8 : 0.6,
+  }))
 }

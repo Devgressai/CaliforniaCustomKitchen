@@ -579,7 +579,7 @@ export default function TahomaPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "AV's Cabinets - Custom Kitchen Builder in Tahoma",
+            "name": "PineWood Cabinets - Custom Kitchen Builder in Tahoma",
             "description": "Custom kitchen builder in Tahoma specializing in luxury cabinetry for Lake Tahoe's most exclusive west shore communities.",
             "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/tahoma",
             "telephone": "+1-XXX-XXX-XXXX",

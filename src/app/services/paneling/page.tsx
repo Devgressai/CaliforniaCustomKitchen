@@ -172,7 +172,7 @@ const testimonials = [
     project: "Raised Panel Dining Room"
   },
   {
-    quote: "The beadboard paneling in our powder room adds so much character and charm. The quality and attention to detail is exactly what we expected from AV's Cabinets.",
+    quote: "The beadboard paneling in our powder room adds so much character and charm. The quality and attention to detail is exactly what we expected from PineWood Cabinets.",
     author: "James Anderson",
     location: "Beverly Hills, CA",
     project: "Beadboard Powder Room"

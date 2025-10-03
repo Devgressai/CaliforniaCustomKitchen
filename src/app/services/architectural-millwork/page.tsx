@@ -172,7 +172,7 @@ const testimonials = [
     project: "Coffered Ceiling"
   },
   {
-    quote: "AV's Cabinets restored the crown molding throughout our Victorian home to its original glory. Their attention to historical detail and craftsmanship is remarkable.",
+    quote: "PineWood Cabinets restored the crown molding throughout our Victorian home to its original glory. Their attention to historical detail and craftsmanship is remarkable.",
     author: "Lisa Martinez",
     location: "Beverly Hills, CA",
     project: "Crown Molding Restoration"

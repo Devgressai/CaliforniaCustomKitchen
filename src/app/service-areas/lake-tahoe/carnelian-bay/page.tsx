@@ -578,7 +578,7 @@ export default function CarnelianBayPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "AV's Cabinets - Custom Kitchen Builder in Carnelian Bay",
+            "name": "PineWood Cabinets - Custom Kitchen Builder in Carnelian Bay",
             "description": "Custom kitchen builder in Carnelian Bay specializing in luxury cabinetry for Lake Tahoe's most exclusive lakefront estates.",
             "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/carnelian-bay",
             "telephone": "+1-XXX-XXX-XXXX",

@@ -437,7 +437,7 @@ export function generateImageStructuredData(filename: string, url: string) {
     "contentLocation": metadata.location || "California",
     "creator": {
       "@type": "Organization",
-      "name": "AV's Cabinets"
+      "name": "PineWood Cabinets"
     }
   };
 }

@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     'high-end kitchen renovation'
   ],
   openGraph: {
-    title: "Atherton Tech Executive Estate Kitchen | AV's Cabinets Portfolio",
+    title: "Atherton Tech Executive Estate Kitchen | PineWood Cabinets Portfolio",
     description: "Museum-grade walnut cabinetry with smart home integration for Silicon Valley's tech elite.",
     images: ['/images/portfolio/gallery-luxury-custom-kitchen-17-sacramento-california.webp'],
   },
@@ -35,7 +35,7 @@ export default function AthertonTechExecutivePage() {
             "description": "Custom kitchen design featuring museum-grade walnut cabinetry with smart home integration",
             "creator": {
               "@type": "Organization",
-              "name": "AV's Cabinets"
+              "name": "PineWood Cabinets"
             },
             "locationCreated": {
               "@type": "Place",
@@ -596,7 +596,7 @@ export default function AthertonTechExecutivePage() {
               Client Testimonial
             </h3>
             <blockquote className="text-xl leading-relaxed text-french-gray text-center italic mb-8">
-              "Working with AV's Cabinets was like collaborating with master artists who also happened to be brilliant engineers. They understood not just what we needed functionally, but how we live and work. This kitchen has become the command center of our family life and business operations. Every detail reflects their commitment to excellence—from the way the grain flows across the island to the whisper-quiet operation of every drawer and door. It's both a functional workspace and a work of art that will serve our family for generations."
+              "Working with PineWood Cabinets was like collaborating with master artists who also happened to be brilliant engineers. They understood not just what we needed functionally, but how we live and work. This kitchen has become the command center of our family life and business operations. Every detail reflects their commitment to excellence—from the way the grain flows across the island to the whisper-quiet operation of every drawer and door. It's both a functional workspace and a work of art that will serve our family for generations."
             </blockquote>
             <div className="text-center">
               <p className="text-brass font-semibold">— J.M., Venture Capital Partner</p>

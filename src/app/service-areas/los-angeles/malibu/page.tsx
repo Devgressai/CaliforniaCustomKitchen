@@ -2,13 +2,24 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Custom Kitchens Malibu | Luxury Cabinetry Beach Homes | AV\'s Cabinets',
-  description: 'Custom kitchens and luxury cabinetry for Malibu\'s beachfront estates. AV\'s Cabinets brings coastal luxury design to California\'s most exclusive beach community.',
-  keywords: 'custom kitchens Malibu, luxury cabinetry Malibu, beach home kitchen design, custom cabinets Malibu, coastal kitchen design',
+  title: 'Custom Kitchens Malibu | Luxury Cabinetry Beach Homes | PineWood Cabinets',
+  description: 'Museum-grade custom kitchens & bespoke cabinetry for Malibu\'s most prestigious beachfront estates. Serving California\'s most exclusive coastal community with uncompromising craftsmanship since 2006.',
+  keywords: [
+    'custom kitchens Malibu',
+    'luxury cabinetry Malibu',
+    'beach home kitchen design',
+    'custom cabinets Malibu',
+    'coastal kitchen design',
+    'Malibu kitchen renovation',
+    'oceanfront kitchen design',
+    'luxury beach home kitchens',
+    'Malibu custom millwork',
+    'coastal luxury cabinetry'
+  ],
   openGraph: {
-    title: 'Custom Kitchens Malibu | Luxury Cabinetry Beach Homes | AV\'s Cabinets',
-    description: 'Custom kitchens and luxury cabinetry for Malibu\'s beachfront estates.',
-    type: 'website',
+    title: 'Custom Kitchens Malibu | PineWood Cabinets',
+    description: 'Museum-grade custom kitchens for Malibu\'s most prestigious beachfront estates.',
+    images: ['/images/malibu-coastal-kitchen-hero.webp'],
   },
 }
 
@@ -342,6 +353,165 @@ export default function MalibuPage() {
                 Most Malibu projects take 6-8 months from consultation to completion. This includes 2-3 months for design and planning, 3-4 months for fabrication, and 2-3 weeks for installation. We can work around busy schedules and entertainment industry timelines.
               </p>
             </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Malibu Neighborhoods */}
+      <section className="py-24 bg-ivory">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
+              Malibu Neighborhoods We Serve
+            </h2>
+            <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
+              From the exclusive Malibu Colony to the dramatic cliffs of Point Dume, we serve all of Malibu's most prestigious neighborhoods.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[
+              'Malibu Colony',
+              'Point Dume',
+              'Broad Beach',
+              'Zuma Beach',
+              'Paradise Cove',
+              'Carbon Beach',
+              'La Costa Beach',
+              'Surfrider Beach',
+              'Malibu Road',
+              'Malibu West',
+              'Malibu Knolls',
+              'Malibu Park'
+            ].map((neighborhood) => (
+              <div key={neighborhood} className="bg-white p-6 rounded-lg shadow-sm border border-french-gray/20 text-center hover:shadow-md transition-shadow duration-300">
+                <h3 className="font-semibold text-charcoal mb-2">{neighborhood}</h3>
+                <p className="text-sm text-charcoal/70">Custom cabinetry services</p>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
+      {/* Coastal Design Considerations */}
+      <section className="py-24 bg-grain">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
+              Coastal Design Considerations
+            </h2>
+            <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
+              Designing for Malibu's unique coastal environment requires special attention to materials, finishes, and functionality.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">
+            <div className="bg-white p-8 rounded-lg shadow-sm border border-french-gray/20">
+              <h3 className="text-2xl font-semibold text-charcoal mb-6 font-display">
+                Weather Resistance
+              </h3>
+              <div className="space-y-4">
+                <div className="flex items-start">
+                  <span className="w-2 h-2 bg-brass rounded-full mt-2 mr-3 flex-shrink-0"></span>
+                  <div>
+                    <h4 className="font-semibold text-charcoal mb-2">Marine-Grade Hardware</h4>
+                    <p className="text-charcoal/70 text-sm">Stainless steel and brass hardware that resists salt air corrosion and maintains functionality in coastal environments.</p>
+                  </div>
+                </div>
+                <div className="flex items-start">
+                  <span className="w-2 h-2 bg-brass rounded-full mt-2 mr-3 flex-shrink-0"></span>
+                  <div>
+                    <h4 className="font-semibold text-charcoal mb-2">UV-Resistant Finishes</h4>
+                    <p className="text-charcoal/70 text-sm">Specialized finishes that protect wood from sun damage and maintain color stability in bright, sunny conditions.</p>
+                  </div>
+                </div>
+                <div className="flex items-start">
+                  <span className="w-2 h-2 bg-brass rounded-full mt-2 mr-3 flex-shrink-0"></span>
+                  <div>
+                    <h4 className="font-semibold text-charcoal mb-2">Humidity Control</h4>
+                    <p className="text-charcoal/70 text-sm">Proper ventilation and moisture management to prevent warping and damage from coastal humidity.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div className="bg-white p-8 rounded-lg shadow-sm border border-french-gray/20">
+              <h3 className="text-2xl font-semibold text-charcoal mb-6 font-display">
+                Coastal Aesthetics
+              </h3>
+              <div className="space-y-4">
+                <div className="flex items-start">
+                  <span className="w-2 h-2 bg-brass rounded-full mt-2 mr-3 flex-shrink-0"></span>
+                  <div>
+                    <h4 className="font-semibold text-charcoal mb-2">Natural Materials</h4>
+                    <p className="text-charcoal/70 text-sm">Teak, cedar, and other coastal-friendly woods that complement the natural beach environment.</p>
+                  </div>
+                </div>
+                <div className="flex items-start">
+                  <span className="w-2 h-2 bg-brass rounded-full mt-2 mr-3 flex-shrink-0"></span>
+                  <div>
+                    <h4 className="font-semibold text-charcoal mb-2">Ocean-Inspired Colors</h4>
+                    <p className="text-charcoal/70 text-sm">Color palettes that reflect the blues, grays, and natural tones of the Pacific Ocean and coastal landscape.</p>
+                  </div>
+                </div>
+                <div className="flex items-start">
+                  <span className="w-2 h-2 bg-brass rounded-full mt-2 mr-3 flex-shrink-0"></span>
+                  <div>
+                    <h4 className="font-semibold text-charcoal mb-2">Open Design</h4>
+                    <p className="text-charcoal/70 text-sm">Maximizing natural light and ocean views while creating seamless indoor-outdoor living spaces.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* Malibu Lifestyle Features */}
+      <section className="py-24 bg-charcoal text-ivory">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <div className="text-center mb-16">
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
+              Designed for Malibu Living
+            </h2>
+            <p className="text-xl text-french-gray max-w-3xl mx-auto">
+              Our Malibu kitchens are designed to enhance the unique coastal lifestyle, from casual beach entertaining to sophisticated dinner parties.
+            </p>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+            {[
+              {
+                title: 'Entertainment Ready',
+                description: 'Spaces designed for both intimate family meals and large-scale entertaining with ocean views.',
+                icon: '🍽️'
+              },
+              {
+                title: 'Outdoor Integration',
+                description: 'Seamless connection between indoor kitchen and outdoor living spaces for true coastal living.',
+                icon: '🌊'
+              },
+              {
+                title: 'Storage Solutions',
+                description: 'Specialized storage for beach gear, outdoor entertaining supplies, and seasonal items.',
+                icon: '🏖️'
+              },
+              {
+                title: 'Durable Design',
+                description: 'Materials and finishes that withstand the unique challenges of coastal living.',
+                icon: '⚓'
+              }
+            ].map((feature, index) => (
+              <div key={index} className="text-center">
+                <div className="text-4xl mb-4">{feature.icon}</div>
+                <h3 className="text-lg font-semibold text-ivory mb-3 font-display">
+                  {feature.title}
+                </h3>
+                <p className="text-french-gray text-sm leading-relaxed">
+                  {feature.description}
+                </p>
+              </div>
+            ))}
           </div>
         </div>
       </section>

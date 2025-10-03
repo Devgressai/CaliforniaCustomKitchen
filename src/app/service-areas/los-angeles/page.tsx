@@ -465,7 +465,7 @@ export default function LosAngelesPage() {
             Ready to Transform Your Los Angeles Kitchen?
           </h2>
           <p className="text-xl text-ivory/90 mb-12 max-w-4xl mx-auto">
-            Join the ranks of Los Angeles' most prestigious homeowners who have chosen AV's Cabinets for their luxury kitchen renovations. From Beverly Hills to Malibu, we bring European craftsmanship to Hollywood's most exclusive neighborhoods.
+            Join the ranks of Los Angeles' most prestigious homeowners who have chosen PineWood Cabinets for their luxury kitchen renovations. From Beverly Hills to Malibu, we bring European craftsmanship to Hollywood's most exclusive neighborhoods.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link 

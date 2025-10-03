@@ -17,7 +17,7 @@ export const metadata: Metadata = {
     'luxury estate renovations Monterey'
   ],
   openGraph: {
-    title: "Custom Kitchen Cabinets Pebble Beach CA | AV's Cabinets",
+    title: "Custom Kitchen Cabinets Pebble Beach CA | PineWood Cabinets",
     description: "Museum-grade custom kitchens for Pebble Beach's most discerning homeowners. Serving Central Coast's elite with uncompromising craftsmanship.",
     images: ['/images/pebble-beach-estate-kitchen-hero.webp'],
   },
@@ -65,7 +65,7 @@ export default function PebbleBeachPage() {
             </h1>
             <div className="prose-luxury">
               <p className="text-xl leading-relaxed text-charcoal/80 mb-8">
-                Perched dramatically above the Pacific Ocean, Pebble Beach represents the pinnacle of American luxury living—a place where world-class golf, breathtaking natural beauty, and architectural excellence converge. Since 2006, AV's Cabinets has served as the preferred cabinetry artisan for this legendary community, creating custom kitchens and architectural millwork that honor both the dramatic coastal setting and the sophisticated lifestyle of residents who have achieved success at the highest levels.
+                Perched dramatically above the Pacific Ocean, Pebble Beach represents the pinnacle of American luxury living—a place where world-class golf, breathtaking natural beauty, and architectural excellence converge. Since 2006, PineWood Cabinets has served as the preferred cabinetry artisan for this legendary community, creating custom kitchens and architectural millwork that honor both the dramatic coastal setting and the sophisticated lifestyle of residents who have achieved success at the highest levels.
               </p>
               <p className="text-lg leading-relaxed text-charcoal/70 mb-6">
                 Our Pebble Beach clients include golf legends, technology innovators, entertainment industry luminaries, and business titans who understand that true luxury lies in the marriage of exceptional craftsmanship with functional beauty. They seek not mere status symbols, but heirloom pieces that will enhance their daily lives while complementing the natural splendor that defines this extraordinary coastal enclave.
@@ -176,7 +176,7 @@ export default function PebbleBeachPage() {
       {/* Final CTA */}
       <CTASection
         title="Experience Pebble Beach Excellence"
-        description="Join the legendary residents of Pebble Beach who have chosen AV's Cabinets for their custom cabinetry needs. Discover how we can create spaces worthy of this extraordinary coastal community."
+        description="Join the legendary residents of Pebble Beach who have chosen PineWood Cabinets for their custom cabinetry needs. Discover how we can create spaces worthy of this extraordinary coastal community."
         primaryCTA={{
           text: "Schedule Private Consultation",
           href: "/contact"

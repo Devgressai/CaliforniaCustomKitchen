@@ -315,7 +315,7 @@ export default function BelAirPage() {
             Ready to Transform Your Bel Air Kitchen?
           </h2>
           <p className="text-xl text-ivory/90 mb-12 max-w-3xl mx-auto">
-            Join the ranks of Bel Air's most prestigious homeowners who have chosen AV's Cabinets for their ultra-luxury kitchen renovations.
+            Join the ranks of Bel Air's most prestigious homeowners who have chosen PineWood Cabinets for their ultra-luxury kitchen renovations.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link 

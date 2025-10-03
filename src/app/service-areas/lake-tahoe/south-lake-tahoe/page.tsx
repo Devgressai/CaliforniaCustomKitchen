@@ -579,7 +579,7 @@ export default function SouthLakeTahoePage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "AV's Cabinets - Custom Kitchen Builder in South Lake Tahoe",
+            "name": "PineWood Cabinets - Custom Kitchen Builder in South Lake Tahoe",
             "description": "Custom kitchen builder in South Lake Tahoe specializing in luxury cabinetry for Lake Tahoe's most vibrant mountain communities.",
             "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/south-lake-tahoe",
             "telephone": "+1-XXX-XXX-XXXX",

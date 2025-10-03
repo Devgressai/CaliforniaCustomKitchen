@@ -579,7 +579,7 @@ export default function HomewoodPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "AV's Cabinets - Custom Kitchen Builder in Homewood",
+            "name": "PineWood Cabinets - Custom Kitchen Builder in Homewood",
             "description": "Custom kitchen builder in Homewood specializing in luxury cabinetry for Lake Tahoe's most serene lakefront communities.",
             "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/homewood",
             "telephone": "+1-XXX-XXX-XXXX",

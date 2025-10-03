@@ -444,7 +444,7 @@ export default function CentralCoastPage() {
             Ready to Transform Your Central Coast Kitchen?
           </h2>
           <p className="text-xl text-ivory/90 mb-12 max-w-4xl mx-auto">
-            Join the ranks of Central Coast's most discerning homeowners who have chosen AV's Cabinets for their luxury kitchen renovations. From Carmel to Big Sur, we bring European craftsmanship to California's most beautiful coastline.
+            Join the ranks of Central Coast's most discerning homeowners who have chosen PineWood Cabinets for their luxury kitchen renovations. From Carmel to Big Sur, we bring European craftsmanship to California's most beautiful coastline.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link 

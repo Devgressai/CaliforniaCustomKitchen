@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     'luxury kitchen materials'
   ],
   openGraph: {
-    title: "Premium Materials | AV's Cabinets",
+    title: "Premium Materials | PineWood Cabinets",
     description: "Curated selection of premium hardwoods and museum-grade finishes for custom cabinetry.",
     images: ['/images/materials-hero.webp'],
   },

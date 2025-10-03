@@ -579,7 +579,7 @@ export default function EmeraldBayPage() {
           __html: JSON.stringify({
             "@context": "https://schema.org",
             "@type": "LocalBusiness",
-            "name": "AV's Cabinets - Custom Kitchen Builder in Emerald Bay",
+            "name": "PineWood Cabinets - Custom Kitchen Builder in Emerald Bay",
             "description": "Custom kitchen builder in Emerald Bay specializing in luxury cabinetry for Lake Tahoe's most iconic west shore communities.",
             "url": "https://california-custom-kitchen.vercel.app/service-areas/lake-tahoe/emerald-bay",
             "telephone": "+1-XXX-XXX-XXXX",
