@@ -268,23 +268,6 @@ export function generateLocalBusinessSchema(location: string, coordinates?: { la
   }
 }
 
-export function generateServiceSchema(serviceName: string, description: string, category: string): ServiceData {
-  return {
-    name: serviceName,
-    description: description,
-    provider: organizationSchema,
-    areaServed: [
-      "Atherton, CA",
-      "Montecito, CA",
-      "Palo Alto, CA",
-      "Beverly Hills, CA",
-      "Marin County, CA",
-      "Lake Tahoe, CA"
-    ],
-    serviceType: serviceName,
-    category: category
-  }
-}
 
 export function generateBreadcrumbSchema(items: Array<{ name: string; url: string }>): BreadcrumbData {
   return { items }
