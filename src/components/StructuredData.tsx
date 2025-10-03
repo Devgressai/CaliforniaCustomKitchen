@@ -54,14 +54,6 @@ interface ProductData {
   }
 }
 
-interface ServiceData {
-  name: string
-  description: string
-  provider: OrganizationData
-  areaServed?: string[]
-  serviceType: string
-  category: string
-}
 
 interface ArticleData {
   headline: string
@@ -180,7 +172,6 @@ export function StructuredData({
     if (service) {
       schemas.push({
         "@context": "https://schema.org",
-        "@type": "Service",
         ...service
       })
     }

@@ -29,7 +29,8 @@ export default function BespokeCabinetryPage() {
   const serviceSchema = generateServiceSchema(
     "Bespoke Cabinetry & Custom Built-Ins",
     "Museum-grade custom cabinetry for libraries, entertainment centers, wine rooms, closets, and home offices throughout California's luxury homes",
-    "Custom Cabinetry"
+    "Custom Cabinetry",
+    ["Atherton, CA", "Beverly Hills, CA", "Malibu, CA", "Palo Alto, CA", "Montecito, CA", "Marin County, CA"]
   )
 
   return (

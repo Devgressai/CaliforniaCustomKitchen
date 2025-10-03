@@ -39,7 +39,7 @@ const applianceTypes = [
     description: 'Hide dishwashers behind custom cabinet panels that match your kitchen design perfectly.',
     features: ['Custom panels', 'Hidden controls', 'Seamless appearance', 'Easy access', 'Sound dampening'],
     brands: ['Bosch', 'Miele', 'KitchenAid', 'Whirlpool', 'Samsung', 'LG'],
-    priceRange: $800 - $3,000',
+    priceRange: '$800 - $3,000',
     timeline: '3-5 days'
   },
   {
