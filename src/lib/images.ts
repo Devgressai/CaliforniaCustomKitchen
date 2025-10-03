@@ -26,7 +26,7 @@ export const imageMetadata: Record<string, ImageMetadata> = {
   },
   'process-hero.webp': {
     filename: 'process-hero.webp',
-    alt: 'Master craftsman working on custom cabinetry in AV\'s Cabinets workshop showing attention to detail',
+    alt: 'Master craftsman working on custom cabinetry in PineWood Cabinets workshop showing attention to detail',
     category: 'process'
   },
 
@@ -237,7 +237,7 @@ export const imageMetadata: Record<string, ImageMetadata> = {
   },
   'workshop-craftsmanship.webp': {
     filename: 'process/workshop-craftsmanship.webp',
-    alt: 'Master craftsman working on custom cabinetry in AV\'s Cabinets workshop',
+    alt: 'Master craftsman working on custom cabinetry in PineWood Cabinets workshop',
     category: 'process'
   },
   'workshop-grain-matching.webp': {
@@ -420,7 +420,7 @@ export function getImagePath(filename: string): string {
 // Helper function to get alt text
 export function getImageAlt(filename: string): string {
   const metadata = getImageMetadata(filename);
-  return metadata?.alt || 'AV\'s Cabinets custom cabinetry';
+  return metadata?.alt || 'PineWood Cabinets custom cabinetry';
 }
 
 // Function to generate structured data for images

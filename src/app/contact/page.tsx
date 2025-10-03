@@ -2,12 +2,12 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Contact AV\'s Cabinets | Request Consultation | Luxury Kitchen Design California',
-  description: 'Contact AV\'s Cabinets for your custom kitchen and cabinetry needs. Request a private consultation with our master craftsmen serving California\'s wealthiest communities.',
-  keywords: 'contact AV\'s Cabinets, kitchen consultation, custom cabinetry quote, luxury kitchen design California, cabinet makers contact',
+  title: 'Contact PineWood Cabinets | Request Consultation | Luxury Kitchen Design California',
+  description: 'Contact PineWood Cabinets for your custom kitchen and cabinetry needs. Request a private consultation with our master craftsmen serving California\'s wealthiest communities.',
+  keywords: 'contact PineWood Cabinets, kitchen consultation, custom cabinetry quote, luxury kitchen design California, cabinet makers contact',
   openGraph: {
-    title: 'Contact AV\'s Cabinets | Request Consultation | Luxury Kitchen Design',
-    description: 'Contact AV\'s Cabinets for your custom kitchen and cabinetry needs. Request a private consultation with our master craftsmen.',
+    title: 'Contact PineWood Cabinets | Request Consultation | Luxury Kitchen Design',
+    description: 'Contact PineWood Cabinets for your custom kitchen and cabinetry needs. Request a private consultation with our master craftsmen.',
     type: 'website',
   },
 }

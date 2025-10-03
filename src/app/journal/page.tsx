@@ -2,11 +2,11 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Journal | Kitchen Design Trends & Insights | AV\'s Cabinets',
-  description: 'Explore our journal for the latest kitchen design trends, cabinetry insights, and luxury home design inspiration from AV\'s Cabinets master craftsmen.',
+  title: 'Journal | Kitchen Design Trends & Insights | PineWood Cabinets',
+  description: 'Explore our journal for the latest kitchen design trends, cabinetry insights, and luxury home design inspiration from PineWood Cabinets master craftsmen.',
   keywords: 'kitchen design trends, cabinetry insights, luxury home design, kitchen inspiration, custom cabinetry blog, design tips',
   openGraph: {
-    title: 'Journal | Kitchen Design Trends & Insights | AV\'s Cabinets',
+    title: 'Journal | Kitchen Design Trends & Insights | PineWood Cabinets',
     description: 'Explore our journal for the latest kitchen design trends, cabinetry insights, and luxury home design inspiration.',
     type: 'website',
   },
