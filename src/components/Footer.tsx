@@ -141,207 +141,240 @@ const footerNavigation = {
 export function Footer() {
   return (
     <footer className="bg-charcoal text-ivory">
-      <div className="max-w-7xl mx-auto px-6 lg:px-8 py-16">
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 xl:grid-cols-6 gap-8 lg:gap-12">
-          {/* Brand */}
-          <div className="lg:col-span-1">
-            <Link href="/" className="inline-block">
-              <span className="font-display text-2xl font-bold">PineWood Cabinets</span>
-            </Link>
-            <p className="mt-4 text-french-gray leading-relaxed">
-              Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork 
-              for California's finest homes since 2006.
+      <div className="max-w-7xl mx-auto px-6 lg:px-8">
+        {/* Main Footer Content */}
+        <div className="py-16">
+          <div className="grid grid-cols-1 lg:grid-cols-4 gap-12">
+            {/* Brand Section */}
+            <div className="lg:col-span-1">
+              <Link href="/" className="inline-block">
+                <span className="font-display text-3xl font-bold">PineWood Cabinets</span>
+              </Link>
+              <p className="mt-6 text-french-gray leading-relaxed text-lg">
+                Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork 
+                for California's finest homes since 2006.
+              </p>
+              <div className="mt-8 space-y-3">
+                <div className="flex items-center space-x-3">
+                  <div className="w-2 h-2 bg-brass rounded-full"></div>
+                  <p className="text-french-gray">By Appointment Only</p>
+                </div>
+                <div className="flex items-center space-x-3">
+                  <div className="w-2 h-2 bg-brass rounded-full"></div>
+                  <p className="text-french-gray">Serving California's Premier Communities</p>
+                </div>
+                <div className="flex items-center space-x-3">
+                  <div className="w-2 h-2 bg-brass rounded-full"></div>
+                  <p className="text-french-gray">Licensed & Insured</p>
+                </div>
+              </div>
+            </div>
+
+            {/* Services & Company */}
+            <div className="lg:col-span-1">
+              <h3 className="font-display text-xl font-semibold mb-8 text-ivory">Services</h3>
+              <ul className="space-y-4">
+                {footerNavigation.services.map((item) => (
+                  <li key={item.name}>
+                    <Link
+                      href={item.href}
+                      className="text-french-gray hover:text-ivory transition-colors duration-200 text-base hover:translate-x-1 transform transition-transform"
+                    >
+                      {item.name}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+              
+              <h3 className="font-display text-xl font-semibold mb-8 text-ivory mt-12">Company</h3>
+              <ul className="space-y-4">
+                {footerNavigation.company.map((item) => (
+                  <li key={item.name}>
+                    <Link
+                      href={item.href}
+                      className="text-french-gray hover:text-ivory transition-colors duration-200 text-base hover:translate-x-1 transform transition-transform"
+                    >
+                      {item.name}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+
+            {/* Service Areas - Primary Markets */}
+            <div className="lg:col-span-2">
+              <h3 className="font-display text-xl font-semibold mb-8 text-ivory">Service Areas</h3>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+                {/* Bay Area */}
+                <div>
+                  <h4 className="font-semibold text-brass mb-4 text-lg">San Francisco Bay Area</h4>
+                  <ul className="space-y-2">
+                    {footerNavigation.serviceAreas['San Francisco Bay Area'].slice(0, 6).map((item) => (
+                      <li key={item.name}>
+                        <Link
+                          href={item.href}
+                          className="text-french-gray hover:text-ivory transition-colors duration-200 text-sm hover:translate-x-1 transform transition-transform block"
+                        >
+                          {item.name}
+                        </Link>
+                      </li>
+                    ))}
+                    <li>
+                      <Link
+                        href="/service-areas"
+                        className="text-brass hover:text-ivory transition-colors duration-200 text-sm font-medium hover:translate-x-1 transform transition-transform block"
+                      >
+                        View All Areas →
+                      </Link>
+                    </li>
+                  </ul>
+                </div>
+
+                {/* Silicon Valley */}
+                <div>
+                  <h4 className="font-semibold text-brass mb-4 text-lg">Silicon Valley</h4>
+                  <ul className="space-y-2">
+                    {footerNavigation.serviceAreas['Silicon Valley'].slice(0, 6).map((item) => (
+                      <li key={item.name}>
+                        <Link
+                          href={item.href}
+                          className="text-french-gray hover:text-ivory transition-colors duration-200 text-sm hover:translate-x-1 transform transition-transform block"
+                        >
+                          {item.name}
+                        </Link>
+                      </li>
+                    ))}
+                    <li>
+                      <Link
+                        href="/service-areas"
+                        className="text-brass hover:text-ivory transition-colors duration-200 text-sm font-medium hover:translate-x-1 transform transition-transform block"
+                      >
+                        View All Areas →
+                      </Link>
+                    </li>
+                  </ul>
+                </div>
+
+                {/* Southern California */}
+                <div>
+                  <h4 className="font-semibold text-brass mb-4 text-lg">Southern California</h4>
+                  <ul className="space-y-2">
+                    {footerNavigation.serviceAreas['Southern California'].slice(0, 6).map((item) => (
+                      <li key={item.name}>
+                        <Link
+                          href={item.href}
+                          className="text-french-gray hover:text-ivory transition-colors duration-200 text-sm hover:translate-x-1 transform transition-transform block"
+                        >
+                          {item.name}
+                        </Link>
+                      </li>
+                    ))}
+                    <li>
+                      <Link
+                        href="/service-areas"
+                        className="text-brass hover:text-ivory transition-colors duration-200 text-sm font-medium hover:translate-x-1 transform transition-transform block"
+                      >
+                        View All Areas →
+                      </Link>
+                    </li>
+                  </ul>
+                </div>
+
+                {/* Other Areas */}
+                <div>
+                  <h4 className="font-semibold text-brass mb-4 text-lg">Other Areas</h4>
+                  <ul className="space-y-2">
+                    <li>
+                      <Link
+                        href="/service-areas/marin-county"
+                        className="text-french-gray hover:text-ivory transition-colors duration-200 text-sm hover:translate-x-1 transform transition-transform block"
+                      >
+                        Marin County
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        href="/service-areas/lake-tahoe"
+                        className="text-french-gray hover:text-ivory transition-colors duration-200 text-sm hover:translate-x-1 transform transition-transform block"
+                      >
+                        Lake Tahoe
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        href="/service-areas/sacramento"
+                        className="text-french-gray hover:text-ivory transition-colors duration-200 text-sm hover:translate-x-1 transform transition-transform block"
+                      >
+                        Sacramento Area
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        href="/service-areas/central-coast"
+                        className="text-french-gray hover:text-ivory transition-colors duration-200 text-sm hover:translate-x-1 transform transition-transform block"
+                      >
+                        Central Coast
+                      </Link>
+                    </li>
+                    <li>
+                      <Link
+                        href="/service-areas"
+                        className="text-brass hover:text-ivory transition-colors duration-200 text-sm font-medium hover:translate-x-1 transform transition-transform block"
+                      >
+                        View All Areas →
+                      </Link>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        {/* CTA Section */}
+        <div className="py-12 border-t border-french-gray/20">
+          <div className="text-center">
+            <h3 className="font-display text-2xl font-semibold mb-4 text-ivory">Ready to Create Your Dream Kitchen?</h3>
+            <p className="text-french-gray mb-8 max-w-2xl mx-auto">
+              Schedule a private consultation with our master craftsmen to discuss your custom kitchen vision.
             </p>
-            <div className="mt-6">
-              <p className="text-sm text-french-gray mb-2">By Appointment Only</p>
-              <p className="text-sm text-french-gray">Serving California's Premier Communities</p>
-            </div>
-          </div>
-
-          {/* Services */}
-          <div>
-            <h3 className="font-display text-lg font-semibold mb-6">Services</h3>
-            <ul className="space-y-3">
-              {footerNavigation.services.map((item) => (
-                <li key={item.name}>
-                  <Link
-                    href={item.href}
-                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-sm"
-                  >
-                    {item.name}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Company */}
-          <div>
-            <h3 className="font-display text-lg font-semibold mb-6">Company</h3>
-            <ul className="space-y-3">
-              {footerNavigation.company.map((item) => (
-                <li key={item.name}>
-                  <Link
-                    href={item.href}
-                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-sm"
-                  >
-                    {item.name}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Service Areas - San Francisco Bay Area */}
-          <div>
-            <h3 className="font-display text-lg font-semibold mb-6">San Francisco Bay Area</h3>
-            <ul className="space-y-2">
-              {footerNavigation.serviceAreas['San Francisco Bay Area'].map((item) => (
-                <li key={item.name}>
-                  <Link
-                    href={item.href}
-                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
-                  >
-                    {item.name}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Service Areas - Silicon Valley */}
-          <div>
-            <h3 className="font-display text-lg font-semibold mb-6">Silicon Valley</h3>
-            <ul className="space-y-2">
-              {footerNavigation.serviceAreas['Silicon Valley'].map((item) => (
-                <li key={item.name}>
-                  <Link
-                    href={item.href}
-                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
-                  >
-                    {item.name}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Service Areas - Marin County */}
-          <div>
-            <h3 className="font-display text-lg font-semibold mb-6">Marin County</h3>
-            <ul className="space-y-2">
-              {footerNavigation.serviceAreas['Marin County'].map((item) => (
-                <li key={item.name}>
-                  <Link
-                    href={item.href}
-                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
-                  >
-                    {item.name}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Service Areas - East Bay */}
-          <div>
-            <h3 className="font-display text-lg font-semibold mb-6">East Bay</h3>
-            <ul className="space-y-2">
-              {footerNavigation.serviceAreas['East Bay'].map((item) => (
-                <li key={item.name}>
-                  <Link
-                    href={item.href}
-                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
-                  >
-                    {item.name}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Service Areas - Peninsula */}
-          <div>
-            <h3 className="font-display text-lg font-semibold mb-6">Peninsula</h3>
-            <ul className="space-y-2">
-              {footerNavigation.serviceAreas['Peninsula'].map((item) => (
-                <li key={item.name}>
-                  <Link
-                    href={item.href}
-                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
-                  >
-                    {item.name}
-                  </Link>
-                </li>
-              ))}
-            </ul>
-          </div>
-
-          {/* Service Areas - North Bay & Others */}
-          <div>
-            <div className="mb-6">
-              <h3 className="font-display text-lg font-semibold mb-4">North Bay</h3>
-              <ul className="space-y-2 mb-6">
-                {footerNavigation.serviceAreas['North Bay'].map((item) => (
-                  <li key={item.name}>
-                    <Link
-                      href={item.href}
-                      className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
-                    >
-                      {item.name}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
-
-            <div className="mb-6">
-              <h3 className="font-display text-lg font-semibold mb-4">Sacramento Area</h3>
-              <ul className="space-y-2 mb-6">
-                {footerNavigation.serviceAreas['Sacramento Area'].map((item) => (
-                  <li key={item.name}>
-                    <Link
-                      href={item.href}
-                      className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
-                    >
-                      {item.name}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
-
-            <div>
-              <h3 className="font-display text-lg font-semibold mb-4">Lake Tahoe</h3>
-              <ul className="space-y-2">
-                {footerNavigation.serviceAreas['Lake Tahoe'].map((item) => (
-                  <li key={item.name}>
-                    <Link
-                      href={item.href}
-                      className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
-                    >
-                      {item.name}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Link
+                href="/contact"
+                className="bg-brass hover:bg-brass/90 text-charcoal font-semibold px-8 py-3 rounded-lg transition-colors duration-200"
+              >
+                Schedule Consultation
+              </Link>
+              <Link
+                href="/portfolio"
+                className="border border-french-gray hover:border-ivory text-ivory hover:text-ivory font-semibold px-8 py-3 rounded-lg transition-colors duration-200"
+              >
+                View Portfolio
+              </Link>
             </div>
           </div>
         </div>
 
         {/* Bottom */}
-        <div className="mt-16 pt-8 border-t border-french-gray/20">
+        <div className="py-8 border-t border-french-gray/20">
           <div className="flex flex-col md:flex-row justify-between items-center">
-            <p className="text-sm text-french-gray">
-              © {new Date().getFullYear()} PineWood Cabinets. All rights reserved.
-            </p>
-            <div className="mt-4 md:mt-0 flex space-x-6">
-              <Link href="/privacy" className="text-sm text-french-gray hover:text-ivory transition-colors duration-200">
-                Privacy Policy
-              </Link>
-              <Link href="/terms" className="text-sm text-french-gray hover:text-ivory transition-colors duration-200">
-                Terms of Service
-              </Link>
+            <div className="flex flex-col md:flex-row items-center space-y-2 md:space-y-0 md:space-x-6">
+              <p className="text-sm text-french-gray">
+                © {new Date().getFullYear()} PineWood Cabinets. All rights reserved.
+              </p>
+              <div className="flex space-x-6">
+                <Link href="/privacy" className="text-sm text-french-gray hover:text-ivory transition-colors duration-200">
+                  Privacy Policy
+                </Link>
+                <Link href="/terms" className="text-sm text-french-gray hover:text-ivory transition-colors duration-200">
+                  Terms of Service
+                </Link>
+              </div>
+            </div>
+            <div className="mt-4 md:mt-0">
+              <p className="text-sm text-french-gray">
+                Crafting Excellence Since 2006
+              </p>
             </div>
           </div>
         </div>
