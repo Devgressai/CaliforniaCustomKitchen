@@ -47,7 +47,7 @@ export default function TiburonPage() {
         title="Custom Kitchens Tiburon"
         subtitle="Museum-Grade Cabinetry for Marin County's Waterfront Luxury"
         description="Serving Tiburon's discerning homeowners with uncompromising craftsmanship and luxury kitchen design since 2006."
-        image="/images/service-areas/tiburon-hero.webp"
+        imageSrc="service-areas/tiburon-hero.webp"
         imageAlt="Luxury custom kitchen in Tiburon waterfront home with premium cabinetry and panoramic bay views"
       />
 
@@ -412,10 +412,10 @@ export default function TiburonPage() {
       <CTASection
         title="Ready to Create Your Tiburon Dream Kitchen?"
         description="Join Tiburon's most discerning homeowners who have chosen PineWood Cabinets for their custom cabinetry needs. Schedule a private consultation to discuss how we can bring your vision to life with uncompromising craftsmanship."
-        primaryButtonText="Schedule Consultation"
-        primaryButtonHref="/contact"
-        secondaryButtonText="View Portfolio"
-        secondaryButtonHref="/portfolio"
+        primaryCTA={{
+          text: "Schedule Consultation",
+          href: "/contact"
+        }}
       />
     </>
   )

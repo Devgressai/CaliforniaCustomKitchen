@@ -47,7 +47,7 @@ export default function MillValleyPage() {
         title="Custom Kitchens Mill Valley"
         subtitle="Museum-Grade Cabinetry for Marin County's Most Prestigious Homes"
         description="Serving Mill Valley's discerning homeowners with uncompromising craftsmanship and luxury kitchen design since 2006."
-        image="/images/service-areas/mill-valley-hero.webp"
+        imageSrc="service-areas/mill-valley-hero.webp"
         imageAlt="Luxury custom kitchen in Mill Valley home with premium cabinetry and architectural millwork"
       />
 
@@ -412,10 +412,10 @@ export default function MillValleyPage() {
       <CTASection
         title="Ready to Create Your Mill Valley Dream Kitchen?"
         description="Join Mill Valley's most discerning homeowners who have chosen PineWood Cabinets for their custom cabinetry needs. Schedule a private consultation to discuss how we can bring your vision to life with uncompromising craftsmanship."
-        primaryButtonText="Schedule Consultation"
-        primaryButtonHref="/contact"
-        secondaryButtonText="View Portfolio"
-        secondaryButtonHref="/portfolio"
+        primaryCTA={{
+          text: "Schedule Consultation",
+          href: "/contact"
+        }}
       />
     </>
   )

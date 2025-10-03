@@ -47,8 +47,8 @@ export default function MissionDistrictPage() {
         title="Custom Kitchens Mission District"
         subtitle="Museum-Grade Cabinetry for San Francisco's Cultural Heart"
         description="Serving Mission District's discerning residents with uncompromising craftsmanship and luxury kitchen design since 2006."
-        image="/images/service-areas/mission-district-hero.webp"
-        alt="Luxury custom kitchen in Mission District Victorian home with premium cabinetry and cultural character"
+        imageSrc="service-areas/mission-district-hero.webp"
+        imageAlt="Luxury custom kitchen in Mission District Victorian home with premium cabinetry and cultural character"
       />
 
       {/* Mission District Overview */}
@@ -412,10 +412,10 @@ export default function MissionDistrictPage() {
       <CTASection
         title="Ready to Create Your Mission District Dream Kitchen?"
         description="Join Mission District's most discerning residents who have chosen PineWood Cabinets for their custom cabinetry needs. Schedule a private consultation to discuss how we can bring your vision to life with uncompromising craftsmanship."
-        primaryButtonText="Schedule Consultation"
-        primaryButtonHref="/contact"
-        secondaryButtonText="View Portfolio"
-        secondaryButtonHref="/portfolio"
+        primaryCTA={{
+          text: "Schedule Consultation",
+          href: "/contact"
+        }}
       />
     </>
   )

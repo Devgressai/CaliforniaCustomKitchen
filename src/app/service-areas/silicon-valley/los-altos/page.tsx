@@ -47,7 +47,7 @@ export default function LosAltosPage() {
         title="Custom Kitchens Los Altos"
         subtitle="Museum-Grade Cabinetry for Silicon Valley's Family Luxury"
         description="Serving Los Altos' discerning families with uncompromising craftsmanship and luxury kitchen design since 2006."
-        image="/images/service-areas/los-altos-hero.webp"
+        imageSrc="service-areas/los-altos-hero.webp"
         imageAlt="Luxury custom kitchen in Los Altos family home with premium cabinetry and modern design"
       />
 
@@ -412,10 +412,10 @@ export default function LosAltosPage() {
       <CTASection
         title="Ready to Create Your Los Altos Dream Kitchen?"
         description="Join Los Altos' most discerning families who have chosen PineWood Cabinets for their custom cabinetry needs. Schedule a private consultation to discuss how we can bring your vision to life with uncompromising craftsmanship."
-        primaryButtonText="Schedule Consultation"
-        primaryButtonHref="/contact"
-        secondaryButtonText="View Portfolio"
-        secondaryButtonHref="/portfolio"
+        primaryCTA={{
+          text: "Schedule Consultation",
+          href: "/contact"
+        }}
       />
     </>
   )

@@ -47,7 +47,7 @@ export default function SOMAPage() {
         title="Custom Kitchens SOMA"
         subtitle="Museum-Grade Cabinetry for San Francisco's Urban Luxury"
         description="Serving SOMA's discerning residents with uncompromising craftsmanship and luxury kitchen design since 2006."
-        image="/images/service-areas/soma-hero.webp"
+        imageSrc="service-areas/soma-hero.webp"
         imageAlt="Luxury custom kitchen in SOMA loft with premium cabinetry and modern urban design"
       />
 
@@ -412,10 +412,10 @@ export default function SOMAPage() {
       <CTASection
         title="Ready to Create Your SOMA Dream Kitchen?"
         description="Join SOMA's most discerning residents who have chosen PineWood Cabinets for their custom cabinetry needs. Schedule a private consultation to discuss how we can bring your vision to life with uncompromising craftsmanship."
-        primaryButtonText="Schedule Consultation"
-        primaryButtonHref="/contact"
-        secondaryButtonText="View Portfolio"
-        secondaryButtonHref="/portfolio"
+        primaryCTA={{
+          text: "Schedule Consultation",
+          href: "/contact"
+        }}
       />
     </>
   )

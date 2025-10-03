@@ -64,10 +64,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/service-areas/san-francisco/marina-district',
     '/service-areas/san-francisco/castro-district',
     '/service-areas/san-francisco/richmond-district',
-    '/service-areas/san-francisco/soma',
-    '/service-areas/san-francisco/mission-district',
-    '/service-areas/san-francisco/hayes-valley',
-    '/service-areas/san-francisco/noe-valley',
     
     // Silicon Valley neighborhoods
     '/service-areas/silicon-valley/atherton',
@@ -79,19 +75,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/service-areas/silicon-valley/sunnyvale',
     '/service-areas/silicon-valley/mountain-view',
     '/service-areas/silicon-valley/woodside',
-    '/service-areas/silicon-valley/los-altos',
-    '/service-areas/silicon-valley/los-altos-hills',
     
     // Marin County neighborhoods
     '/service-areas/marin-county/sausalito',
     '/service-areas/marin-county/mill-valley',
     '/service-areas/marin-county/tiburon',
     '/service-areas/marin-county/belvedere',
-    '/service-areas/marin-county/corte-madera',
-    '/service-areas/marin-county/larkspur',
-    '/service-areas/marin-county/ross',
-    '/service-areas/marin-county/kentfield',
-    '/service-areas/marin-county/greenbrae',
     
     // Los Angeles neighborhoods
     '/service-areas/los-angeles/beverly-hills',
@@ -104,12 +93,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     '/service-areas/los-angeles/encino',
     '/service-areas/los-angeles/trousdale-estates',
     '/service-areas/los-angeles/palos-verdes-estates',
-    '/service-areas/los-angeles/brentwood',
-    '/service-areas/los-angeles/calabasas',
-    '/service-areas/los-angeles/hollywood-hills',
-    '/service-areas/los-angeles/pasadena',
-    '/service-areas/los-angeles/manhattan-beach',
-    '/service-areas/los-angeles/newport-beach',
     
     // San Diego neighborhoods
     '/service-areas/san-diego-county/del-mar',
