@@ -31,7 +31,7 @@ const slides: Slide[] = [
   },
   {
     id: 3,
-    src: '/images/portfolio/gallery-luxury-custom-kitchen-18-sacramento-california.webp',
+    src: '/images/portfolio/gallery-luxury-custom-kitchen-25.webp',
     alt: 'Modern kitchen with sleek lines and premium finishes',
     title: 'Modern Sophistication',
     subtitle: 'Sleek Design Excellence',
