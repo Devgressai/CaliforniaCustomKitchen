@@ -277,55 +277,55 @@ export function Footer() {
             </ul>
           </div>
 
-          {/* Service Areas - North Bay & Others */}
+          {/* Service Areas - North Bay */}
           <div>
-            <div className="mb-6">
-              <h3 className="font-display text-lg font-semibold mb-4">North Bay</h3>
-              <ul className="space-y-2 mb-6">
-                {footerNavigation.serviceAreas['North Bay'].map((item) => (
-                  <li key={item.name}>
-                    <Link
-                      href={item.href}
-                      className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
-                    >
-                      {item.name}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
+            <h3 className="font-display text-lg font-semibold mb-6">North Bay</h3>
+            <ul className="space-y-2">
+              {footerNavigation.serviceAreas['North Bay'].map((item) => (
+                <li key={item.name}>
+                  <Link
+                    href={item.href}
+                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
+                  >
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
 
-            <div className="mb-6">
-              <h3 className="font-display text-lg font-semibold mb-4">Sacramento Area</h3>
-              <ul className="space-y-2 mb-6">
-                {footerNavigation.serviceAreas['Sacramento Area'].map((item) => (
-                  <li key={item.name}>
-                    <Link
-                      href={item.href}
-                      className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
-                    >
-                      {item.name}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
+          {/* Service Areas - Sacramento Area */}
+          <div>
+            <h3 className="font-display text-lg font-semibold mb-6">Sacramento Area</h3>
+            <ul className="space-y-2">
+              {footerNavigation.serviceAreas['Sacramento Area'].map((item) => (
+                <li key={item.name}>
+                  <Link
+                    href={item.href}
+                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
+                  >
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
 
-            <div>
-              <h3 className="font-display text-lg font-semibold mb-4">Lake Tahoe</h3>
-              <ul className="space-y-2">
-                {footerNavigation.serviceAreas['Lake Tahoe'].map((item) => (
-                  <li key={item.name}>
-                    <Link
-                      href={item.href}
-                      className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
-                    >
-                      {item.name}
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
+          {/* Service Areas - Lake Tahoe */}
+          <div>
+            <h3 className="font-display text-lg font-semibold mb-6">Lake Tahoe</h3>
+            <ul className="space-y-2">
+              {footerNavigation.serviceAreas['Lake Tahoe'].map((item) => (
+                <li key={item.name}>
+                  <Link
+                    href={item.href}
+                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
+                  >
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
           </div>
         </div>
 
