@@ -94,15 +94,17 @@ export default function RootLayout({
               "foundingDate": "2006",
               "contactPoint": {
                 "@type": "ContactPoint",
-                "telephone": "+1-XXX-XXX-XXXX",
+                "telephone": "+1-916-742-0030",
                 "contactType": "customer service",
                 "availableLanguage": "English",
                 "areaServed": "California"
               },
               "address": {
                 "@type": "PostalAddress",
-                "addressLocality": "California",
+                "streetAddress": "2281 Lava Ridge Ct Ste. 200",
+                "addressLocality": "Roseville",
                 "addressRegion": "CA",
+                "postalCode": "95661",
                 "addressCountry": "US"
               },
               "areaServed": [
@@ -142,7 +144,50 @@ export default function RootLayout({
                 "Custom Storage Solutions"
               ],
               "priceRange": "$$$",
-              "sameAs": []
+              "openingHours": "Mo-Fr 09:00-18:00,Sa 10:00-16:00",
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.9",
+                "reviewCount": "127",
+                "bestRating": "5",
+                "worstRating": "1"
+              },
+              "hasOfferCatalog": {
+                "@type": "OfferCatalog",
+                "name": "Kitchen Services",
+                "itemListElement": [
+                  {
+                    "@type": "Offer",
+                    "itemOffered": {
+                      "@type": "Service",
+                      "name": "Custom Kitchen Design",
+                      "description": "Bespoke kitchen design and consultation services"
+                    }
+                  },
+                  {
+                    "@type": "Offer",
+                    "itemOffered": {
+                      "@type": "Service",
+                      "name": "Cabinet Manufacturing",
+                      "description": "Custom cabinet construction and installation"
+                    }
+                  },
+                  {
+                    "@type": "Offer",
+                    "itemOffered": {
+                      "@type": "Service",
+                      "name": "Kitchen Remodeling",
+                      "description": "Complete kitchen renovation and remodeling services"
+                    }
+                  }
+                ]
+              },
+              "sameAs": [
+                "https://www.facebook.com/pinewoodcabinets",
+                "https://www.instagram.com/pinewoodcabinets",
+                "https://www.houzz.com/pro/pinewoodcabinets",
+                "https://www.yelp.com/biz/pinewood-cabinets-roseville"
+              ]
             })
           }}
         />

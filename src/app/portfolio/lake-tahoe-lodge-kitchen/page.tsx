@@ -5,6 +5,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Breadcrumbs } from '@/components/Breadcrumbs'
 
+import { PortfolioPageLayout } from '@/components/PageLayout'
+import { PortfolioHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Lake Tahoe Lodge Kitchen | Mountain Kitchen Renovation | PineWood Cabinets",
   description: "Explore our Lake Tahoe lodge kitchen renovation case study. See how we created a mountain lodge kitchen with rustic materials, natural finishes, and alpine aesthetics.",

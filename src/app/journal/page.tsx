@@ -1,6 +1,10 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 
+import { Breadcrumbs } from '@/components/Breadcrumbs'
+import { JournalPageLayout } from '@/components/PageLayout'
+import { JournalHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: 'Journal | Kitchen Design Trends & Insights | PineWood Cabinets',
   description: 'Explore our journal for the latest kitchen design trends, cabinetry insights, and luxury home design inspiration from PineWood Cabinets master craftsmen.',

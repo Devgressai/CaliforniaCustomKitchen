@@ -1,6 +1,10 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 
+import { Breadcrumbs } from '@/components/Breadcrumbs'
+import { ServicePageLayout } from '@/components/PageLayout'
+import { ServiceHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: 'Custom Kitchens | Luxury Kitchen Design | AV\'s Cabinets California',
   description: 'Custom kitchens designed for California\'s most discerning clientele. AV\'s Cabinets creates bespoke kitchen solutions with premium materials and master craftsmanship.',

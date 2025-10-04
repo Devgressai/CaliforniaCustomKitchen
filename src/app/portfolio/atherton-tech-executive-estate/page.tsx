@@ -4,6 +4,10 @@ import CTASection from '@/components/CTASection'
 import Image from 'next/image'
 import Link from 'next/link'
 
+import { Breadcrumbs } from '@/components/Breadcrumbs'
+import { PortfolioPageLayout } from '@/components/PageLayout'
+import { PortfolioHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Atherton Tech Executive Estate Kitchen | Custom Cabinetry Case Study",
   description: "Explore our custom kitchen design for a Silicon Valley tech executive's Atherton estate. Museum-grade walnut cabinetry with smart home integration and entertaining capabilities.",
@@ -25,6 +29,24 @@ export const metadata: Metadata = {
 export default function AthertonTechExecutivePage() {
   return (
     <>
+      {/* Breadcrumbs */}
+      <section className="bg-ivory py-6">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <Breadcrumbs 
+            items={[
+          {
+                    "name": "Portfolio",
+                    "href": "/portfolio"
+          },
+          {
+                    "name": "Atherton Tech Executive Estate",
+                    "href": "/portfolio/atherton-tech-executive-estate",
+                    "current": true
+          }
+]} 
+          />
+        </div>
+      </section>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{

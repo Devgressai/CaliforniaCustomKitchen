@@ -1,6 +1,10 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 
+import { Breadcrumbs } from '@/components/Breadcrumbs'
+import { ServicePageLayout } from '@/components/PageLayout'
+import { ServiceHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: 'Architectural Millwork | Custom Woodwork | AV\'s Cabinets California',
   description: 'Custom architectural millwork for California\'s most prestigious homes. AV\'s Cabinets creates bespoke woodwork including coffered ceilings, moldings, and custom millwork.',

@@ -3,6 +3,10 @@ import { OptimizedImage } from '@/components/OptimizedImage'
 import { StructuredData } from '@/components/StructuredData'
 import Link from 'next/link'
 
+import { Breadcrumbs } from '@/components/Breadcrumbs'
+import { JournalPageLayout } from '@/components/PageLayout'
+import { JournalHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Luxury Kitchen Design Trends 2025 | California Custom Kitchens | PineWood Cabinets",
   description: "Discover the latest luxury kitchen design trends for 2025. From smart technology integration to sustainable materials, explore what's shaping California's most expensive homes.",
@@ -188,6 +192,25 @@ export default function LuxuryKitchenTrends2025() {
   return (
     <>
       <StructuredData article={articleSchema} />
+      
+      {/* Breadcrumbs */}
+      <section className="bg-ivory py-6">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <Breadcrumbs 
+            items={[
+          {
+                    "name": "Journal",
+                    "href": "/journal"
+          },
+          {
+                    "name": "Luxury Kitchen Design Trends 2025",
+                    "href": "/journal/luxury-kitchen-design-trends-2025",
+                    "current": true
+          }
+]} 
+          />
+        </div>
+      </section>
       
       <article className="min-h-screen bg-ivory">
         {/* Hero Section */}

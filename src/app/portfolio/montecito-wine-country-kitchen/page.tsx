@@ -5,6 +5,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Breadcrumbs } from '@/components/Breadcrumbs'
 
+import { PortfolioPageLayout } from '@/components/PageLayout'
+import { PortfolioHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Montecito Wine Country Kitchen | Luxury Kitchen Renovation | PineWood Cabinets",
   description: "Explore our Montecito wine country kitchen renovation case study. See how we created a luxury kitchen with wine storage, premium materials, and Santa Barbara County elegance.",

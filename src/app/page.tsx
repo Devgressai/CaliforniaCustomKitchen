@@ -2,6 +2,7 @@ import HomepageSlideshow from '@/components/HomepageSlideshow';
 import { ProjectGrid } from '@/components/ProjectGrid';
 import { ServiceCard } from '@/components/ServiceCard';
 import CTASection from '@/components/CTASection';
+import { ReviewCollection, ReviewSchema } from '@/components/ReviewCollection';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
@@ -29,7 +30,9 @@ export const metadata: Metadata = {
 
 export default function HomePage() {
   return (
-    <div className="min-h-screen bg-ivory">
+    <>
+      <ReviewSchema />
+      <div className="min-h-screen bg-ivory">
       {/* Hero Slideshow */}
       <HomepageSlideshow />
 
@@ -208,6 +211,13 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* Reviews Section */}
+      <section className="py-24 bg-french-gray/10">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <ReviewCollection />
+        </div>
+      </section>
+
       {/* CTA Section */}
       <CTASection 
         title="Ready to Begin Your Project?"
@@ -222,6 +232,7 @@ export default function HomePage() {
         }}
         background="dark"
       />
-    </div>
+      </div>
+    </>
   )
 }

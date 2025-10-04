@@ -5,6 +5,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Breadcrumbs } from '@/components/Breadcrumbs'
 
+import { ServicePageLayout } from '@/components/PageLayout'
+import { ServiceHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Custom Storage Solutions | Built-in Storage & Organization | PineWood Cabinets",
   description: "Maximize your space with custom storage solutions. Built-in cabinets, walk-in closets, pantry organization, and custom storage systems designed for your lifestyle.",

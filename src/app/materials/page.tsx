@@ -5,6 +5,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Breadcrumbs } from '@/components/Breadcrumbs'
 
+import { MaterialsPageLayout } from '@/components/PageLayout'
+import { MaterialsHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Premium Materials | Custom Kitchen Cabinetry Woods & Finishes",
   description: "Explore our curated selection of premium hardwoods, exotic veneers, and museum-grade finishes. Sustainable sourcing meets uncompromising quality for California's finest homes.",

@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
+import { LocalCitations, LocalCitationsSchema } from '@/components/LocalCitations'
 
 export const metadata: Metadata = {
   title: 'Contact PineWood Cabinets | Request Consultation | Luxury Kitchen Design California',
@@ -16,14 +17,14 @@ const contactMethods = [
   {
     title: 'Phone Consultation',
     description: 'Speak directly with our design team to discuss your project requirements and timeline.',
-    contact: '(555) 123-4567',
+    contact: '(916) 742-0030',
     hours: 'Mon-Fri: 9AM-6PM PST',
     icon: '📞'
   },
   {
     title: 'Email Inquiry',
     description: 'Send us detailed information about your project and we\'ll respond within 24 hours.',
-    contact: 'info@california-custom-kitchen.vercel.app',
+    contact: 'info@pinewoodcabinets.com',
     hours: 'Response within 24 hours',
     icon: '✉️'
   },
@@ -57,8 +58,12 @@ const serviceAreas = [
     cities: ['Pacific Heights', 'Presidio Heights', 'Sea Cliff', 'Marin County', 'Napa Valley']
   },
   {
+    region: 'Monterey Bay',
+    cities: ['Carmel', 'Carmel by the Sea', 'Big Sur', 'Seaside', 'Santa Cruz', 'Monterey', 'Pacific Grove', 'Pebble Beach', 'Carmel Valley', 'Capitola', 'Aptos', 'Marina', 'Del Rey Oaks', 'Scotts Valley', 'Soquel', 'La Selva Beach']
+  },
+  {
     region: 'Central Coast',
-    cities: ['Montecito', 'Pebble Beach', 'Carmel-by-the-Sea', 'Santa Barbara']
+    cities: ['Montecito', 'Santa Barbara']
   }
 ]
 
@@ -91,7 +96,9 @@ const faqs = [
 
 export default function ContactPage() {
   return (
-    <div className="min-h-screen bg-ivory">
+    <>
+      <LocalCitationsSchema />
+      <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
@@ -366,6 +373,52 @@ export default function ContactPage() {
         </div>
       </section>
 
+      {/* Business Address & Location */}
+      <section className="py-16 bg-french-gray/10">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <div className="text-center mb-12">
+            <h2 className="text-3xl md:text-4xl font-bold text-charcoal mb-4 font-display">
+              Visit Our Workshop
+            </h2>
+            <p className="text-lg text-charcoal/80">
+              Located in the heart of Roseville, our workshop is where craftsmanship meets innovation
+            </p>
+          </div>
+          
+          <div className="max-w-4xl mx-auto">
+            <div className="bg-white rounded-lg shadow-sm p-8 text-center">
+              <div className="mb-6">
+                <h3 className="text-2xl font-semibold text-charcoal mb-2">PineWood Cabinets</h3>
+                <div className="text-lg text-charcoal/80 space-y-1">
+                  <p>2281 Lava Ridge Ct Ste. 200</p>
+                  <p>Roseville, CA 95661</p>
+                  <p className="text-deep-green font-medium">(916) 742-0030</p>
+                </div>
+              </div>
+              
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6 text-sm text-charcoal/70">
+                <div>
+                  <h4 className="font-semibold text-charcoal mb-2">Business Hours</h4>
+                  <div className="space-y-1">
+                    <p>Monday - Friday: 9:00 AM - 6:00 PM</p>
+                    <p>Saturday: 10:00 AM - 4:00 PM</p>
+                    <p>Sunday: Closed</p>
+                  </div>
+                </div>
+                <div>
+                  <h4 className="font-semibold text-charcoal mb-2">Appointments</h4>
+                  <div className="space-y-1">
+                    <p>Private consultations available</p>
+                    <p>Design studio visits by appointment</p>
+                    <p>Home visits throughout California</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* Service Areas */}
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
@@ -434,15 +487,23 @@ export default function ContactPage() {
             Don't wait to begin your dream project. Contact us today to schedule your free consultation and take the first step toward your perfect kitchen or cabinetry solution.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="tel:+15551234567" className="bg-ivory text-deep-green px-8 py-4 rounded font-medium hover:bg-ivory/90 transition-colors">
-              Call (555) 123-4567
+            <a href="tel:+19167420030" className="bg-ivory text-deep-green px-8 py-4 rounded font-medium hover:bg-ivory/90 transition-colors">
+              Call (916) 742-0030
             </a>
-            <a href="mailto:info@california-custom-kitchen.vercel.app" className="border border-ivory text-ivory px-8 py-4 rounded font-medium hover:bg-ivory hover:text-deep-green transition-colors">
+            <a href="mailto:info@pinewoodcabinets.com" className="border border-ivory text-ivory px-8 py-4 rounded font-medium hover:bg-ivory hover:text-deep-green transition-colors">
               Email Us
             </a>
           </div>
         </div>
       </section>
+
+      {/* Local Citations */}
+      <section className="py-24 bg-white">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <LocalCitations />
+        </div>
+      </section>
     </div>
+    </>
   )
 }

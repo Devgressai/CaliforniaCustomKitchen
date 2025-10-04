@@ -5,6 +5,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Breadcrumbs } from '@/components/Breadcrumbs'
 
+import { ServicePageLayout } from '@/components/PageLayout'
+import { ServiceHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Cabinet Refacing Services | Kitchen Cabinet Refacing | PineWood Cabinets",
   description: "Transform your kitchen with cabinet refacing services. Update doors, drawer fronts, and hardware while keeping your existing layout. Cost-effective kitchen makeover.",

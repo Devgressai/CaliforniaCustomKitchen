@@ -4,6 +4,10 @@ import CTASection from '@/components/CTASection'
 import Image from 'next/image'
 import Link from 'next/link'
 
+import { Breadcrumbs } from '@/components/Breadcrumbs'
+import { ProcessPageLayout } from '@/components/PageLayout'
+import { ProcessHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Our Process | Custom Kitchen Design & Cabinetry Manufacturing",
   description: "Discover our meticulous 6-phase process for creating custom kitchens and cabinetry. From initial consultation to white-glove installation, experience uncompromising craftsmanship.",
@@ -25,6 +29,19 @@ export const metadata: Metadata = {
 export default function ProcessPage() {
   return (
     <>
+      {/* Breadcrumbs */}
+      <section className="bg-ivory py-6">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <Breadcrumbs 
+            items={[
+          {
+                    "name": "Process",
+                    "href": "/process"
+          }
+]} 
+          />
+        </div>
+      </section>
       <HeroQuiet
         title="Craftsmanship as a Journey"
         subtitle="Our Six-Phase Process"

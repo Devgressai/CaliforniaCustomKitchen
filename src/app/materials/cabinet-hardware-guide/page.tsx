@@ -5,6 +5,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Breadcrumbs } from '@/components/Breadcrumbs'
 
+import { MaterialsPageLayout } from '@/components/PageLayout'
+import { MaterialsHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Cabinet Hardware Guide | Knobs, Pulls & Hinges Guide | PineWood Cabinets",
   description: "Complete guide to cabinet hardware including knobs, pulls, hinges, and drawer slides. Learn how to choose the right hardware for your kitchen cabinets.",

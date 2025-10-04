@@ -5,6 +5,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Breadcrumbs } from '@/components/Breadcrumbs'
 
+import { PortfolioPageLayout } from '@/components/PageLayout'
+import { PortfolioHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Palo Alto Tech Executive Kitchen | Smart Kitchen Renovation | PineWood Cabinets",
   description: "Explore our Palo Alto tech executive kitchen renovation case study. See how we created a smart kitchen with integrated technology, modern design, and Silicon Valley aesthetics.",

@@ -5,6 +5,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Breadcrumbs } from '@/components/Breadcrumbs'
 
+import { PortfolioPageLayout } from '@/components/PageLayout'
+import { PortfolioHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Malibu Coastal Kitchen | Beach House Kitchen Renovation | PineWood Cabinets",
   description: "Explore our Malibu coastal kitchen renovation case study. See how we created a beach house kitchen with ocean views, natural materials, and coastal design elements.",

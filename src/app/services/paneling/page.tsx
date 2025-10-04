@@ -1,6 +1,10 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 
+import { Breadcrumbs } from '@/components/Breadcrumbs'
+import { ServicePageLayout } from '@/components/PageLayout'
+import { ServiceHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: 'Custom Paneling | Wall Paneling Design | AV\'s Cabinets California',
   description: 'Custom wall paneling for California\'s most prestigious homes. AV\'s Cabinets creates bespoke paneling including raised panels, wainscoting, and custom wall treatments.',

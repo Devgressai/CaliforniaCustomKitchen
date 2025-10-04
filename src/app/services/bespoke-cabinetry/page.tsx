@@ -5,6 +5,10 @@ import { LocationBreadcrumbs } from '@/components/Breadcrumbs'
 import { StructuredData, generateServiceSchema } from '@/components/StructuredData'
 import { OptimizedImage } from '@/components/OptimizedImage'
 
+import { ServicePageLayout } from '@/components/PageLayout'
+import { ServiceHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
+import Link from 'next/link'
 export const metadata: Metadata = {
   title: "Bespoke Cabinetry | Custom Built-Ins & Storage Solutions California",
   description: "Beyond kitchens: museum-grade bespoke cabinetry for libraries, closets, entertainment centers, and wine rooms. Serving California's luxury homes with uncompromising craftsmanship.",

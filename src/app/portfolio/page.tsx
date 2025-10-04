@@ -1,6 +1,10 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 
+import { Breadcrumbs } from '@/components/Breadcrumbs'
+import { PortfolioPageLayout } from '@/components/PageLayout'
+import { PortfolioHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: 'Portfolio | Custom Kitchens & Bespoke Cabinetry | AV\'s Cabinets',
   description: 'Explore our portfolio of custom kitchens, bespoke cabinetry, and architectural millwork for California\'s most discerning clientele. Museum-grade craftsmanship meets contemporary design.',

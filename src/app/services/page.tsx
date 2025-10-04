@@ -1,6 +1,10 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
 
+import { Breadcrumbs } from '@/components/Breadcrumbs'
+import { ServicePageLayout } from '@/components/PageLayout'
+import { ServiceHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: 'Luxury Kitchen & Cabinet Services | Custom Design | PineWood Cabinets',
   description: 'Luxury cabinetry services: custom kitchens, bespoke cabinetry, architectural millwork, and storage solutions for California\'s most discerning clientele.',

@@ -5,6 +5,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Breadcrumbs } from '@/components/Breadcrumbs'
 
+import { ProcessPageLayout } from '@/components/PageLayout'
+import { ProcessHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Kitchen Layout Guide | Kitchen Design Layouts & Planning | PineWood Cabinets",
   description: "Complete guide to kitchen layouts and design planning. Learn about different kitchen layout types, design principles, and how to plan the perfect kitchen for your space.",

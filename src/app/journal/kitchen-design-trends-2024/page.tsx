@@ -5,6 +5,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Breadcrumbs } from '@/components/Breadcrumbs'
 
+import { JournalPageLayout } from '@/components/PageLayout'
+import { JournalHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Kitchen Design Trends 2025 | Top Kitchen Design Ideas | PineWood Cabinets",
   description: "Discover the top kitchen design trends for 2025. From smart technology to sustainable materials, explore the latest kitchen design ideas and inspiration.",

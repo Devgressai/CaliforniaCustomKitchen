@@ -3,6 +3,9 @@ import { HeroQuiet } from '@/components/HeroQuiet'
 import CTASection from '@/components/CTASection'
 import { Breadcrumbs } from '@/components/Breadcrumbs'
 
+import { ProcessPageLayout } from '@/components/PageLayout'
+import { ProcessHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Kitchen Renovation Costs | Kitchen Remodeling Prices | PineWood Cabinets",
   description: "Complete guide to kitchen renovation costs including budgeting, pricing factors, and cost breakdowns. Learn how to plan your kitchen renovation budget.",

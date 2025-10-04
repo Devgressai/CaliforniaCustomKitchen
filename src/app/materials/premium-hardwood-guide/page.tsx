@@ -3,6 +3,10 @@ import { OptimizedImage } from '@/components/OptimizedImage'
 import { StructuredData } from '@/components/StructuredData'
 import Link from 'next/link'
 
+import { Breadcrumbs } from '@/components/Breadcrumbs'
+import { MaterialsPageLayout } from '@/components/PageLayout'
+import { MaterialsHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Premium Hardwood Guide for Custom Kitchens | California Luxury Cabinetry | PineWood Cabinets",
   description: "Complete guide to premium hardwoods for custom kitchen cabinetry. Learn about wood species, grain patterns, durability, and applications for California's luxury homes.",
@@ -391,6 +395,25 @@ export default function PremiumHardwoodGuide() {
   return (
     <>
       <StructuredData article={articleSchema} />
+      
+      {/* Breadcrumbs */}
+      <section className="bg-ivory py-6">
+        <div className="max-w-7xl mx-auto px-6 lg:px-8">
+          <Breadcrumbs 
+            items={[
+          {
+                    "name": "Materials",
+                    "href": "/materials"
+          },
+          {
+                    "name": "Premium Hardwood Guide",
+                    "href": "/materials/premium-hardwood-guide",
+                    "current": true
+          }
+]} 
+          />
+        </div>
+      </section>
       
       <article className="min-h-screen bg-ivory">
         {/* Hero Section */}

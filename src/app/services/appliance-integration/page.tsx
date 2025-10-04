@@ -5,6 +5,9 @@ import Image from 'next/image'
 import Link from 'next/link'
 import { Breadcrumbs } from '@/components/Breadcrumbs'
 
+import { ServicePageLayout } from '@/components/PageLayout'
+import { ServiceHero } from '@/components/StandardHero'
+import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
   title: "Kitchen Appliance Integration | Built-in Appliances & Custom Installation | PineWood Cabinets",
   description: "Professional kitchen appliance integration services. Seamlessly integrate built-in appliances with custom cabinetry for a cohesive, high-end kitchen design.",

@@ -113,9 +113,26 @@ const footerNavigation = {
       { name: 'Tahoe Vista', href: '/service-areas/lake-tahoe/tahoe-vista' },
       { name: 'Tahoma', href: '/service-areas/lake-tahoe/tahoma' },
     ],
+    'Monterey Bay': [
+      { name: 'Carmel', href: '/service-areas/monterey-bay/carmel' },
+      { name: 'Carmel by the Sea', href: '/service-areas/monterey-bay/carmel-by-the-sea' },
+      { name: 'Big Sur', href: '/service-areas/monterey-bay/big-sur' },
+      { name: 'Seaside', href: '/service-areas/monterey-bay/seaside' },
+      { name: 'Santa Cruz', href: '/service-areas/monterey-bay/santa-cruz' },
+      { name: 'Monterey', href: '/service-areas/monterey-bay/monterey' },
+      { name: 'Pacific Grove', href: '/service-areas/monterey-bay/pacific-grove' },
+      { name: 'Pebble Beach', href: '/service-areas/monterey-bay/pebble-beach' },
+      { name: 'Carmel Valley', href: '/service-areas/monterey-bay/carmel-valley' },
+      { name: 'Capitola', href: '/service-areas/monterey-bay/capitola' },
+      { name: 'Aptos', href: '/service-areas/monterey-bay/aptos' },
+      { name: 'Marina', href: '/service-areas/monterey-bay/marina' },
+      { name: 'Del Rey Oaks', href: '/service-areas/monterey-bay/del-rey-oaks' },
+      { name: 'Scotts Valley', href: '/service-areas/monterey-bay/scotts-valley' },
+      { name: 'Soquel', href: '/service-areas/monterey-bay/soquel' },
+      { name: 'La Selva Beach', href: '/service-areas/monterey-bay/la-selva-beach' },
+    ],
     'Central California': [
       { name: 'Central Coast', href: '/service-areas/central-coast' },
-      { name: 'Pebble Beach', href: '/service-areas/central-coast/pebble-beach' },
       { name: 'Santa Barbara', href: '/service-areas/santa-barbara' },
       { name: 'Montecito', href: '/service-areas/santa-barbara/montecito' },
     ],
@@ -316,6 +333,23 @@ export function Footer() {
             <h3 className="font-display text-lg font-semibold mb-6">Lake Tahoe</h3>
             <ul className="space-y-2">
               {footerNavigation.serviceAreas['Lake Tahoe'].map((item) => (
+                <li key={item.name}>
+                  <Link
+                    href={item.href}
+                    className="text-french-gray hover:text-ivory transition-colors duration-200 text-xs"
+                  >
+                    {item.name}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </div>
+
+          {/* Service Areas - Monterey Bay */}
+          <div>
+            <h3 className="font-display text-lg font-semibold mb-6">Monterey Bay</h3>
+            <ul className="space-y-2">
+              {footerNavigation.serviceAreas['Monterey Bay'].map((item) => (
                 <li key={item.name}>
                   <Link
                     href={item.href}
