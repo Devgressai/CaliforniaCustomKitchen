@@ -55,7 +55,7 @@ export default function MontereyPage() {
         service="Kitchen Design & Cabinetry"
         description="Serving Monterey's historic community with luxury custom kitchens and bespoke cabinetry that celebrate the rich heritage, coastal beauty, and sophisticated lifestyle of this iconic Monterey Bay city."
         imageSrc="service-areas/monterey-kitchen-hero.webp"
-        alt="Luxury custom kitchen in Monterey home with historic coastal design"
+        imageAlt="Luxury custom kitchen in Monterey home with historic coastal design"
       />
 
       {/* Monterey Kitchen Services Overview */}
