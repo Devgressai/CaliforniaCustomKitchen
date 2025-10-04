@@ -176,9 +176,7 @@ export default function KitchenLightingPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Lighting Types
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Choose from our comprehensive selection of kitchen lighting solutions designed for function and style.
             </p>
@@ -234,9 +232,7 @@ export default function KitchenLightingPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Lighting Design Types
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our lighting designs are tailored to create the perfect atmosphere and functionality for your kitchen.
             </p>
@@ -280,9 +276,7 @@ export default function KitchenLightingPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Our Lighting Process
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We follow a systematic approach to ensure your kitchen lighting is perfectly designed and installed.
             </p>
@@ -322,9 +316,7 @@ export default function KitchenLightingPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              What Our Clients Say
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               Hear from homeowners who have transformed their kitchens with our lighting solutions.
             </p>
@@ -354,9 +346,7 @@ export default function KitchenLightingPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Lighting Design FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about our kitchen lighting design services.
             </p>

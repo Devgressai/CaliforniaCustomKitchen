@@ -93,9 +93,7 @@ export default function TrousdaleEstatesPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto">
-            <h1 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-8 text-balance">
-              Custom Kitchen Cabinets for Trousdale Estates' Elite
-            </h1>
+            <h1 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-8 text-balance">Custom Kitchens in trousdale-estates | Luxury Cabinetry</h1>
             <div className="prose-luxury">
               <p className="text-xl leading-relaxed text-charcoal/80 mb-8">
                 In Trousdale Estates—Beverly Hills' most prestigious neighborhood and home to entertainment industry titans, tech moguls, and international business leaders—exceptional homes demand exceptional craftsmanship. Since 2006, PineWood Cabinets has served as the preferred cabinetry artisan for Beverly Hills' most discerning residents, creating custom kitchens and architectural millwork that reflect both the glamour of Hollywood and the timeless principles of fine craftsmanship.
@@ -113,9 +111,7 @@ export default function TrousdaleEstatesPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="font-display text-4xl font-bold text-charcoal mb-8">
-                Design Philosophy for Beverly Hills' Finest
-              </h2>
+              <h2 className="font-display text-4xl font-bold text-charcoal mb-8">Luxury Kitchen Design in trousdale-estates</h2>
               <div className="prose-luxury">
                 <p className="text-lg leading-relaxed text-charcoal/80 mb-6">
                   Trousdale Estates' architectural landscape spans from iconic mid-century modern masterpieces to cutting-edge contemporary designs, each reflecting the unique vision of residents who have succeeded at the highest levels of entertainment and business. Our design philosophy embraces this diversity while maintaining unwavering standards of craftsmanship and functionality.
@@ -145,9 +141,7 @@ export default function TrousdaleEstatesPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Material Intelligence: Entertainment Meets Tradition
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Luxury Kitchen Design in trousdale-estates</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Trousdale Estates clients expect the same level of innovation in their cabinetry that they bring to their professional endeavors—cutting-edge materials, advanced engineering, and sustainable practices.
             </p>
@@ -246,9 +240,7 @@ export default function TrousdaleEstatesPage() {
               />
             </div>
             <div>
-              <h2 className="font-display text-4xl font-bold text-charcoal mb-8">
-                Engineering Excellence: Beverly Hills Standards
-              </h2>
+              <h2 className="font-display text-4xl font-bold text-charcoal mb-8">Luxury Kitchen Design in trousdale-estates</h2>
               <div className="prose-luxury">
                 <p className="text-lg leading-relaxed text-charcoal/80 mb-6">
                   Our Trousdale Estates clients operate in industries where precision isn't just preferred—it's essential for success. We apply the same exacting standards to our cabinetry, employing engineering principles and quality control processes that would be familiar to any Beverly Hills R&D department.
@@ -292,9 +284,7 @@ export default function TrousdaleEstatesPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Designed for the Trousdale Estates Lifestyle
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Luxury Kitchen Design in trousdale-estates</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From intimate family gatherings to Hollywood-level entertaining, our kitchens adapt to the unique rhythms of Beverly Hills leadership.
             </p>
@@ -395,9 +385,7 @@ export default function TrousdaleEstatesPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold mb-6">
-              Specialized Services for Trousdale Estates Homes
-            </h2>
+            <h2 className="font-display text-4xl font-bold mb-6">Luxury Kitchen Design in trousdale-estates</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               Beyond custom kitchens, we provide comprehensive cabinetry solutions for every aspect of luxury living in Beverly Hills' premier community.
             </p>
@@ -461,9 +449,7 @@ export default function TrousdaleEstatesPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Honoring Trousdale Estates' Architectural Heritage
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Luxury Kitchen Design in trousdale-estates</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From iconic mid-century modern masterpieces to cutting-edge contemporary designs, we ensure our cabinetry enhances rather than competes with architectural character.
             </p>
@@ -553,9 +539,7 @@ export default function TrousdaleEstatesPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Preserving Your Investment
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Luxury Kitchen Design in trousdale-estates</h2>
             <p className="text-xl text-charcoal/80">
               Our Trousdale Estates clients understand that true luxury lies in longevity. We provide comprehensive care programs to ensure your cabinetry maintains its beauty and functionality for generations.
             </p>
@@ -609,9 +593,7 @@ export default function TrousdaleEstatesPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Collaborating with Beverly Hills' Design Elite
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Luxury Kitchen Design in trousdale-estates</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               The most successful Trousdale Estates projects result from collaboration between visionary architects, talented interior designers, and master craftsmen who understand the unique requirements of luxury living.
             </p>
@@ -685,9 +667,7 @@ export default function TrousdaleEstatesPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Frequently Asked Questions
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Luxury Kitchen Design in trousdale-estates</h2>
             <p className="text-xl text-charcoal/80">
               Answers to common questions from Trousdale Estates homeowners about custom cabinetry projects.
             </p>

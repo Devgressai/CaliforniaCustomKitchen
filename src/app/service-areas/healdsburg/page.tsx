@@ -56,9 +56,7 @@ export default function HealdsburgPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Healdsburg's Premier Wine Country Kitchen Destination
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in healdsburg</h2>
               <p className="text-xl text-charcoal/80 mb-6 leading-relaxed">
                 Healdsburg represents the crown jewel of Wine Country living—where rustic charm meets sophisticated luxury. Our Healdsburg clients understand that true elegance lies in creating spaces that honor both the region's agricultural heritage and their own refined lifestyle.
               </p>
@@ -93,9 +91,7 @@ export default function HealdsburgPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Wine Country Living Expertise
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in healdsburg</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our deep understanding of Healdsburg's unique wine country environment enables us to deliver cabinetry solutions that perfectly complement both the region's agricultural character and luxury living standards.
             </p>
@@ -148,9 +144,7 @@ export default function HealdsburgPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Healdsburg Neighborhoods We Serve
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in healdsburg</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From the historic downtown to the exclusive wine country estates, we serve all of Healdsburg's most prestigious neighborhoods.
             </p>
@@ -185,9 +179,7 @@ export default function HealdsburgPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Designed for Wine Country Living
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in healdsburg</h2>
               <p className="text-xl text-ivory/90 mb-6 leading-relaxed">
                 Healdsburg's unique wine country environment creates distinct requirements for luxury kitchen design. Our approach honors the region's agricultural heritage while delivering the functionality and elegance modern residents demand.
               </p>
@@ -217,9 +209,7 @@ export default function HealdsburgPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Featured Healdsburg Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in healdsburg</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our portfolio of custom kitchens and cabinetry projects throughout Healdsburg's most prestigious wine country neighborhoods.
             </p>
@@ -281,9 +271,7 @@ export default function HealdsburgPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Wine Country Lifestyle Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in healdsburg</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Healdsburg kitchens are designed to support the unique wine country lifestyle and values of this special community.
             </p>
@@ -369,9 +357,7 @@ export default function HealdsburgPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Healdsburg Kitchen Design FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in healdsburg</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen design in Healdsburg
             </p>

@@ -177,9 +177,7 @@ export default function KitchenDesignTrends2024Page() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              The Future of Kitchen Design
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Introduction</h2>
             <p className="text-xl text-charcoal/80">
               As we move through 2025, kitchen design continues to evolve with new trends that reflect our changing lifestyles, technological advances, and environmental consciousness. This year's trends focus on functionality, sustainability, and personal expression.
             </p>
@@ -191,9 +189,7 @@ export default function KitchenDesignTrends2024Page() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Top Kitchen Design Trends for 2025
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Introduction</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore the most popular kitchen design trends that are shaping the industry this year.
             </p>
@@ -244,9 +240,7 @@ export default function KitchenDesignTrends2024Page() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Design Tips for 2024
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Introduction</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Practical tips to help you incorporate the latest trends into your kitchen design.
             </p>
@@ -271,9 +265,7 @@ export default function KitchenDesignTrends2024Page() {
       {/* Conclusion */}
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8 text-center">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              Ready to Embrace 2025 Trends?
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Introduction</h2>
             <p className="text-xl text-french-gray mb-8">
               Whether you're planning a complete kitchen renovation or looking to update specific elements, incorporating these 2025 trends can help create a kitchen that's both beautiful and functional. Our team at PineWood Cabinets is here to help you bring your vision to life.
             </p>

@@ -215,14 +215,19 @@ const localMarketInsights = [
 
 export default function LosAngelesPage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens in los-angeles | Luxury Cabinetry</h1>
+        <h2>Luxury Kitchen Design in los-angeles</h2><h2>Premium Materials & Craftsmanship</h2><h2>Local Kitchen Design Expertise</h2><h2>Custom Kitchen Services</h2><h2>Why Choose Us for los-angeles Kitchens</h2><h2>Frequently Asked Questions</h2>
+        <h3>Custom Kitchen Design</h3><h3>Bespoke Cabinetry Services</h3><h3>Kitchen Remodeling</h3><h3>Cabinet Hardware Selection</h3><h3>Kitchen Lighting Design</h3><h3>Appliance Integration</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Custom Kitchens Los Angeles
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens in los-angeles | Luxury Cabinetry</h1>
             <p className="text-xl md:text-2xl mb-8 leading-relaxed text-french-gray">
               Luxury cabinetry and custom kitchens for Los Angeles' most prestigious neighborhoods. Where European craftsmanship meets Hollywood sophistication.
             </p>
@@ -248,9 +253,7 @@ export default function LosAngelesPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Los Angeles Luxury Kitchen Market
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-angeles</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               Los Angeles represents one of the most sophisticated and diverse luxury kitchen markets in the world. From Beverly Hills' Mediterranean Revival estates to Hollywood Hills' Mid-Century Modern masterpieces, our city offers unparalleled opportunities for creative kitchen design that reflects both architectural heritage and contemporary luxury.
             </p>
@@ -272,9 +275,7 @@ export default function LosAngelesPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Los Angeles Architectural Heritage
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-angeles</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               Our cabinetry designs honor Los Angeles' diverse architectural heritage while incorporating modern luxury and functionality. From Craftsman bungalows to ultra-modern hillside estates, we create kitchens that perfectly complement each architectural style.
             </p>
@@ -309,9 +310,7 @@ export default function LosAngelesPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Recent Los Angeles Commissions
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-angeles</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               Each project represents a unique collaboration with Los Angeles' most discerning homeowners, creating spaces that honor both architectural heritage and contemporary luxury while reflecting the city's unique lifestyle and culture.
             </p>
@@ -346,9 +345,7 @@ export default function LosAngelesPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              Los Angeles' Premier Neighborhoods
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in los-angeles</h2>
             <p className="text-xl text-french-gray max-w-4xl mx-auto">
               We serve Los Angeles' most prestigious neighborhoods, each with its own unique character, architectural requirements, and luxury standards. From Beverly Hills' Mediterranean Revival estates to Malibu's contemporary coastal homes, we understand the nuances of each community.
             </p>
@@ -386,9 +383,7 @@ export default function LosAngelesPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                The Los Angeles Lifestyle
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-angeles</h2>
               <p className="text-xl text-charcoal/80 mb-8 leading-relaxed">
                 Los Angeles' unique lifestyle influences every aspect of kitchen design. From the city's emphasis on health and wellness to its entertainment industry culture, our kitchens are designed to support the diverse needs of Los Angeles residents while maintaining the highest standards of luxury and functionality.
               </p>
@@ -439,9 +434,7 @@ export default function LosAngelesPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Los Angeles Kitchen FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-angeles</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchens in Los Angeles' prestigious neighborhoods.
             </p>
@@ -461,9 +454,7 @@ export default function LosAngelesPage() {
       {/* CTA Section */}
       <section className="py-24 bg-deep-green text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Ready to Transform Your Los Angeles Kitchen?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">Luxury Kitchen Design in los-angeles</h2>
           <p className="text-xl text-ivory/90 mb-12 max-w-4xl mx-auto">
             Join the ranks of Los Angeles' most prestigious homeowners who have chosen PineWood Cabinets for their luxury kitchen renovations. From Beverly Hills to Malibu, we bring European craftsmanship to Hollywood's most exclusive neighborhoods.
           </p>

@@ -62,9 +62,7 @@ export default function ProcessPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto">
-            <h1 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-8 text-balance">
-              The Art of Collaborative Creation
-            </h1>
+            <h1 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-8 text-balance">Custom Kitchen Design Process | Professional Service</h1>
             <div className="prose-luxury">
               <p className="text-xl leading-relaxed text-charcoal/80 mb-8">
                 Creating exceptional custom cabinetry is not merely a manufacturing process—it is a collaborative journey that begins with understanding your vision and culminates in the installation of pieces that will serve your family for generations. Our six-phase methodology, refined over hundreds of projects, ensures that every detail receives the attention it deserves while maintaining clear communication and project momentum throughout the entire experience.
@@ -84,9 +82,7 @@ export default function ProcessPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Six Phases of Excellence
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Our Design Process</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our proven methodology ensures exceptional results while providing clear milestones and expectations throughout your project journey.
             </p>
@@ -379,9 +375,7 @@ export default function ProcessPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Phase 1: Discovery & Consultation
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Our Design Process</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               The foundation of exceptional cabinetry begins with deep understanding. Our comprehensive discovery process ensures that every aspect of your lifestyle and vision informs our design decisions.
             </p>
@@ -478,9 +472,7 @@ export default function ProcessPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Phase 5: Fabrication Excellence
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Our Design Process</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Where vision becomes reality through the marriage of traditional craftsmanship and modern precision. Our workshop transforms premium materials into heirloom-quality cabinetry.
             </p>
@@ -624,9 +616,7 @@ export default function ProcessPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              For Architects & Interior Designers
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Our Design Process</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We understand the collaborative nature of luxury residential projects. Our process is designed to integrate seamlessly with your design vision and project management requirements.
             </p>
@@ -764,9 +754,7 @@ export default function ProcessPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Timeline & Investment Planning
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Our Design Process</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Understanding project timelines and investment levels helps ensure realistic expectations and successful project outcomes.
             </p>
@@ -875,9 +863,7 @@ export default function ProcessPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Quality Assurance & Warranty
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Our Design Process</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our commitment to excellence extends far beyond project completion. Comprehensive quality assurance and warranty programs protect your investment for years to come.
             </p>

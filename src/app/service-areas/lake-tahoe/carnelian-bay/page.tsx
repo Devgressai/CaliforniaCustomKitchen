@@ -196,9 +196,7 @@ export default function CarnelianBayPage() {
           <div className="absolute inset-0 bg-charcoal/40" />
         </div>
         <div className="relative z-10 max-w-4xl mx-auto px-6 text-center">
-          <h1 className="font-display text-5xl md:text-6xl lg:text-7xl font-bold text-ivory mb-6 text-balance">
-            Custom Kitchen Builder in Carnelian Bay
-          </h1>
+          <h1 className="font-display text-5xl md:text-6xl lg:text-7xl font-bold text-ivory mb-6 text-balance">Custom Kitchens in carnelian-bay | Luxury Cabinetry</h1>
           <p className="text-xl md:text-2xl text-ivory/90 leading-relaxed mb-8 max-w-3xl mx-auto text-balance">
             Luxury custom kitchens and bespoke cabinetry for Lake Tahoe's most exclusive lakefront estates. European craftsmanship meets pristine mountain living.
           </p>
@@ -224,9 +222,7 @@ export default function CarnelianBayPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-                Carnelian Bay's Premier Kitchen Builder
-              </h2>
+              <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in carnelian-bay</h2>
               <p className="text-xl text-charcoal/80 leading-relaxed mb-8">
                 Carnelian Bay represents the pinnacle of exclusive Lake Tahoe living, where pristine lakefront estates meet the natural beauty of the Sierra Nevada mountains. As the area's most trusted custom kitchen builder, we understand the unique demands of this prestigious community.
               </p>
@@ -254,9 +250,7 @@ export default function CarnelianBayPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Our Design Philosophy for Carnelian Bay
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in carnelian-bay</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Every kitchen we create in Carnelian Bay is designed to honor the pristine beauty of Lake Tahoe while providing the luxury and functionality our clients demand.
             </p>
@@ -297,9 +291,7 @@ export default function CarnelianBayPage() {
       <section className="py-24 bg-french-gray/10">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Carnelian Bay Architectural Styles
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in carnelian-bay</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We understand the diverse architectural landscape of Carnelian Bay and design cabinetry that complements each unique style.
             </p>
@@ -327,9 +319,7 @@ export default function CarnelianBayPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Featured Carnelian Bay Projects
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in carnelian-bay</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Discover our latest custom kitchen projects in Carnelian Bay's most exclusive neighborhoods.
             </p>
@@ -363,9 +353,7 @@ export default function CarnelianBayPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Understanding Carnelian Bay Living
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in carnelian-bay</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our deep understanding of Carnelian Bay's unique lifestyle informs every design decision we make.
             </p>
@@ -388,9 +376,7 @@ export default function CarnelianBayPage() {
       <section className="py-24 bg-french-gray/10">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Carnelian Bay-Specific Considerations
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in carnelian-bay</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Every project in Carnelian Bay requires special attention to the unique challenges and opportunities of this exclusive location.
             </p>
@@ -418,9 +404,7 @@ export default function CarnelianBayPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Materials Perfect for Carnelian Bay
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in carnelian-bay</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We carefully select materials that complement Carnelian Bay's pristine environment while providing lasting beauty and durability.
             </p>
@@ -450,9 +434,7 @@ export default function CarnelianBayPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Our Process for Carnelian Bay Projects
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in carnelian-bay</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We've refined our process specifically for Carnelian Bay's unique requirements and our clients' high expectations.
             </p>
@@ -502,9 +484,7 @@ export default function CarnelianBayPage() {
       <section className="py-24 bg-french-gray/10">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Frequently Asked Questions
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in carnelian-bay</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen projects in Carnelian Bay.
             </p>
@@ -523,9 +503,7 @@ export default function CarnelianBayPage() {
       {/* CTA Section */}
       <section className="py-24 bg-deep-green">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="font-display text-4xl md:text-5xl font-bold text-ivory mb-6">
-            Ready to Transform Your Carnelian Bay Kitchen?
-          </h2>
+          <h2 className="font-display text-4xl md:text-5xl font-bold text-ivory mb-6">Luxury Kitchen Design in carnelian-bay</h2>
           <p className="text-xl text-ivory/90 leading-relaxed mb-12 max-w-3xl mx-auto">
             Let's discuss your vision for the perfect custom kitchen that honors the pristine beauty of Lake Tahoe while providing the luxury and functionality you deserve.
           </p>
@@ -550,9 +528,7 @@ export default function CarnelianBayPage() {
       <section className="py-16 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="font-display text-3xl font-bold text-charcoal mb-4">
-              Other Lake Tahoe Neighborhoods We Serve
-            </h2>
+            <h2 className="font-display text-3xl font-bold text-charcoal mb-4">Luxury Kitchen Design in carnelian-bay</h2>
             <p className="text-charcoal/80">
               We provide custom kitchen services throughout the Lake Tahoe region.
             </p>

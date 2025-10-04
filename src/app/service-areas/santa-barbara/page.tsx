@@ -56,9 +56,7 @@ export default function SantaBarbaraPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Santa Barbara's Premier Coastal Kitchen Destination
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in santa-barbara</h2>
               <p className="text-xl text-charcoal/80 mb-6 leading-relaxed">
                 Santa Barbara represents the pinnacle of Central Coast luxury living—where Spanish colonial charm meets contemporary sophistication. Our Santa Barbara clients understand that true elegance lies in creating spaces that honor both the city's historic character and their own refined lifestyle.
               </p>
@@ -93,9 +91,7 @@ export default function SantaBarbaraPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Coastal Living Expertise
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in santa-barbara</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our deep understanding of Santa Barbara's unique coastal environment and luxury market enables us to deliver cabinetry solutions that perfectly complement both the city's historic character and modern living standards.
             </p>
@@ -148,9 +144,7 @@ export default function SantaBarbaraPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Santa Barbara Neighborhoods We Serve
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in santa-barbara</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From the historic downtown to the exclusive hillside communities, we serve all of Santa Barbara's most prestigious neighborhoods.
             </p>
@@ -185,9 +179,7 @@ export default function SantaBarbaraPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Designed for Coastal Living
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in santa-barbara</h2>
               <p className="text-xl text-ivory/90 mb-6 leading-relaxed">
                 Santa Barbara's unique coastal environment creates distinct requirements for luxury kitchen design. Our approach honors the city's historic character while delivering the functionality and elegance modern residents demand.
               </p>
@@ -217,9 +209,7 @@ export default function SantaBarbaraPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Featured Santa Barbara Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in santa-barbara</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our portfolio of custom kitchens and cabinetry projects throughout Santa Barbara's most prestigious coastal neighborhoods.
             </p>
@@ -281,9 +271,7 @@ export default function SantaBarbaraPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Coastal Lifestyle Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in santa-barbara</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Santa Barbara kitchens are designed to support the unique coastal lifestyle and values of this special Central Coast community.
             </p>
@@ -369,9 +357,7 @@ export default function SantaBarbaraPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Santa Barbara Kitchen Design FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in santa-barbara</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen design in Santa Barbara
             </p>

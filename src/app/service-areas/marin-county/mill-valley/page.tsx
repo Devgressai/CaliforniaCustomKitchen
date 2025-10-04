@@ -56,9 +56,7 @@ export default function MillValleyPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Mill Valley's Premier Custom Kitchen Destination
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mill-valley</h2>
               <p className="text-xl text-charcoal/80 mb-6 leading-relaxed">
                 Nestled at the base of Mount Tamalpais, Mill Valley represents the pinnacle of Marin County living—where natural beauty meets sophisticated luxury. Our Mill Valley clients understand that true elegance lies in the seamless integration of form and function, where every detail reflects their refined taste and commitment to quality.
               </p>
@@ -93,9 +91,7 @@ export default function MillValleyPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Deep Local Expertise in Mill Valley
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mill-valley</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our intimate knowledge of Mill Valley's unique character, architectural styles, and luxury market enables us to deliver cabinetry solutions that perfectly complement each home's distinctive personality.
             </p>
@@ -148,9 +144,7 @@ export default function MillValleyPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Mill Valley Neighborhoods We Serve
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mill-valley</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From the historic downtown to the exclusive hillside communities, we serve all of Mill Valley's most prestigious neighborhoods.
             </p>
@@ -185,9 +179,7 @@ export default function MillValleyPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Designed for Mill Valley Living
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in mill-valley</h2>
               <p className="text-xl text-ivory/90 mb-6 leading-relaxed">
                 Mill Valley's unique blend of natural beauty, artistic community, and sophisticated lifestyle creates distinct requirements for luxury kitchen design. Our approach honors this special character while delivering the functionality and elegance our clients demand.
               </p>
@@ -217,9 +209,7 @@ export default function MillValleyPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Featured Mill Valley Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mill-valley</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our portfolio of custom kitchens and cabinetry projects throughout Mill Valley's most prestigious neighborhoods.
             </p>
@@ -281,9 +271,7 @@ export default function MillValleyPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Mill Valley Lifestyle Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mill-valley</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Mill Valley kitchens are designed to support the unique lifestyle and values of this special community.
             </p>
@@ -369,9 +357,7 @@ export default function MillValleyPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Mill Valley Kitchen Design FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mill-valley</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen design in Mill Valley
             </p>

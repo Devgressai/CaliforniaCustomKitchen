@@ -89,9 +89,7 @@ export default function MarinaDistrictPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Marina District Kitchen Design Excellence
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in marina-district</h2>
             <p className="text-xl text-charcoal/80">
               The Marina District represents the best of modern San Francisco living, with its stunning waterfront location, 
               contemporary architecture, and vibrant community. Our custom kitchens in Marina District are designed to 
@@ -105,9 +103,7 @@ export default function MarinaDistrictPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Marina District Kitchen Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in marina-district</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Marina District kitchens are designed to complement the neighborhood's modern character and waterfront lifestyle.
             </p>
@@ -141,9 +137,7 @@ export default function MarinaDistrictPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Our Marina District Services
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in marina-district</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Comprehensive kitchen design and cabinetry services tailored to Marina District's modern lifestyle.
             </p>

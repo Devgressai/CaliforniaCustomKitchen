@@ -6,8 +6,8 @@ import { ReviewCollection, ReviewSchema } from '@/components/ReviewCollection';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'PineWood Cabinets | Custom Kitchens & Bespoke Cabinetry | California',
-  description: 'Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork for California\'s finest homes. Serving Silicon Valley, Marin, Lake Tahoe since 2006.',
+  title: 'Custom Kitchens California | Luxury Cabinetry | PineWood',
+  description: 'Luxury custom kitchens & bespoke cabinetry for California\'s finest homes. Serving Silicon Valley, Marin, Lake Tahoe since 2006. Premium craftsmanship.',
   keywords: 'custom kitchens, bespoke cabinetry, luxury kitchens, Silicon Valley, Marin County, Lake Tahoe, custom cabinets, kitchen design',
   alternates: {
     canonical: '/',

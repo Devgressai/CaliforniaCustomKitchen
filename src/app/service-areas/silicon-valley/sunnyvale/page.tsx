@@ -58,9 +58,7 @@ export default function SunnyvalePage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Sunnyvale Kitchen Design Excellence
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in sunnyvale</h2>
             <p className="text-xl text-charcoal/80">
               Sunnyvale represents the innovation hub of Silicon Valley, known for its tech executives, 
               startup culture, and sophisticated lifestyle. Our custom kitchens in Sunnyvale are designed to 

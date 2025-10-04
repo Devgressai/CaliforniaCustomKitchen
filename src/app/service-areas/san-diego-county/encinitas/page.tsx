@@ -58,9 +58,7 @@ export default function EncinitasPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Encinitas Kitchen Design Excellence
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in encinitas</h2>
             <p className="text-xl text-charcoal/80">
               Encinitas represents the perfect blend of San Diego coastal living and community charm, known for its 
               beach lifestyle, surf culture, and sophisticated homes. Our custom kitchens in Encinitas are designed to 

@@ -95,14 +95,19 @@ const newcastleFAQ = [
 
 export default function NewcastlePage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens in newcastle | Luxury Cabinetry</h1>
+        <h2>Luxury Kitchen Design in newcastle</h2><h2>Premium Materials & Craftsmanship</h2><h2>Local Kitchen Design Expertise</h2><h2>Custom Kitchen Services</h2><h2>Why Choose Us for newcastle Kitchens</h2><h2>Frequently Asked Questions</h2>
+        <h3>Custom Kitchen Design</h3><h3>Bespoke Cabinetry Services</h3><h3>Kitchen Remodeling</h3><h3>Cabinet Hardware Selection</h3><h3>Kitchen Lighting Design</h3><h3>Appliance Integration</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Custom Kitchens Newcastle
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens in newcastle | Luxury Cabinetry</h1>
             <p className="text-xl md:text-2xl mb-8 leading-relaxed text-french-gray">
               Luxury cabinetry and custom kitchens for Newcastle. Where European craftsmanship meets Sacramento\'s wine country community.
             </p>
@@ -128,9 +133,7 @@ export default function NewcastlePage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Newcastle: Sacramento\'s Wine Country Gem
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in newcastle</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               Newcastle represents the perfect blend of wine country elegance and rural charm in the Sacramento area. With its vineyards, scenic views, and agricultural heritage, this community offers unique opportunities for kitchen design that celebrates both natural beauty and sophisticated taste.
             </p>
@@ -159,9 +162,7 @@ export default function NewcastlePage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Recent Newcastle Commissions
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in newcastle</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               Each project represents a unique collaboration with Newcastle homeowners, creating spaces that honor both the community\'s wine country heritage and luxury lifestyle needs.
             </p>
@@ -197,9 +198,7 @@ export default function NewcastlePage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                The Newcastle Lifestyle
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in newcastle</h2>
               <p className="text-xl text-charcoal/80 mb-8 leading-relaxed">
                 Newcastle offers a unique lifestyle that combines wine country elegance with rural charm. Our kitchens are designed to support this lifestyle, from wine tasting and entertaining to enjoying the scenic vineyard views and agricultural heritage.
               </p>
@@ -250,9 +249,7 @@ export default function NewcastlePage() {
       <section className="py-24 bg-grain">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Newcastle Kitchen FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in newcastle</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchens in Newcastle.
             </p>
@@ -272,9 +269,7 @@ export default function NewcastlePage() {
       {/* CTA Section */}
       <section className="py-24 bg-deep-green text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Ready to Transform Your Newcastle Kitchen?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">Luxury Kitchen Design in newcastle</h2>
           <p className="text-xl text-ivory/90 mb-12 max-w-4xl mx-auto">
             Join the ranks of Newcastle homeowners who have chosen AV\'s Cabinets for their luxury kitchen renovations. Experience the perfect blend of European craftsmanship and wine country living.
           </p>

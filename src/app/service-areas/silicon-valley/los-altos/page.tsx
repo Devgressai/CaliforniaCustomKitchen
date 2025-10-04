@@ -56,9 +56,7 @@ export default function LosAltosPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Los Altos' Premier Family Kitchen Destination
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-altos</h2>
               <p className="text-xl text-charcoal/80 mb-6 leading-relaxed">
                 Los Altos represents the pinnacle of Silicon Valley family living—where suburban tranquility meets sophisticated luxury. Our Los Altos clients understand that true elegance lies in creating spaces that serve both the practical needs of family life and the refined tastes of successful professionals.
               </p>
@@ -93,9 +91,7 @@ export default function LosAltosPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Family Living Expertise
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-altos</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our deep understanding of Los Altos' unique family lifestyle and luxury market enables us to deliver cabinetry solutions that perfectly complement both practical family needs and sophisticated living standards.
             </p>
@@ -148,9 +144,7 @@ export default function LosAltosPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Los Altos Neighborhoods We Serve
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-altos</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From the historic downtown to the exclusive hillside estates, we serve all of Los Altos' most prestigious neighborhoods.
             </p>
@@ -185,9 +179,7 @@ export default function LosAltosPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Designed for Family Living
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in los-altos</h2>
               <p className="text-xl text-ivory/90 mb-6 leading-relaxed">
                 Los Altos' unique family-focused environment creates distinct requirements for luxury kitchen design. Our approach honors the practical needs of family life while delivering the sophistication and quality that defines Silicon Valley luxury.
               </p>
@@ -217,9 +209,7 @@ export default function LosAltosPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Featured Los Altos Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-altos</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our portfolio of custom kitchens and cabinetry projects throughout Los Altos' most prestigious family neighborhoods.
             </p>
@@ -281,9 +271,7 @@ export default function LosAltosPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Family Lifestyle Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-altos</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Los Altos kitchens are designed to support the unique family lifestyle and values of this special Silicon Valley community.
             </p>
@@ -369,9 +357,7 @@ export default function LosAltosPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Los Altos Kitchen Design FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-altos</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen design in Los Altos
             </p>

@@ -191,14 +191,19 @@ const testimonials = [
 
 export default function WineRoomsPage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens California | Luxury Kitchen Design</h1>
+        <h2>Premium Kitchen Design Services</h2><h2>Luxury Kitchen Styles & Materials</h2><h2>Custom Kitchen Features & Benefits</h2><h2>Why Choose Our Custom Kitchens</h2><h2>Kitchen Design Process</h2><h2>Frequently Asked Questions</h2>
+        <h3>Modern Contemporary Kitchens</h3><h3>Traditional Inset Kitchens</h3><h3>Transitional Kitchen Design</h3><h3>Mediterranean Kitchen Style</h3><h3>Premium Materials Selection</h3><h3>Custom Features & Hardware</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Wine Rooms
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens California | Luxury Kitchen Design</h1>
             <p className="text-xl md:text-2xl text-french-gray leading-relaxed mb-8">
               Create the ultimate wine storage solution with our custom wine rooms and cellars. From climate-controlled cellars to elegant tasting rooms, we design spaces that protect and showcase your collection.
             </p>
@@ -216,9 +221,7 @@ export default function WineRoomsPage() {
       <section className="py-24">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Wine Room Types
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From climate-controlled cellars to elegant tasting rooms, we create wine storage solutions that meet your specific needs and enhance your wine experience.
             </p>
@@ -281,9 +284,7 @@ export default function WineRoomsPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Signature Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Every wine room we create includes these signature features that ensure optimal storage conditions and enhance your wine experience.
             </p>
@@ -316,9 +317,7 @@ export default function WineRoomsPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Premium Materials
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We work exclusively with the finest materials for our wine rooms, each selected for its unique properties and suitability for wine storage applications.
             </p>
@@ -367,9 +366,7 @@ export default function WineRoomsPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              Our Process
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               Every wine room project follows our rigorous six-phase process, ensuring optimal storage conditions and a seamless client experience from initial assessment to final setup.
             </p>
@@ -413,9 +410,7 @@ export default function WineRoomsPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Client Testimonials
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               The satisfaction of our clients is the ultimate measure of our success. Here's what they say about their wine room experience.
             </p>
@@ -441,9 +436,7 @@ export default function WineRoomsPage() {
       {/* CTA Section */}
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-            Ready to Create Your Wine Room?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
           <p className="text-xl text-charcoal/80 mb-12 max-w-3xl mx-auto">
             Let's discuss how we can create the perfect wine storage solution that protects and showcases your collection while enhancing your wine experience.
           </p>

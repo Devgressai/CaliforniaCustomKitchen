@@ -197,9 +197,7 @@ export default function InclineVillagePage() {
           <div className="absolute inset-0 bg-charcoal/40" />
         </div>
         <div className="relative z-10 max-w-4xl mx-auto px-6 text-center">
-          <h1 className="font-display text-5xl md:text-6xl lg:text-7xl font-bold text-ivory mb-6 text-balance">
-            Custom Kitchen Builder in Incline Village
-          </h1>
+          <h1 className="font-display text-5xl md:text-6xl lg:text-7xl font-bold text-ivory mb-6 text-balance">Custom Kitchens in incline-village | Luxury Cabinetry</h1>
           <p className="text-xl md:text-2xl text-ivory/90 leading-relaxed mb-8 max-w-3xl mx-auto text-balance">
             Luxury custom kitchens and bespoke cabinetry for Lake Tahoe's most prestigious mountain estates. European craftsmanship meets alpine luxury living.
           </p>
@@ -225,9 +223,7 @@ export default function InclineVillagePage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-                Incline Village's Premier Kitchen Builder
-              </h2>
+              <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in incline-village</h2>
               <p className="text-xl text-charcoal/80 leading-relaxed mb-8">
                 Incline Village represents the pinnacle of alpine luxury living, where prestigious mountain estates meet the natural beauty of the Sierra Nevada mountains. As the area's most trusted custom kitchen builder, we understand the unique demands of this exclusive community.
               </p>
@@ -255,9 +251,7 @@ export default function InclineVillagePage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Our Design Philosophy for Incline Village
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in incline-village</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Every kitchen we create in Incline Village is designed to honor the alpine beauty of Lake Tahoe while providing the luxury and functionality our clients demand.
             </p>
@@ -298,9 +292,7 @@ export default function InclineVillagePage() {
       <section className="py-24 bg-french-gray/10">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Incline Village Architectural Styles
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in incline-village</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We understand the diverse architectural landscape of Incline Village and design cabinetry that complements each unique style.
             </p>
@@ -328,9 +320,7 @@ export default function InclineVillagePage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Featured Incline Village Projects
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in incline-village</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Discover our latest custom kitchen projects in Incline Village's most prestigious neighborhoods.
             </p>
@@ -364,9 +354,7 @@ export default function InclineVillagePage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Understanding Incline Village Living
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in incline-village</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our deep understanding of Incline Village's unique lifestyle informs every design decision we make.
             </p>
@@ -389,9 +377,7 @@ export default function InclineVillagePage() {
       <section className="py-24 bg-french-gray/10">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Incline Village-Specific Considerations
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in incline-village</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Every project in Incline Village requires special attention to the unique challenges and opportunities of this prestigious location.
             </p>
@@ -419,9 +405,7 @@ export default function InclineVillagePage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Materials Perfect for Incline Village
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in incline-village</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We carefully select materials that complement Incline Village's alpine environment while providing lasting beauty and durability.
             </p>
@@ -451,9 +435,7 @@ export default function InclineVillagePage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Our Process for Incline Village Projects
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in incline-village</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We've refined our process specifically for Incline Village's unique requirements and our clients' high expectations.
             </p>
@@ -503,9 +485,7 @@ export default function InclineVillagePage() {
       <section className="py-24 bg-french-gray/10">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Frequently Asked Questions
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in incline-village</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen projects in Incline Village.
             </p>
@@ -524,9 +504,7 @@ export default function InclineVillagePage() {
       {/* CTA Section */}
       <section className="py-24 bg-deep-green">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="font-display text-4xl md:text-5xl font-bold text-ivory mb-6">
-            Ready to Transform Your Incline Village Kitchen?
-          </h2>
+          <h2 className="font-display text-4xl md:text-5xl font-bold text-ivory mb-6">Luxury Kitchen Design in incline-village</h2>
           <p className="text-xl text-ivory/90 leading-relaxed mb-12 max-w-3xl mx-auto">
             Let's discuss your vision for the perfect custom kitchen that honors the alpine beauty of Lake Tahoe while providing the luxury and functionality you deserve.
           </p>
@@ -551,9 +529,7 @@ export default function InclineVillagePage() {
       <section className="py-16 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="font-display text-3xl font-bold text-charcoal mb-4">
-              Other Lake Tahoe Neighborhoods We Serve
-            </h2>
+            <h2 className="font-display text-3xl font-bold text-charcoal mb-4">Luxury Kitchen Design in incline-village</h2>
             <p className="text-charcoal/80">
               We provide custom kitchen services throughout the Lake Tahoe region.
             </p>

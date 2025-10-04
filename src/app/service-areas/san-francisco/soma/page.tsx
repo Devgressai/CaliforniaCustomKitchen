@@ -56,9 +56,7 @@ export default function SOMAPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                SOMA's Premier Urban Kitchen Destination
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in soma</h2>
               <p className="text-xl text-charcoal/80 mb-6 leading-relaxed">
                 South of Market (SOMA) represents the cutting edge of San Francisco's urban luxury living—where historic industrial character meets contemporary sophistication. Our SOMA clients understand that true elegance lies in creating spaces that honor both the neighborhood's unique heritage and their own modern lifestyle demands.
               </p>
@@ -93,9 +91,7 @@ export default function SOMAPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Urban Living Expertise
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in soma</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our deep understanding of SOMA's unique urban environment and luxury lifestyle enables us to deliver cabinetry solutions that perfectly complement both the neighborhood's character and modern living standards.
             </p>
@@ -148,9 +144,7 @@ export default function SOMAPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              SOMA Neighborhoods We Serve
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in soma</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From the historic warehouse district to the modern high-rise corridor, we serve all of SOMA's most prestigious neighborhoods.
             </p>
@@ -185,9 +179,7 @@ export default function SOMAPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Designed for Urban Living
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in soma</h2>
               <p className="text-xl text-ivory/90 mb-6 leading-relaxed">
                 SOMA's unique urban environment creates distinct requirements for luxury kitchen design. Our approach honors the neighborhood's industrial heritage while delivering the functionality and elegance modern urbanites demand.
               </p>
@@ -217,9 +209,7 @@ export default function SOMAPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Featured SOMA Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in soma</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our portfolio of custom kitchens and cabinetry projects throughout SOMA's most prestigious urban neighborhoods.
             </p>
@@ -281,9 +271,7 @@ export default function SOMAPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Urban Lifestyle Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in soma</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our SOMA kitchens are designed to support the unique urban lifestyle and values of this dynamic neighborhood.
             </p>
@@ -369,9 +357,7 @@ export default function SOMAPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              SOMA Kitchen Design FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in soma</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen design in SOMA
             </p>

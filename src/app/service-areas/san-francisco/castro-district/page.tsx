@@ -89,9 +89,7 @@ export default function CastroDistrictPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Castro District Kitchen Design Excellence
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in castro-district</h2>
             <p className="text-xl text-charcoal/80">
               Castro District is one of San Francisco's most vibrant and historic neighborhoods, known for its beautiful 
               Victorian and Edwardian architecture, rich cultural heritage, and strong community spirit. Our custom kitchens 
@@ -106,9 +104,7 @@ export default function CastroDistrictPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Castro District Kitchen Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in castro-district</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Castro District kitchens are designed to complement the neighborhood's historic character and architectural diversity.
             </p>
@@ -142,9 +138,7 @@ export default function CastroDistrictPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Our Castro District Services
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in castro-district</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Comprehensive kitchen design and cabinetry services tailored to Castro District's unique architectural requirements.
             </p>

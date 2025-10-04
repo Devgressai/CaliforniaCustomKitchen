@@ -103,14 +103,19 @@ const localFAQ = [
 
 export default function BrentwoodPage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens in brentwood | Luxury Cabinetry</h1>
+        <h2>Luxury Kitchen Design in brentwood</h2><h2>Premium Materials & Craftsmanship</h2><h2>Local Kitchen Design Expertise</h2><h2>Custom Kitchen Services</h2><h2>Why Choose Us for brentwood Kitchens</h2><h2>Frequently Asked Questions</h2>
+        <h3>Custom Kitchen Design</h3><h3>Bespoke Cabinetry Services</h3><h3>Kitchen Remodeling</h3><h3>Cabinet Hardware Selection</h3><h3>Kitchen Lighting Design</h3><h3>Appliance Integration</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Custom Kitchens Brentwood
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens in brentwood | Luxury Cabinetry</h1>
             <p className="text-xl md:text-2xl mb-8 leading-relaxed text-french-gray">
               Luxury cabinetry and custom kitchens for Brentwood's most prestigious estates. Where European craftsmanship meets Los Angeles sophistication.
             </p>
@@ -133,9 +138,7 @@ export default function BrentwoodPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Brentwood's Architectural Heritage
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in brentwood</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our cabinetry designs honor Brentwood's diverse architectural styles while incorporating modern luxury and functionality.
             </p>
@@ -163,9 +166,7 @@ export default function BrentwoodPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Recent Brentwood Commissions
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in brentwood</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Each project represents a unique collaboration with Brentwood's most discerning homeowners, creating spaces that honor both architectural heritage and contemporary luxury.
             </p>
@@ -200,9 +201,7 @@ export default function BrentwoodPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Brentwood's Exclusive Communities
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in brentwood</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We serve Brentwood's most prestigious neighborhoods, each with its own unique character and architectural requirements.
             </p>
@@ -236,9 +235,7 @@ export default function BrentwoodPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Estate Installation Excellence
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in brentwood</h2>
               <p className="text-xl text-french-gray mb-8 leading-relaxed">
                 Brentwood's prestigious estates require the highest level of installation expertise. Our team brings decades of experience working in exclusive neighborhoods, ensuring every detail meets the exacting standards of our discerning clients.
               </p>
@@ -289,9 +286,7 @@ export default function BrentwoodPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Brentwood Kitchen FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in brentwood</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchens in Brentwood's prestigious neighborhoods.
             </p>
@@ -311,9 +306,7 @@ export default function BrentwoodPage() {
       {/* CTA Section */}
       <section className="py-24 bg-deep-green text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Ready to Transform Your Brentwood Kitchen?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">Luxury Kitchen Design in brentwood</h2>
           <p className="text-xl text-ivory/90 mb-12 max-w-3xl mx-auto">
             Join the ranks of Brentwood's most prestigious homeowners who have chosen PineWood Cabinets for their luxury kitchen renovations.
           </p>

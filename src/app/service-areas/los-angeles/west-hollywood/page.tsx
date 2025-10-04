@@ -89,9 +89,7 @@ export default function WestHollywoodPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              West Hollywood Kitchen Design Excellence
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in west-hollywood</h2>
             <p className="text-xl text-charcoal/80">
               West Hollywood represents the heart of Los Angeles' entertainment industry, known for its modern architecture, 
               vibrant nightlife, and sophisticated lifestyle. Our custom kitchens in West Hollywood are designed to 
@@ -106,9 +104,7 @@ export default function WestHollywoodPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              West Hollywood Kitchen Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in west-hollywood</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our West Hollywood kitchens are designed to complement the neighborhood's modern character and entertainment industry focus.
             </p>
@@ -142,9 +138,7 @@ export default function WestHollywoodPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Our West Hollywood Services
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in west-hollywood</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Comprehensive kitchen design and cabinetry services tailored to West Hollywood's modern lifestyle.
             </p>

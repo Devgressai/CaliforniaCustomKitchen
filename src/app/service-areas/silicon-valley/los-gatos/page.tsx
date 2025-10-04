@@ -58,9 +58,7 @@ export default function LosGatosPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Los Gatos Kitchen Design Excellence
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-gatos</h2>
             <p className="text-xl text-charcoal/80">
               Los Gatos represents the perfect blend of Silicon Valley sophistication and natural beauty, known for its 
               hillside homes, mountain views, and upscale community. Our custom kitchens in Los Gatos are designed to 

@@ -56,9 +56,7 @@ export default function LosAltosHillsPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Los Altos Hills' Premier Estate Kitchen Destination
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-altos-hills</h2>
               <p className="text-xl text-charcoal/80 mb-6 leading-relaxed">
                 Los Altos Hills represents the absolute pinnacle of Silicon Valley luxury living—where sprawling estates meet breathtaking natural beauty. Our Los Altos Hills clients understand that true elegance lies in creating spaces that honor both the property's magnificent setting and their own sophisticated lifestyle.
               </p>
@@ -93,9 +91,7 @@ export default function LosAltosHillsPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Estate Living Expertise
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-altos-hills</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our intimate knowledge of Los Altos Hills' unique estate environment and ultra-luxury market enables us to deliver cabinetry solutions that perfectly complement both the magnificent setting and the highest standards of living.
             </p>
@@ -148,9 +144,7 @@ export default function LosAltosHillsPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Los Altos Hills Neighborhoods We Serve
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-altos-hills</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From the historic estates to the contemporary masterpieces, we serve all of Los Altos Hills' most prestigious neighborhoods.
             </p>
@@ -185,9 +179,7 @@ export default function LosAltosHillsPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Designed for Estate Living
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in los-altos-hills</h2>
               <p className="text-xl text-ivory/90 mb-6 leading-relaxed">
                 Los Altos Hills' unique estate environment creates distinct requirements for ultra-luxury kitchen design. Our approach honors the property's magnificent setting while delivering the highest standards of functionality and elegance.
               </p>
@@ -217,9 +209,7 @@ export default function LosAltosHillsPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Featured Los Altos Hills Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-altos-hills</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our portfolio of custom kitchens and cabinetry projects throughout Los Altos Hills' most prestigious estate neighborhoods.
             </p>
@@ -281,9 +271,7 @@ export default function LosAltosHillsPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Estate Lifestyle Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-altos-hills</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Los Altos Hills kitchens are designed to support the unique estate lifestyle and ultra-luxury values of this exclusive community.
             </p>
@@ -369,9 +357,7 @@ export default function LosAltosHillsPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Los Altos Hills Kitchen Design FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in los-altos-hills</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen design in Los Altos Hills
             </p>

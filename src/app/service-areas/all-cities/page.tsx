@@ -166,9 +166,7 @@ export default function AllCitiesPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              All Service Areas
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens in all-cities | Luxury Cabinetry</h1>
             <p className="text-xl text-ivory/90 max-w-3xl mx-auto">
               PineWood Cabinets serves California's most prestigious communities with museum-grade custom kitchen design, bespoke cabinetry, and architectural millwork.
             </p>
@@ -180,9 +178,7 @@ export default function AllCitiesPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              California Cities We Serve
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in all-cities</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From Beverly Hills to Big Sur, we provide luxury kitchen design services throughout California's most exclusive communities.
             </p>
@@ -223,9 +219,7 @@ export default function AllCitiesPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Services Available in All Locations
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in all-cities</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Each city offers our complete range of luxury kitchen and cabinetry services.
             </p>

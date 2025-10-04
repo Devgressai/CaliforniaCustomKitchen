@@ -68,9 +68,7 @@ export default function BespokeCabinetryPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto">
-            <h1 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-8 text-balance">
-              The Art of Invisible Storage: Bespoke Cabinetry Excellence
-            </h1>
+            <h1 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-8 text-balance">Custom Kitchens California | Luxury Kitchen Design</h1>
             <div className="prose-luxury">
               <p className="text-xl leading-relaxed text-charcoal/80 mb-8">
                 While kitchens may be the heart of the home, truly exceptional living extends far beyond culinary spaces. Our bespoke cabinetry services encompass every room where storage, display, and organization intersect with architectural beauty—from grand libraries that house treasured collections to entertainment centers that seamlessly integrate cutting-edge technology, from wine cellars that preserve precious vintages to closets that organize life's daily essentials with museum-like precision.
@@ -90,9 +88,7 @@ export default function BespokeCabinetryPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Comprehensive Bespoke Solutions
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Every room in your home deserves the same attention to detail and craftsmanship excellence that defines our kitchen work.
             </p>
@@ -171,9 +167,7 @@ export default function BespokeCabinetryPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center mb-16">
             <div>
-              <h2 className="font-display text-4xl font-bold text-charcoal mb-8">
-                The Philosophy of Invisible Integration
-              </h2>
+              <h2 className="font-display text-4xl font-bold text-charcoal mb-8">Premium Kitchen Design Services</h2>
               <div className="prose-luxury">
                 <p className="text-lg leading-relaxed text-charcoal/80 mb-6">
                   The finest bespoke cabinetry achieves a paradox: maximum functionality with minimal visual intrusion. Our design philosophy centers on creating storage solutions that feel integral to the architecture rather than imposed upon it. This requires deep understanding of both the space's architectural character and the specific needs of those who will use it daily.
@@ -218,9 +212,7 @@ export default function BespokeCabinetryPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold mb-6">
-              Case Study: The Atherton Estate Library
-            </h2>
+            <h2 className="font-display text-4xl font-bold mb-6">Premium Kitchen Design Services</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               A 2,000-volume private library that seamlessly integrates reading, display, and technology while honoring the home's 1920s architectural heritage.
             </p>
@@ -305,9 +297,7 @@ export default function BespokeCabinetryPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Materials & Craftsmanship Excellence
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Every bespoke piece receives the same attention to material selection and construction quality that defines our kitchen work.
             </p>
@@ -361,9 +351,7 @@ export default function BespokeCabinetryPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Invisible Technology Integration
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Modern living requires sophisticated technology, but the best integration makes technology invisible until needed.
             </p>

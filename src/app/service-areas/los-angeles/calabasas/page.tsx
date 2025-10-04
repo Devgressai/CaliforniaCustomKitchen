@@ -103,14 +103,19 @@ const localFAQ = [
 
 export default function CalabasasPage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens in calabasas | Luxury Cabinetry</h1>
+        <h2>Luxury Kitchen Design in calabasas</h2><h2>Premium Materials & Craftsmanship</h2><h2>Local Kitchen Design Expertise</h2><h2>Custom Kitchen Services</h2><h2>Why Choose Us for calabasas Kitchens</h2><h2>Frequently Asked Questions</h2>
+        <h3>Custom Kitchen Design</h3><h3>Bespoke Cabinetry Services</h3><h3>Kitchen Remodeling</h3><h3>Cabinet Hardware Selection</h3><h3>Kitchen Lighting Design</h3><h3>Appliance Integration</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Custom Kitchens Calabasas
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens in calabasas | Luxury Cabinetry</h1>
             <p className="text-xl md:text-2xl mb-8 leading-relaxed text-french-gray">
               Luxury cabinetry and custom kitchens for Calabasas' most prestigious estates. Where European craftsmanship meets Los Angeles' most exclusive gated communities.
             </p>
@@ -133,9 +138,7 @@ export default function CalabasasPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Calabasas' Architectural Heritage
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in calabasas</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our cabinetry designs honor Calabasas' diverse architectural styles while incorporating modern luxury and functionality.
             </p>
@@ -163,9 +166,7 @@ export default function CalabasasPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Recent Calabasas Commissions
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in calabasas</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Each project represents a unique collaboration with Calabasas' most discerning homeowners, creating spaces that honor both architectural heritage and contemporary luxury.
             </p>
@@ -200,9 +201,7 @@ export default function CalabasasPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Calabasas' Exclusive Communities
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in calabasas</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We serve Calabasas' most prestigious gated communities, each with its own unique character and architectural requirements.
             </p>
@@ -236,9 +235,7 @@ export default function CalabasasPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Gated Community Installation
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in calabasas</h2>
               <p className="text-xl text-french-gray mb-8 leading-relaxed">
                 Calabasas' gated communities require specialized installation expertise and careful consideration of security protocols. Our team brings decades of experience working in exclusive gated communities, ensuring every detail meets the exacting standards of our discerning clients while respecting the privacy and security requirements.
               </p>
@@ -289,9 +286,7 @@ export default function CalabasasPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Calabasas Kitchen FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in calabasas</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchens in Calabasas' exclusive gated communities.
             </p>
@@ -311,9 +306,7 @@ export default function CalabasasPage() {
       {/* CTA Section */}
       <section className="py-24 bg-deep-green text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Ready to Transform Your Calabasas Kitchen?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">Luxury Kitchen Design in calabasas</h2>
           <p className="text-xl text-ivory/90 mb-12 max-w-3xl mx-auto">
             Join the ranks of Calabasas' most prestigious homeowners who have chosen PineWood Cabinets for their luxury kitchen renovations.
           </p>

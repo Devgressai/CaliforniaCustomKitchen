@@ -191,14 +191,19 @@ const testimonials = [
 
 export default function LibrariesClosetsOfficesPage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens California | Luxury Kitchen Design</h1>
+        <h2>Premium Kitchen Design Services</h2><h2>Luxury Kitchen Styles & Materials</h2><h2>Custom Kitchen Features & Benefits</h2><h2>Why Choose Our Custom Kitchens</h2><h2>Kitchen Design Process</h2><h2>Frequently Asked Questions</h2>
+        <h3>Modern Contemporary Kitchens</h3><h3>Traditional Inset Kitchens</h3><h3>Transitional Kitchen Design</h3><h3>Mediterranean Kitchen Style</h3><h3>Premium Materials Selection</h3><h3>Custom Features & Hardware</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Libraries, Closets & Offices
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens California | Luxury Kitchen Design</h1>
             <p className="text-xl md:text-2xl text-french-gray leading-relaxed mb-8">
               Create the ultimate storage and workspace solutions with our custom libraries, closets, and home offices. From floor-to-ceiling bookcases to organized walk-in closets, we design spaces that enhance your daily life.
             </p>
@@ -216,9 +221,7 @@ export default function LibrariesClosetsOfficesPage() {
       <section className="py-24">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Space Types
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our custom storage solutions cover every aspect of home organization, from intellectual spaces to practical storage that enhances your daily routine.
             </p>
@@ -281,9 +284,7 @@ export default function LibrariesClosetsOfficesPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Signature Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Every storage solution we create includes these signature features that ensure exceptional organization, functionality, and beauty.
             </p>
@@ -316,9 +317,7 @@ export default function LibrariesClosetsOfficesPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Premium Materials
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We work exclusively with the finest hardwoods and materials for our storage solutions, each selected for its unique character, durability, and suitability for specific applications.
             </p>
@@ -367,9 +366,7 @@ export default function LibrariesClosetsOfficesPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              Our Process
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               Every storage solution project follows our rigorous six-phase process, ensuring exceptional organization and a seamless client experience from initial assessment to final setup.
             </p>
@@ -413,9 +410,7 @@ export default function LibrariesClosetsOfficesPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Client Testimonials
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               The satisfaction of our clients is the ultimate measure of our success. Here's what they say about their storage solution experience.
             </p>
@@ -441,9 +436,7 @@ export default function LibrariesClosetsOfficesPage() {
       {/* CTA Section */}
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-            Ready to Organize Your Space?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
           <p className="text-xl text-charcoal/80 mb-12 max-w-3xl mx-auto">
             Let's discuss how we can create the perfect storage solution that enhances your daily routine and brings order to your space.
           </p>

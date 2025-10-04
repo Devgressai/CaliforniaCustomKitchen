@@ -56,9 +56,7 @@ export default function CustomKitchenBelvederePage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Belvedere Custom Kitchen Excellence
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in custom-kitchen</h2>
               <p className="text-xl text-charcoal/80 mb-6 leading-relaxed">
                 Belvedere represents the pinnacle of Marin County living—where island sophistication meets unparalleled luxury. Our Belvedere custom kitchen clients understand that true elegance lies in creating spaces that honor both the neighborhood's unique character and their own sophisticated lifestyle.
               </p>
@@ -93,9 +91,7 @@ export default function CustomKitchenBelvederePage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Custom Kitchen Services for Belvedere
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in custom-kitchen</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our comprehensive custom kitchen services are tailored to meet the unique needs of Belvedere's diverse architectural styles and Marin County lifestyle.
             </p>
@@ -199,9 +195,7 @@ export default function CustomKitchenBelvederePage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Our Custom Kitchen Design Process
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in custom-kitchen</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our proven design process ensures your Belvedere custom kitchen exceeds expectations and perfectly reflects your vision.
             </p>
@@ -264,9 +258,7 @@ export default function CustomKitchenBelvederePage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Designed for Belvedere Living
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in custom-kitchen</h2>
               <p className="text-xl text-ivory/90 mb-6 leading-relaxed">
                 Belvedere's unique Marin County environment creates distinct requirements for custom kitchen design. Our approach honors the neighborhood's character while delivering the functionality and elegance modern residents demand.
               </p>
@@ -296,9 +288,7 @@ export default function CustomKitchenBelvederePage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Featured Belvedere Custom Kitchen Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in custom-kitchen</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our portfolio of custom kitchen projects throughout Belvedere's most prestigious Marin County neighborhoods.
             </p>
@@ -360,9 +350,7 @@ export default function CustomKitchenBelvederePage() {
       <section className="py-24 bg-white">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Belvedere Custom Kitchen FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in custom-kitchen</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen services in Belvedere
             </p>

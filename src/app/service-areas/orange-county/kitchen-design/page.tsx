@@ -47,9 +47,7 @@ export default function KitchenDesignOrangeCountyPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Orange County Kitchen Design Excellence
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in kitchen-design</h2>
               <p className="text-xl text-charcoal/80 mb-6 leading-relaxed">
                 Orange County represents the pinnacle of Southern California luxury—where sophistication meets refined elegance. Our Orange County kitchen-design clients understand that true luxury lies in creating spaces that honor both the neighborhood's unique character and their own sophisticated lifestyle.
               </p>
@@ -84,9 +82,7 @@ export default function KitchenDesignOrangeCountyPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Kitchen Design Services for Orange County
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in kitchen-design</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our comprehensive kitchen-design services are tailored to meet the unique needs of Orange County's diverse architectural styles and Southern California lifestyle.
             </p>
@@ -190,9 +186,7 @@ export default function KitchenDesignOrangeCountyPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Our Kitchen Design Process
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in kitchen-design</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our proven process ensures your Orange County kitchen-design exceeds expectations and perfectly reflects your vision.
             </p>
@@ -256,9 +250,7 @@ export default function KitchenDesignOrangeCountyPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Designed for Orange County Living
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in kitchen-design</h2>
               <p className="text-xl text-ivory/90 mb-6 leading-relaxed">
                 Orange County's unique Southern California environment creates distinct requirements for kitchen-design. Our approach honors the neighborhood's character while delivering the functionality and elegance modern residents demand.
               </p>
@@ -288,9 +280,7 @@ export default function KitchenDesignOrangeCountyPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Featured Orange County Kitchen Design Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in kitchen-design</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our portfolio of kitchen-design projects throughout Orange County's most prestigious Southern California neighborhoods.
             </p>
@@ -352,9 +342,7 @@ export default function KitchenDesignOrangeCountyPage() {
       <section className="py-24 bg-white">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Orange County Kitchen Design FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in kitchen-design</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about kitchen-design services in Orange County
             </p>

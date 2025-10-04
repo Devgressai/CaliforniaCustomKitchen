@@ -194,14 +194,19 @@ const localMarketInsights = [
 
 export default function CentralCoastPage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens in central-coast | Luxury Cabinetry</h1>
+        <h2>Luxury Kitchen Design in central-coast</h2><h2>Premium Materials & Craftsmanship</h2><h2>Local Kitchen Design Expertise</h2><h2>Custom Kitchen Services</h2><h2>Why Choose Us for central-coast Kitchens</h2><h2>Frequently Asked Questions</h2>
+        <h3>Custom Kitchen Design</h3><h3>Bespoke Cabinetry Services</h3><h3>Kitchen Remodeling</h3><h3>Cabinet Hardware Selection</h3><h3>Kitchen Lighting Design</h3><h3>Appliance Integration</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Custom Kitchens Central Coast
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens in central-coast | Luxury Cabinetry</h1>
             <p className="text-xl md:text-2xl mb-8 leading-relaxed text-french-gray">
               Luxury cabinetry and custom kitchens for California's Central Coast. Where European craftsmanship meets the Pacific Ocean's timeless beauty.
             </p>
@@ -227,9 +232,7 @@ export default function CentralCoastPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Central Coast Luxury Kitchen Market
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in central-coast</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               California's Central Coast represents one of the most diverse and sophisticated luxury kitchen markets in the state. From Carmel-by-the-Sea's artistic cottages to Big Sur's dramatic cliffside estates, our region offers unparalleled opportunities for creative kitchen design that celebrates both coastal beauty and architectural heritage.
             </p>
@@ -251,9 +254,7 @@ export default function CentralCoastPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Central Coast Architectural Heritage
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in central-coast</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               Our cabinetry designs honor the Central Coast's diverse architectural heritage while incorporating modern luxury and functionality. From Victorian coastal homes to Mediterranean estates, we create kitchens that perfectly complement each architectural style while maximizing the stunning coastal views.
             </p>
@@ -288,9 +289,7 @@ export default function CentralCoastPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Recent Central Coast Commissions
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in central-coast</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               Each project represents a unique collaboration with Central Coast's most discerning homeowners, creating spaces that honor both architectural heritage and contemporary luxury while celebrating the region's stunning natural beauty.
             </p>
@@ -325,9 +324,7 @@ export default function CentralCoastPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              Central Coast's Premier Communities
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in central-coast</h2>
             <p className="text-xl text-french-gray max-w-4xl mx-auto">
               We serve the Central Coast's most prestigious communities, each with its own unique character, architectural requirements, and coastal lifestyle. From artistic Carmel to dramatic Big Sur, we understand the nuances of each community.
             </p>
@@ -365,9 +362,7 @@ export default function CentralCoastPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                The Central Coast Lifestyle
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in central-coast</h2>
               <p className="text-xl text-charcoal/80 mb-8 leading-relaxed">
                 The Central Coast's unique lifestyle influences every aspect of kitchen design. From the region's artistic heritage to its wine country culture, our kitchens are designed to support the diverse needs of Central Coast residents while celebrating the stunning natural beauty that surrounds them.
               </p>
@@ -418,9 +413,7 @@ export default function CentralCoastPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Central Coast Kitchen FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in central-coast</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchens in Central Coast communities.
             </p>
@@ -440,9 +433,7 @@ export default function CentralCoastPage() {
       {/* CTA Section */}
       <section className="py-24 bg-deep-green text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Ready to Transform Your Central Coast Kitchen?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">Luxury Kitchen Design in central-coast</h2>
           <p className="text-xl text-ivory/90 mb-12 max-w-4xl mx-auto">
             Join the ranks of Central Coast's most discerning homeowners who have chosen PineWood Cabinets for their luxury kitchen renovations. From Carmel to Big Sur, we bring European craftsmanship to California's most beautiful coastline.
           </p>

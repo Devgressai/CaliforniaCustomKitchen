@@ -192,9 +192,7 @@ export default function ApplianceIntegrationPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Appliance Integration Types
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We integrate all types of kitchen appliances with custom cabinetry for a seamless, built-in appearance.
             </p>
@@ -250,9 +248,7 @@ export default function ApplianceIntegrationPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Integration Services
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our comprehensive services ensure perfect appliance integration with your custom cabinetry.
             </p>
@@ -290,9 +286,7 @@ export default function ApplianceIntegrationPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Our Integration Process
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We follow a systematic approach to ensure perfect appliance integration with your custom cabinetry.
             </p>
@@ -332,9 +326,7 @@ export default function ApplianceIntegrationPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              What Our Clients Say
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               Hear from homeowners who have achieved seamless appliance integration in their kitchens.
             </p>
@@ -364,9 +356,7 @@ export default function ApplianceIntegrationPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Appliance Integration FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about our kitchen appliance integration services.
             </p>

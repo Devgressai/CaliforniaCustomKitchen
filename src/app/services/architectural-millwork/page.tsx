@@ -191,14 +191,19 @@ const testimonials = [
 
 export default function ArchitecturalMillworkPage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens California | Luxury Kitchen Design</h1>
+        <h2>Premium Kitchen Design Services</h2><h2>Luxury Kitchen Styles & Materials</h2><h2>Custom Kitchen Features & Benefits</h2><h2>Why Choose Our Custom Kitchens</h2><h2>Kitchen Design Process</h2><h2>Frequently Asked Questions</h2>
+        <h3>Modern Contemporary Kitchens</h3><h3>Traditional Inset Kitchens</h3><h3>Transitional Kitchen Design</h3><h3>Mediterranean Kitchen Style</h3><h3>Premium Materials Selection</h3><h3>Custom Features & Hardware</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Architectural Millwork
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens California | Luxury Kitchen Design</h1>
             <p className="text-xl md:text-2xl text-french-gray leading-relaxed mb-8">
               From coffered ceilings to intricate moldings, our architectural millwork transforms spaces into architectural statements worthy of the finest estates.
             </p>
@@ -216,9 +221,7 @@ export default function ArchitecturalMillworkPage() {
       <section className="py-24">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Millwork Types
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our architectural millwork services cover every aspect of custom woodwork, from structural elements to decorative details that enhance your home\'s architectural character.
             </p>
@@ -281,9 +284,7 @@ export default function ArchitecturalMillworkPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Signature Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Every piece of architectural millwork we create includes these signature features that define true craftsmanship and ensure exceptional quality and authenticity.
             </p>
@@ -316,9 +317,7 @@ export default function ArchitecturalMillworkPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Premium Materials
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We work exclusively with the finest hardwoods and materials for our architectural millwork, each selected for its unique character, workability, and durability.
             </p>
@@ -367,9 +366,7 @@ export default function ArchitecturalMillworkPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              Our Process
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               Every architectural millwork project follows our rigorous six-phase process, ensuring unparalleled precision and a seamless client experience from initial assessment to final finishing.
             </p>
@@ -413,9 +410,7 @@ export default function ArchitecturalMillworkPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Client Testimonials
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               The satisfaction of our clients is the ultimate measure of our success. Here's what they say about their architectural millwork experience.
             </p>
@@ -441,9 +436,7 @@ export default function ArchitecturalMillworkPage() {
       {/* CTA Section */}
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-            Ready to Enhance Your Home's Architecture?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
           <p className="text-xl text-charcoal/80 mb-12 max-w-3xl mx-auto">
             Let's discuss how we can create custom architectural millwork that enhances your home's character and adds timeless beauty to your spaces.
           </p>

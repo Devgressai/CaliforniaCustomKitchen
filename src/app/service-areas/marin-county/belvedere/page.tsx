@@ -56,9 +56,7 @@ export default function BelvederePage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Belvedere's Premier Island Kitchen Destination
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in belvedere</h2>
               <p className="text-xl text-charcoal/80 mb-6 leading-relaxed">
                 Perched on its own private island in Richardson Bay, Belvedere represents the absolute pinnacle of Marin County luxury living—where exclusivity meets breathtaking natural beauty. Our Belvedere clients understand that true elegance lies in creating spaces that honor both the island's unique character and their own sophisticated lifestyle.
               </p>
@@ -93,9 +91,7 @@ export default function BelvederePage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Island Living Expertise
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in belvedere</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our intimate knowledge of Belvedere's unique island environment and ultra-luxury market enables us to deliver cabinetry solutions that perfectly complement both the exclusive setting and the highest standards of living.
             </p>
@@ -148,9 +144,7 @@ export default function BelvederePage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Belvedere Neighborhoods We Serve
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in belvedere</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From the historic downtown to the exclusive hillside estates, we serve all of Belvedere's most prestigious neighborhoods.
             </p>
@@ -185,9 +179,7 @@ export default function BelvederePage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Designed for Island Living
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in belvedere</h2>
               <p className="text-xl text-ivory/90 mb-6 leading-relaxed">
                 Belvedere's unique island setting creates distinct requirements for ultra-luxury kitchen design. Our approach honors the island's exclusive character while delivering the highest standards of functionality and elegance.
               </p>
@@ -217,9 +209,7 @@ export default function BelvederePage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Featured Belvedere Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in belvedere</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our portfolio of custom kitchens and cabinetry projects throughout Belvedere's most prestigious island neighborhoods.
             </p>
@@ -281,9 +271,7 @@ export default function BelvederePage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Island Lifestyle Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in belvedere</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Belvedere kitchens are designed to support the unique island lifestyle and ultra-luxury values of this exclusive community.
             </p>
@@ -369,9 +357,7 @@ export default function BelvederePage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Belvedere Kitchen Design FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in belvedere</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen design in Belvedere
             </p>

@@ -82,14 +82,19 @@ const localInsights = [
 
 export default function BeverlyHillsPage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens in beverly-hills | Luxury Cabinetry</h1>
+        <h2>Luxury Kitchen Design in beverly-hills</h2><h2>Premium Materials & Craftsmanship</h2><h2>Local Kitchen Design Expertise</h2><h2>Custom Kitchen Services</h2><h2>Why Choose Us for beverly-hills Kitchens</h2><h2>Frequently Asked Questions</h2>
+        <h3>Custom Kitchen Design</h3><h3>Bespoke Cabinetry Services</h3><h3>Kitchen Remodeling</h3><h3>Cabinet Hardware Selection</h3><h3>Kitchen Lighting Design</h3><h3>Appliance Integration</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Custom Kitchens Beverly Hills
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens in beverly-hills | Luxury Cabinetry</h1>
             <p className="text-xl md:text-2xl text-french-gray leading-relaxed mb-8">
               Serving Beverly Hills\' most prestigious residents with custom kitchens and luxury cabinetry that reflects the city\'s unique blend of Hollywood glamour and architectural excellence.
             </p>
@@ -108,9 +113,7 @@ export default function BeverlyHillsPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Beverly Hills Expertise
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in beverly-hills</h2>
               <div className="prose-luxury text-charcoal/80 mb-8">
                 <p>
                   Beverly Hills represents the pinnacle of luxury living in Los Angeles. Our custom cabinetry solutions are designed to meet the exacting standards of this prestigious community, where every detail matters and quality is never compromised.
@@ -156,9 +159,7 @@ export default function BeverlyHillsPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Beverly Hills Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in beverly-hills</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our recent work in Beverly Hills, showcasing how we\'ve transformed kitchens and living spaces throughout the city\'s most prestigious neighborhoods.
             </p>
@@ -203,9 +204,7 @@ export default function BeverlyHillsPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Beverly Hills Architecture
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in beverly-hills</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Beverly Hills\' diverse architectural styles require specialized cabinetry solutions. We understand how to work with each style to create harmonious, functional spaces.
             </p>
@@ -238,9 +237,7 @@ export default function BeverlyHillsPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              Beverly Hills Insights
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in beverly-hills</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               Understanding the unique characteristics of Beverly Hills helps us create cabinetry solutions that truly serve our clients\' needs.
             </p>
@@ -266,9 +263,7 @@ export default function BeverlyHillsPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Beverly Hills Neighborhoods
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in beverly-hills</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We serve all of Beverly Hills\' prestigious neighborhoods, from the historic Flats to the exclusive Trousdale Estates.
             </p>
@@ -298,9 +293,7 @@ export default function BeverlyHillsPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Beverly Hills FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in beverly-hills</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Common questions about our services in Beverly Hills and the Los Angeles area.
             </p>
@@ -349,9 +342,7 @@ export default function BeverlyHillsPage() {
       {/* CTA Section */}
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-            Ready to Transform Your Beverly Hills Home?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in beverly-hills</h2>
           <p className="text-xl text-french-gray mb-12 max-w-3xl mx-auto">
             Let\'s discuss how we can create the perfect kitchen or cabinetry solution for your Beverly Hills home, combining traditional craftsmanship with modern luxury.
           </p>

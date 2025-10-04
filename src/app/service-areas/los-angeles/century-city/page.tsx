@@ -58,9 +58,7 @@ export default function CenturyCityPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Century City Kitchen Design Excellence
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in century-city</h2>
             <p className="text-xl text-charcoal/80">
               Century City represents the pinnacle of Los Angeles business district living, known for its modern high-rise 
               architecture, corporate headquarters, and sophisticated lifestyle. Our custom kitchens in Century City are 

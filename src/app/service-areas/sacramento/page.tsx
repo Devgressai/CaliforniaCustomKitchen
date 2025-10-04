@@ -201,14 +201,19 @@ const localMarketInsights = [
 
 export default function SacramentoPage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens in sacramento | Luxury Cabinetry</h1>
+        <h2>Luxury Kitchen Design in sacramento</h2><h2>Premium Materials & Craftsmanship</h2><h2>Local Kitchen Design Expertise</h2><h2>Custom Kitchen Services</h2><h2>Why Choose Us for sacramento Kitchens</h2><h2>Frequently Asked Questions</h2>
+        <h3>Custom Kitchen Design</h3><h3>Bespoke Cabinetry Services</h3><h3>Kitchen Remodeling</h3><h3>Cabinet Hardware Selection</h3><h3>Kitchen Lighting Design</h3><h3>Appliance Integration</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Custom Kitchens Sacramento
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens in sacramento | Luxury Cabinetry</h1>
             <p className="text-xl md:text-2xl mb-8 leading-relaxed text-french-gray">
               Luxury cabinetry and custom kitchens for Sacramento and surrounding areas. Where European craftsmanship meets California\'s capital region.
             </p>
@@ -234,9 +239,7 @@ export default function SacramentoPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Sacramento Area Luxury Kitchen Market
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in sacramento</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               The Sacramento area represents a unique blend of urban sophistication and rural charm, offering diverse opportunities for luxury kitchen design. From El Dorado Hills\' master-planned communities to Grass Valley\'s historic Gold Rush architecture, our region showcases the best of California\'s capital region.
             </p>
@@ -258,9 +261,7 @@ export default function SacramentoPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Sacramento Area Architectural Heritage
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in sacramento</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               Our cabinetry designs honor the Sacramento area\'s diverse architectural heritage while incorporating modern luxury and functionality. From Victorian historic homes to contemporary estates, we create kitchens that perfectly complement each architectural style.
             </p>
@@ -295,9 +296,7 @@ export default function SacramentoPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Recent Sacramento Area Commissions
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in sacramento</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               Each project represents a unique collaboration with Sacramento area homeowners, creating spaces that honor both architectural heritage and contemporary luxury while reflecting the region\'s diverse lifestyle and culture.
             </p>
@@ -332,9 +331,7 @@ export default function SacramentoPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              Sacramento Area Communities
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in sacramento</h2>
             <p className="text-xl text-french-gray max-w-4xl mx-auto">
               We serve the Sacramento area\'s most prestigious communities, each with its own unique character, architectural requirements, and lifestyle. From master-planned El Dorado Hills to historic Grass Valley, we understand the nuances of each community.
             </p>
@@ -372,9 +369,7 @@ export default function SacramentoPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                The Sacramento Area Lifestyle
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in sacramento</h2>
               <p className="text-xl text-charcoal/80 mb-8 leading-relaxed">
                 The Sacramento area\'s unique lifestyle influences every aspect of kitchen design. From the region\'s growing tech economy to its wine country proximity and historic heritage, our kitchens are designed to support the diverse needs of Sacramento area residents while celebrating the region\'s rich culture.
               </p>
@@ -425,9 +420,7 @@ export default function SacramentoPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Sacramento Area Kitchen FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in sacramento</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchens in Sacramento area communities.
             </p>
@@ -447,9 +440,7 @@ export default function SacramentoPage() {
       {/* CTA Section */}
       <section className="py-24 bg-deep-green text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Ready to Transform Your Sacramento Area Kitchen?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">Luxury Kitchen Design in sacramento</h2>
           <p className="text-xl text-ivory/90 mb-12 max-w-4xl mx-auto">
             Join the ranks of Sacramento area homeowners who have chosen AV\'s Cabinets for their luxury kitchen renovations. From El Dorado Hills to Grass Valley, we bring European craftsmanship to California\'s capital region.
           </p>

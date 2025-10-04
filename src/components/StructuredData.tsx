@@ -307,3 +307,59 @@ export function generateServiceSchema(serviceName: string, description: string, 
     }
   }
 }
+
+// Enhanced schemas for better Google compliance
+export function generateArticleSchema(headline: string, description: string, author: string, datePublished: string, dateModified?: string, articleSection?: string, wordCount?: number): ArticleData {
+  return {
+    headline,
+    description,
+    author: {
+      name: author,
+      type: 'Organization'
+    },
+    publisher: organizationSchema,
+    datePublished,
+    dateModified: dateModified || datePublished,
+    articleSection: articleSection || 'Kitchen Design',
+    wordCount: wordCount || 2500
+  }
+}
+
+export function generateWebPageSchema(name: string, description: string, url: string, breadcrumb?: BreadcrumbData) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    name,
+    description,
+    url,
+    breadcrumb: breadcrumb ? {
+      "@type": "BreadcrumbList",
+      itemListElement: breadcrumb.items.map((item, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        name: item.name,
+        item: item.url
+      }))
+    } : undefined,
+    mainEntity: {
+      "@type": "Organization",
+      ...organizationSchema
+    }
+  }
+}
+
+export function generateCollectionPageSchema(name: string, description: string, url: string, numberOfItems: number) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    name,
+    description,
+    url,
+    numberOfItems,
+    mainEntity: {
+      "@type": "ItemList",
+      name: `${name} Collection`,
+      numberOfItems
+    }
+  }
+}

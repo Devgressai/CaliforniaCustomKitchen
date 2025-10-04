@@ -156,14 +156,19 @@ const skiResortCommunities = [
 
 export default function TruckeePage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens in truckee | Luxury Cabinetry</h1>
+        <h2>Luxury Kitchen Design in truckee</h2><h2>Premium Materials & Craftsmanship</h2><h2>Local Kitchen Design Expertise</h2><h2>Custom Kitchen Services</h2><h2>Why Choose Us for truckee Kitchens</h2><h2>Frequently Asked Questions</h2>
+        <h3>Custom Kitchen Design</h3><h3>Bespoke Cabinetry Services</h3><h3>Kitchen Remodeling</h3><h3>Cabinet Hardware Selection</h3><h3>Kitchen Lighting Design</h3><h3>Appliance Integration</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Custom Kitchens Truckee
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens in truckee | Luxury Cabinetry</h1>
             <p className="text-xl md:text-2xl text-french-gray leading-relaxed mb-8">
               Serving Truckee\'s most prestigious mountain homes with custom kitchens and luxury cabinetry that celebrates the alpine beauty of California\'s premier mountain community.
             </p>
@@ -182,9 +187,7 @@ export default function TruckeePage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Truckee Expertise
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in truckee</h2>
               <div className="prose-luxury text-charcoal/80 mb-8">
                 <p>
                   Truckee represents the pinnacle of mountain luxury living in California. Our custom cabinetry solutions are designed to complement the area\'s stunning alpine beauty while providing the luxury and functionality expected in mountain resort communities.
@@ -230,9 +233,7 @@ export default function TruckeePage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Truckee Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in truckee</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our recent work in Truckee, showcasing how we\'ve transformed kitchens and living spaces throughout the area\'s most prestigious mountain communities.
             </p>
@@ -277,9 +278,7 @@ export default function TruckeePage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Truckee Architecture
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in truckee</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Truckee\'s diverse architectural styles require specialized cabinetry solutions. We understand how to work with each style to create harmonious, functional spaces.
             </p>
@@ -312,9 +311,7 @@ export default function TruckeePage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              Ski Resort Communities
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in truckee</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               We serve Truckee\'s most exclusive ski resort communities, each with its own unique character and luxury amenities.
             </p>
@@ -347,9 +344,7 @@ export default function TruckeePage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Seasonal Design
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in truckee</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Truckee\'s seasonal nature requires thoughtful design considerations. We create cabinetry solutions that work beautifully throughout all seasons.
             </p>
@@ -384,9 +379,7 @@ export default function TruckeePage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Local Materials
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in truckee</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We work with local materials that connect your home to Truckee\'s mountain environment while providing exceptional beauty and durability.
             </p>
@@ -421,9 +414,7 @@ export default function TruckeePage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              Truckee Insights
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in truckee</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               Understanding the unique characteristics of Truckee helps us create cabinetry solutions that truly serve our clients\' needs.
             </p>
@@ -449,9 +440,7 @@ export default function TruckeePage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Truckee Neighborhoods
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in truckee</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We serve all of Truckee\'s prestigious neighborhoods, from the exclusive ski resort communities to the serene mountain retreats.
             </p>
@@ -472,9 +461,7 @@ export default function TruckeePage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Truckee FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in truckee</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Common questions about our services in Truckee and the surrounding mountain communities.
             </p>
@@ -523,9 +510,7 @@ export default function TruckeePage() {
       {/* CTA Section */}
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-            Ready to Transform Your Truckee Home?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in truckee</h2>
           <p className="text-xl text-french-gray mb-12 max-w-3xl mx-auto">
             Let\'s discuss how we can create the perfect kitchen or cabinetry solution for your Truckee home, combining mountain luxury with alpine beauty.
           </p>

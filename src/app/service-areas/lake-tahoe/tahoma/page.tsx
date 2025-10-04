@@ -197,9 +197,7 @@ export default function TahomaPage() {
           <div className="absolute inset-0 bg-charcoal/40" />
         </div>
         <div className="relative z-10 max-w-4xl mx-auto px-6 text-center">
-          <h1 className="font-display text-5xl md:text-6xl lg:text-7xl font-bold text-ivory mb-6 text-balance">
-            Custom Kitchen Builder in Tahoma
-          </h1>
+          <h1 className="font-display text-5xl md:text-6xl lg:text-7xl font-bold text-ivory mb-6 text-balance">Custom Kitchens in tahoma | Luxury Cabinetry</h1>
           <p className="text-xl md:text-2xl text-ivory/90 leading-relaxed mb-8 max-w-3xl mx-auto text-balance">
             Luxury custom kitchens and bespoke cabinetry for Lake Tahoe's most exclusive west shore communities. European craftsmanship meets pristine mountain living.
           </p>
@@ -225,9 +223,7 @@ export default function TahomaPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-                Tahoma's Premier Kitchen Builder
-              </h2>
+              <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in tahoma</h2>
               <p className="text-xl text-charcoal/80 leading-relaxed mb-8">
                 Tahoma represents the pinnacle of exclusive west shore living, where prestigious mountain estates meet the natural beauty of the Sierra Nevada mountains. As the area's most trusted custom kitchen builder, we understand the unique demands of this exclusive community.
               </p>
@@ -255,9 +251,7 @@ export default function TahomaPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Our Design Philosophy for Tahoma
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in tahoma</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Every kitchen we create in Tahoma is designed to honor the west shore beauty of Lake Tahoe while providing the luxury and functionality our clients demand.
             </p>
@@ -298,9 +292,7 @@ export default function TahomaPage() {
       <section className="py-24 bg-french-gray/10">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Tahoma Architectural Styles
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in tahoma</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We understand the diverse architectural landscape of Tahoma and design cabinetry that complements each unique style.
             </p>
@@ -328,9 +320,7 @@ export default function TahomaPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Featured Tahoma Projects
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in tahoma</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Discover our latest custom kitchen projects in Tahoma's most exclusive neighborhoods.
             </p>
@@ -364,9 +354,7 @@ export default function TahomaPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Understanding Tahoma Living
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in tahoma</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our deep understanding of Tahoma's unique lifestyle informs every design decision we make.
             </p>
@@ -389,9 +377,7 @@ export default function TahomaPage() {
       <section className="py-24 bg-french-gray/10">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Tahoma-Specific Considerations
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in tahoma</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Every project in Tahoma requires special attention to the unique challenges and opportunities of this exclusive location.
             </p>
@@ -419,9 +405,7 @@ export default function TahomaPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Materials Perfect for Tahoma
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in tahoma</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We carefully select materials that complement Tahoma's west shore environment while providing lasting beauty and durability.
             </p>
@@ -451,9 +435,7 @@ export default function TahomaPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Our Process for Tahoma Projects
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in tahoma</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We've refined our process specifically for Tahoma's unique requirements and our clients' high expectations.
             </p>
@@ -503,9 +485,7 @@ export default function TahomaPage() {
       <section className="py-24 bg-french-gray/10">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">
-              Frequently Asked Questions
-            </h2>
+            <h2 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-6">Luxury Kitchen Design in tahoma</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen projects in Tahoma.
             </p>
@@ -524,9 +504,7 @@ export default function TahomaPage() {
       {/* CTA Section */}
       <section className="py-24 bg-deep-green">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="font-display text-4xl md:text-5xl font-bold text-ivory mb-6">
-            Ready to Transform Your Tahoma Kitchen?
-          </h2>
+          <h2 className="font-display text-4xl md:text-5xl font-bold text-ivory mb-6">Luxury Kitchen Design in tahoma</h2>
           <p className="text-xl text-ivory/90 leading-relaxed mb-12 max-w-3xl mx-auto">
             Let's discuss your vision for the perfect custom kitchen that honors the west shore beauty of Lake Tahoe while providing the luxury and functionality you deserve.
           </p>
@@ -551,9 +529,7 @@ export default function TahomaPage() {
       <section className="py-16 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-12">
-            <h2 className="font-display text-3xl font-bold text-charcoal mb-4">
-              Other Lake Tahoe Neighborhoods We Serve
-            </h2>
+            <h2 className="font-display text-3xl font-bold text-charcoal mb-4">Luxury Kitchen Design in tahoma</h2>
             <p className="text-charcoal/80">
               We provide custom kitchen services throughout the Lake Tahoe region.
             </p>

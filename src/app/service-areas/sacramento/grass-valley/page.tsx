@@ -95,14 +95,19 @@ const grassValleyFAQ = [
 
 export default function GrassValleyPage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens in grass-valley | Luxury Cabinetry</h1>
+        <h2>Luxury Kitchen Design in grass-valley</h2><h2>Premium Materials & Craftsmanship</h2><h2>Local Kitchen Design Expertise</h2><h2>Custom Kitchen Services</h2><h2>Why Choose Us for grass-valley Kitchens</h2><h2>Frequently Asked Questions</h2>
+        <h3>Custom Kitchen Design</h3><h3>Bespoke Cabinetry Services</h3><h3>Kitchen Remodeling</h3><h3>Cabinet Hardware Selection</h3><h3>Kitchen Lighting Design</h3><h3>Appliance Integration</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Custom Kitchens Grass Valley
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens in grass-valley | Luxury Cabinetry</h1>
             <p className="text-xl md:text-2xl mb-8 leading-relaxed text-french-gray">
               Luxury cabinetry and custom kitchens for Grass Valley. Where European craftsmanship meets Sacramento\'s historic Gold Rush town.
             </p>
@@ -128,9 +133,7 @@ export default function GrassValleyPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Grass Valley: Sacramento\'s Historic Gold Rush Gem
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in grass-valley</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               Grass Valley represents the perfect blend of historic charm and cultural heritage in the Sacramento area. With its Gold Rush history, Victorian architecture, and cultural attractions, this community offers unique opportunities for kitchen design that celebrates both history and artistic expression.
             </p>
@@ -159,9 +162,7 @@ export default function GrassValleyPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Recent Grass Valley Commissions
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in grass-valley</h2>
             <p className="text-xl text-charcoal/80 max-w-4xl mx-auto">
               Each project represents a unique collaboration with Grass Valley homeowners, creating spaces that honor both the community\'s historic heritage and cultural lifestyle needs.
             </p>
@@ -197,9 +198,7 @@ export default function GrassValleyPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                The Grass Valley Lifestyle
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in grass-valley</h2>
               <p className="text-xl text-charcoal/80 mb-8 leading-relaxed">
                 Grass Valley offers a unique lifestyle that combines historic charm with cultural richness. Our kitchens are designed to support this lifestyle, from celebrating the Gold Rush heritage to enjoying cultural events and artistic expression.
               </p>
@@ -250,9 +249,7 @@ export default function GrassValleyPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Grass Valley Kitchen FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in grass-valley</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchens in Grass Valley.
             </p>
@@ -272,9 +269,7 @@ export default function GrassValleyPage() {
       {/* CTA Section */}
       <section className="py-24 bg-deep-green text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Ready to Transform Your Grass Valley Kitchen?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6">Luxury Kitchen Design in grass-valley</h2>
           <p className="text-xl text-ivory/90 mb-12 max-w-4xl mx-auto">
             Join the ranks of Grass Valley homeowners who have chosen AV\'s Cabinets for their luxury kitchen renovations. Experience the perfect blend of European craftsmanship and historic Gold Rush living.
           </p>

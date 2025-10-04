@@ -219,7 +219,7 @@ export default function LuxuryKitchenTrends2025() {
             <div className="max-w-4xl mx-auto text-center">
               <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
                 Luxury Kitchen Design Trends 2025
-              </h1>
+               | Kitchen Design Blog</h1>
               <p className="text-xl md:text-2xl text-french-gray leading-relaxed mb-8">
                 Discover the cutting-edge design trends shaping California's most prestigious kitchens. From smart technology integration to sustainable luxury materials, explore what's defining the future of high-end kitchen design.
               </p>
@@ -251,9 +251,7 @@ export default function LuxuryKitchenTrends2025() {
         <section className="py-24 bg-grain">
           <div className="max-w-7xl mx-auto px-6 lg:px-8">
             <div className="text-center mb-16">
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                The Six Defining Trends of 2025
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Introduction</h2>
               <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
                 These trends represent the future of luxury kitchen design, combining innovation with timeless appeal.
               </p>
@@ -299,9 +297,7 @@ export default function LuxuryKitchenTrends2025() {
         <section className="py-24 bg-ivory">
           <div className="max-w-7xl mx-auto px-6 lg:px-8">
             <div className="text-center mb-16">
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Premium Materials for 2025
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Introduction</h2>
               <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
                 The materials that will define luxury kitchen design in 2025, from time-honored classics to innovative new options.
               </p>
@@ -348,9 +344,7 @@ export default function LuxuryKitchenTrends2025() {
         <section className="py-24 bg-charcoal text-ivory">
           <div className="max-w-7xl mx-auto px-6 lg:px-8">
             <div className="text-center mb-16">
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Smart Technology for Luxury Kitchens
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Introduction</h2>
               <p className="text-xl text-french-gray max-w-3xl mx-auto">
                 The technology that's transforming luxury kitchens into intelligent, connected spaces that anticipate your needs.
               </p>
@@ -383,9 +377,7 @@ export default function LuxuryKitchenTrends2025() {
         <section className="py-24 bg-grain">
           <div className="max-w-7xl mx-auto px-6 lg:px-8">
             <div className="text-center mb-16">
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Regional Design Considerations
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Introduction</h2>
               <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
                 How these trends adapt to California's diverse luxury markets, from Silicon Valley to Beverly Hills.
               </p>
@@ -444,9 +436,7 @@ export default function LuxuryKitchenTrends2025() {
         <section className="py-24 bg-ivory">
           <div className="max-w-7xl mx-auto px-6 lg:px-8">
             <div className="text-center mb-16">
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Implementing 2025 Trends in Your Kitchen
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Introduction</h2>
               <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
                 A practical guide to incorporating these trends into your luxury kitchen renovation or new construction project.
               </p>
@@ -530,9 +520,7 @@ export default function LuxuryKitchenTrends2025() {
         {/* CTA Section */}
         <section className="py-24 bg-charcoal text-ivory">
           <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              Ready to Create Your 2025 Kitchen?
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Introduction</h2>
             <p className="text-xl text-french-gray mb-12 max-w-3xl mx-auto">
               Let's discuss how we can incorporate these cutting-edge trends into your luxury kitchen design. Our team of expert designers and craftsmen will help you create a space that's both timeless and forward-thinking.
             </p>

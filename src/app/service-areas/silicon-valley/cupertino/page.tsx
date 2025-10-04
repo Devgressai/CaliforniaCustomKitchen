@@ -58,9 +58,7 @@ export default function CupertinoPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Cupertino Kitchen Design Excellence
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in cupertino</h2>
             <p className="text-xl text-charcoal/80">
               Cupertino represents the heart of Silicon Valley innovation, known for its tech executives, 
               Apple headquarters, and sophisticated lifestyle. Our custom kitchens in Cupertino are designed to 

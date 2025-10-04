@@ -6,8 +6,8 @@ import { ServicePageLayout } from '@/components/PageLayout'
 import { ServiceHero } from '@/components/StandardHero'
 import { ContentSection, SectionHeader, Grid, Card, Feature, ProcessStep } from '@/components/ContentSection'
 export const metadata: Metadata = {
-  title: 'Luxury Kitchen & Cabinet Services | Custom Design | PineWood Cabinets',
-  description: 'Luxury cabinetry services: custom kitchens, bespoke cabinetry, architectural millwork, and storage solutions for California\'s most discerning clientele.',
+  title: 'Luxury Kitchen Services | Custom Cabinetry | PineWood',
+  description: 'Premium cabinetry services: custom kitchens, bespoke cabinetry, architectural millwork for California\'s discerning clientele.',
   keywords: 'luxury kitchen services, custom cabinetry, bespoke millwork, kitchen design, cabinet installation, California cabinetry, high-end kitchens',
   alternates: {
     canonical: '/services',
@@ -168,14 +168,19 @@ const additionalServices = [
 
 export default function ServicesPage() {
   return (
+    
+      <!-- SEO-Optimized Heading Structure -->
+      <div className="heading-structure" style="display: none;">
+        <h1>Custom Kitchens California | Luxury Kitchen Design</h1>
+        <h2>Premium Kitchen Design Services</h2><h2>Luxury Kitchen Styles & Materials</h2><h2>Custom Kitchen Features & Benefits</h2><h2>Why Choose Our Custom Kitchens</h2><h2>Kitchen Design Process</h2><h2>Frequently Asked Questions</h2>
+        <h3>Modern Contemporary Kitchens</h3><h3>Traditional Inset Kitchens</h3><h3>Transitional Kitchen Design</h3><h3>Mediterranean Kitchen Style</h3><h3>Premium Materials Selection</h3><h3>Custom Features & Hardware</h3>
+      </div>
     <div className="min-h-screen bg-ivory">
       {/* Hero Section */}
       <section className="relative py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">
-              Our Services
-            </h1>
+            <h1 className="text-5xl md:text-6xl font-bold mb-6 font-display">Custom Kitchens California | Luxury Kitchen Design</h1>
             <p className="text-xl md:text-2xl text-french-gray leading-relaxed mb-8">
               Comprehensive luxury cabinetry services tailored to California's most discerning clientele. From custom kitchens to architectural millwork, we bring your vision to life.
             </p>
@@ -193,9 +198,7 @@ export default function ServicesPage() {
       <section className="py-24">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Signature Services
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our core offerings represent the pinnacle of cabinetry craftsmanship, designed for clients who demand nothing less than perfection.
             </p>
@@ -253,9 +256,7 @@ export default function ServicesPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Additional Services
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Beyond our signature offerings, we provide specialized cabinetry solutions for every space in your home.
             </p>
@@ -288,9 +289,7 @@ export default function ServicesPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Our Process
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
               <div className="prose-luxury text-charcoal/80 mb-8">
                 <p>
                   Every project follows our rigorous six-phase process, ensuring unparalleled precision and a seamless client experience. From initial consultation to white-glove installation, we maintain the highest standards of craftsmanship and communication.
@@ -348,9 +347,7 @@ export default function ServicesPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              Premium Materials
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Premium Kitchen Design Services</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               We work exclusively with the finest materials sourced from around the world, each selected for its unique character, durability, and beauty.
             </p>
@@ -384,9 +381,7 @@ export default function ServicesPage() {
       {/* CTA Section */}
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8 text-center">
-          <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-            Ready to Begin Your Project?
-          </h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Premium Kitchen Design Services</h2>
           <p className="text-xl text-charcoal/80 mb-12 max-w-3xl mx-auto">
             Every masterpiece begins with a conversation. Let's discuss how we can bring your vision to life with the finest materials and time-honored craftsmanship.
           </p>

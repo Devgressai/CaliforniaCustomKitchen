@@ -56,9 +56,7 @@ export default function TiburonPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Tiburon's Premier Waterfront Kitchen Destination
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in tiburon</h2>
               <p className="text-xl text-charcoal/80 mb-6 leading-relaxed">
                 Perched on the shores of Richardson Bay, Tiburon represents the ultimate in Marin County waterfront living—where breathtaking views meet sophisticated luxury. Our Tiburon clients understand that true elegance lies in creating spaces that honor both the natural beauty of the bay and the refined lifestyle they've worked to achieve.
               </p>
@@ -93,9 +91,7 @@ export default function TiburonPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Waterfront Living Expertise
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in tiburon</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our deep understanding of Tiburon's unique waterfront environment and luxury lifestyle enables us to deliver cabinetry solutions that perfectly complement both the natural setting and sophisticated living standards.
             </p>
@@ -148,9 +144,7 @@ export default function TiburonPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Tiburon Neighborhoods We Serve
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in tiburon</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From the historic downtown to the exclusive hillside communities, we serve all of Tiburon's most prestigious neighborhoods.
             </p>
@@ -185,9 +179,7 @@ export default function TiburonPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Designed for Waterfront Living
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in tiburon</h2>
               <p className="text-xl text-ivory/90 mb-6 leading-relaxed">
                 Tiburon's unique waterfront setting creates distinct requirements for luxury kitchen design. Our approach honors the natural beauty of the bay while delivering the functionality and elegance our clients demand.
               </p>
@@ -217,9 +209,7 @@ export default function TiburonPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Featured Tiburon Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in tiburon</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our portfolio of custom kitchens and cabinetry projects throughout Tiburon's most prestigious waterfront neighborhoods.
             </p>
@@ -281,9 +271,7 @@ export default function TiburonPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Waterfront Lifestyle Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in tiburon</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Tiburon kitchens are designed to support the unique waterfront lifestyle and values of this special community.
             </p>
@@ -369,9 +357,7 @@ export default function TiburonPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Tiburon Kitchen Design FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in tiburon</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen design in Tiburon
             </p>

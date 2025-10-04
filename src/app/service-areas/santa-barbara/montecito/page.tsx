@@ -110,9 +110,7 @@ export default function MontecitoPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto">
-            <h1 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-8 text-balance">
-              Custom Cabinetry for Montecito's Cultural Elite
-            </h1>
+            <h1 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-8 text-balance">Custom Kitchens in montecito | Luxury Cabinetry</h1>
             <div className="prose-luxury">
               <p className="text-xl leading-relaxed text-charcoal/80 mb-8">
                 Nestled between the Santa Ynez Mountains and the Pacific Ocean, Montecito stands as California's most refined coastal community—a sanctuary where entertainment industry luminaries, literary figures, and cultural philanthropists have created some of America's most beautiful homes. Since 2006, PineWood Cabinets has served as the preferred artisan for this discerning community, creating custom kitchens and architectural millwork that honor both the region's Mediterranean heritage and its residents' sophisticated sensibilities.
@@ -133,9 +131,7 @@ export default function MontecitoPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="font-display text-4xl font-bold text-charcoal mb-8">
-                Mediterranean Soul, California Spirit
-              </h2>
+              <h2 className="font-display text-4xl font-bold text-charcoal mb-8">Luxury Kitchen Design in montecito</h2>
               <div className="prose-luxury">
                 <p className="text-lg leading-relaxed text-charcoal/80 mb-6">
                   Montecito's architectural DNA traces back to the early 20th century, when visionary architects like George Washington Smith and Reginald Johnson created the distinctive Mediterranean Revival style that defines the community's character. Our design philosophy honors this heritage while embracing the indoor-outdoor lifestyle and natural beauty that make coastal California living so compelling.
@@ -165,9 +161,7 @@ export default function MontecitoPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Materials Mastery: Coastal Resilience Meets Timeless Beauty
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Luxury Kitchen Design in montecito</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Montecito's coastal environment demands materials and finishes that can withstand salt air and humidity while maintaining their beauty for decades. Our expertise in marine-grade finishing and climate-appropriate material selection ensures lasting performance.
             </p>
@@ -254,9 +248,7 @@ export default function MontecitoPage() {
               />
             </div>
             <div>
-              <h2 className="font-display text-4xl font-bold text-charcoal mb-8">
-                Engineering Excellence for Coastal Conditions
-              </h2>
+              <h2 className="font-display text-4xl font-bold text-charcoal mb-8">Luxury Kitchen Design in montecito</h2>
               <div className="prose-luxury">
                 <p className="text-lg leading-relaxed text-charcoal/80 mb-6">
                   Montecito's proximity to the Pacific Ocean creates unique challenges for custom cabinetry. Salt air, fluctuating humidity levels, and intense UV exposure require specialized engineering solutions that go far beyond standard construction methods.
@@ -296,9 +288,7 @@ export default function MontecitoPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Designed for the Montecito Lifestyle
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Luxury Kitchen Design in montecito</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From intimate dinner parties with fellow creatives to large-scale charitable galas, our kitchens adapt to the sophisticated entertaining culture that defines Montecito society.
             </p>
@@ -410,9 +400,7 @@ export default function MontecitoPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold mb-6">
-              Historic Preservation Meets Modern Innovation
-            </h2>
+            <h2 className="font-display text-4xl font-bold mb-6">Luxury Kitchen Design in montecito</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               Many of Montecito's most prestigious properties are historic estates requiring sensitive restoration that honors architectural heritage while incorporating contemporary functionality.
             </p>
@@ -501,9 +489,7 @@ export default function MontecitoPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Wine Culture & Connoisseurship
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Luxury Kitchen Design in montecito</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Montecito's proximity to Santa Barbara County's renowned wine regions makes sophisticated wine storage and serving capabilities essential elements of luxury kitchen design.
             </p>
@@ -598,9 +584,7 @@ export default function MontecitoPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Privacy & Discretion: The Montecito Standard
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Luxury Kitchen Design in montecito</h2>
             <p className="text-xl text-charcoal/80">
               Working with high-profile clients in the entertainment industry and cultural sphere requires the highest levels of discretion, security awareness, and professional confidentiality.
             </p>
@@ -654,9 +638,7 @@ export default function MontecitoPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Frequently Asked Questions
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Luxury Kitchen Design in montecito</h2>
             <p className="text-xl text-charcoal/80">
               Answers to common questions from Montecito homeowners about custom cabinetry in coastal environments.
             </p>

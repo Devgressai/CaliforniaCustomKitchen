@@ -89,9 +89,7 @@ export default function RichmondDistrictPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Richmond District Kitchen Design Excellence
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in richmond-district</h2>
             <p className="text-xl text-charcoal/80">
               Richmond District is one of San Francisco's most diverse and family-friendly neighborhoods, known for its 
               mix of architectural styles, strong community spirit, and proximity to Golden Gate Park. Our custom kitchens 
@@ -106,9 +104,7 @@ export default function RichmondDistrictPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Richmond District Kitchen Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in richmond-district</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Richmond District kitchens are designed to complement the neighborhood's diverse character and family-friendly lifestyle.
             </p>
@@ -142,9 +138,7 @@ export default function RichmondDistrictPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Our Richmond District Services
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in richmond-district</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Comprehensive kitchen design and cabinetry services tailored to Richmond District's diverse architectural requirements.
             </p>

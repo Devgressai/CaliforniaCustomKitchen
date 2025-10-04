@@ -56,9 +56,7 @@ export default function MissionDistrictPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-                Mission District's Premier Cultural Kitchen Destination
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mission-district</h2>
               <p className="text-xl text-charcoal/80 mb-6 leading-relaxed">
                 The Mission District represents the vibrant cultural heart of San Francisco—where historic Victorian charm meets contemporary artistic expression. Our Mission District clients understand that true elegance lies in creating spaces that honor both the neighborhood's rich heritage and their own sophisticated lifestyle.
               </p>
@@ -93,9 +91,7 @@ export default function MissionDistrictPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Cultural Heritage Expertise
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mission-district</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our deep understanding of Mission District's unique cultural character and architectural diversity enables us to deliver cabinetry solutions that perfectly complement both the neighborhood's heritage and modern living standards.
             </p>
@@ -148,9 +144,7 @@ export default function MissionDistrictPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Mission District Neighborhoods We Serve
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mission-district</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From the historic Victorian rows to the modern loft conversions, we serve all of Mission District's most prestigious neighborhoods.
             </p>
@@ -185,9 +179,7 @@ export default function MissionDistrictPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-                Designed for Cultural Living
-              </h2>
+              <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in mission-district</h2>
               <p className="text-xl text-ivory/90 mb-6 leading-relaxed">
                 Mission District's unique cultural character creates distinct requirements for luxury kitchen design. Our approach honors the neighborhood's artistic heritage while delivering the functionality and elegance modern residents demand.
               </p>
@@ -217,9 +209,7 @@ export default function MissionDistrictPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Featured Mission District Projects
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mission-district</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Explore our portfolio of custom kitchens and cabinetry projects throughout Mission District's most prestigious cultural neighborhoods.
             </p>
@@ -281,9 +271,7 @@ export default function MissionDistrictPage() {
       <section className="py-24 bg-white">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Cultural Lifestyle Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mission-district</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Mission District kitchens are designed to support the unique cultural lifestyle and values of this vibrant community.
             </p>
@@ -369,9 +357,7 @@ export default function MissionDistrictPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Mission District Kitchen Design FAQ
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mission-district</h2>
             <p className="text-xl text-charcoal/80">
               Common questions about custom kitchen design in Mission District
             </p>

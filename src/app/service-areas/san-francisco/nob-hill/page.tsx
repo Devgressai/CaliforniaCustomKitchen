@@ -89,9 +89,7 @@ export default function NobHillPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Nob Hill Kitchen Design Excellence
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in nob-hill</h2>
             <p className="text-xl text-charcoal/80">
               Nob Hill stands as one of San Francisco's most prestigious neighborhoods, known for its historic architecture, 
               luxury condominiums, and breathtaking city views. Our custom kitchens in Nob Hill are designed to complement 
@@ -105,9 +103,7 @@ export default function NobHillPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Nob Hill Kitchen Features
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in nob-hill</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our Nob Hill kitchens are designed to maximize space and functionality while honoring the neighborhood's historic character.
             </p>
@@ -141,9 +137,7 @@ export default function NobHillPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Our Nob Hill Services
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in nob-hill</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Comprehensive kitchen design and cabinetry services tailored to Nob Hill's unique urban requirements.
             </p>

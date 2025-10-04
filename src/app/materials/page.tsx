@@ -61,9 +61,7 @@ export default function MaterialsPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto">
-            <h1 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-8 text-balance">
-              Material Intelligence: The Foundation of Excellence
-            </h1>
+            <h1 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-8 text-balance">Premium Kitchen Materials | Custom Cabinetry</h1>
             <div className="prose-luxury">
               <p className="text-xl leading-relaxed text-charcoal/80 mb-8">
                 The selection of materials forms the foundation of every exceptional piece of cabinetry we create. Our approach to material sourcing reflects decades of accumulated knowledge about wood behavior, finishing chemistry, and the long-term performance characteristics that distinguish heirloom furniture from mere cabinetry. We maintain relationships with premier lumber suppliers, sustainable forest managers, and specialty mills worldwide, ensuring access to the finest materials available while supporting responsible forestry practices.
@@ -84,9 +82,7 @@ export default function MaterialsPage() {
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             <div>
-              <h2 className="font-display text-4xl font-bold text-charcoal mb-8">
-                Sustainable Sourcing: Environmental Stewardship
-              </h2>
+              <h2 className="font-display text-4xl font-bold text-charcoal mb-8">Premium Wood Species</h2>
               <div className="prose-luxury">
                 <p className="text-lg leading-relaxed text-charcoal/80 mb-6">
                   Our commitment to environmental stewardship guides every aspect of our material sourcing. We work exclusively with suppliers who share our values of responsible forest management, supporting both the long-term health of forest ecosystems and the communities that depend on them. This approach ensures that the beauty we create today doesn't compromise the natural resources available to future generations.
@@ -131,9 +127,7 @@ export default function MaterialsPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Premium Hardwood Collection
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Premium Wood Species</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our curated selection of domestic and exotic hardwoods, each chosen for specific performance characteristics and aesthetic qualities that define luxury cabinetry.
             </p>
@@ -329,9 +323,7 @@ export default function MaterialsPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Reclaimed & Historical Materials
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Premium Wood Species</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Preserving architectural heritage through the careful reclamation and restoration of historical lumber, giving new life to materials with centuries of character.
             </p>
@@ -428,9 +420,7 @@ export default function MaterialsPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Advanced Finishing Systems
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Premium Wood Species</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our finishing processes transform raw lumber into surfaces that rival museum-quality furniture, providing both protection and beauty that will endure for generations.
             </p>
@@ -597,9 +587,7 @@ export default function MaterialsPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Premium Hardware & Accessories
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Premium Wood Species</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               The finest cabinetry deserves hardware that matches its quality. Our curated selection includes the world's premier manufacturers, ensuring smooth operation and lasting beauty.
             </p>
@@ -676,9 +664,7 @@ export default function MaterialsPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Care & Maintenance: Preserving Beauty
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Premium Wood Species</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Proper care ensures your investment in premium materials and craftsmanship will provide beauty and functionality for generations to come.
             </p>
@@ -772,9 +758,7 @@ export default function MaterialsPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Material Selection Process
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Premium Wood Species</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Our collaborative approach to material selection ensures that every choice supports both your aesthetic vision and functional requirements.
             </p>

@@ -57,9 +57,7 @@ export default function HillsboroughPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Hillsborough Kitchen Design Excellence
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in hillsborough</h2>
             <p className="text-xl text-charcoal/80">
               Hillsborough represents the pinnacle of Peninsula estate living, known for its luxury homes, 
               prestigious address, and sophisticated lifestyle. Our custom kitchens in Hillsborough are designed to 

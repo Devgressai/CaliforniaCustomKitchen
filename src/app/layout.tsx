@@ -5,10 +5,10 @@ import { Footer } from '@/components/Footer'
 
 export const metadata: Metadata = {
   title: {
-    default: "PineWood Cabinets | Custom Kitchens & Bespoke Cabinetry | California",
+    default: "Custom Kitchens California | Luxury Cabinetry | PineWood",
     template: "%s | PineWood Cabinets"
   },
-  description: "Museum-grade custom kitchens, bespoke cabinetry, and architectural millwork for California's finest homes. Serving Silicon Valley, Marin, Lake Tahoe, and beyond since 2006.",
+  description: "Luxury custom kitchens & bespoke cabinetry for California's finest homes. Serving Silicon Valley, Marin, Lake Tahoe since 2006. Premium craftsmanship.",
   keywords: [
     'custom kitchens California',
     'luxury cabinetry Silicon Valley',

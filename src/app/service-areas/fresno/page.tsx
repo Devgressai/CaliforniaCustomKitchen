@@ -138,9 +138,7 @@ export default function FresnoPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Our Fresno Services
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in fresno</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Comprehensive kitchen services designed specifically for Fresno homes.
             </p>
@@ -173,9 +171,7 @@ export default function FresnoPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Fresno Neighborhoods We Serve
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in fresno</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We provide custom kitchen services throughout Fresno's diverse neighborhoods.
             </p>
@@ -211,9 +207,7 @@ export default function FresnoPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              What Fresno Clients Say
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in fresno</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               Hear from Fresno homeowners who have transformed their kitchens with our services.
             </p>

@@ -58,9 +58,7 @@ export default function MountainViewPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-4xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Mountain View Kitchen Design Excellence
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in mountain-view</h2>
             <p className="text-xl text-charcoal/80">
               Mountain View represents the heart of Silicon Valley innovation, known for its tech executives, 
               Google headquarters, and sophisticated lifestyle. Our custom kitchens in Mountain View are designed to 

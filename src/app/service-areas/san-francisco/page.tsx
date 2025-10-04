@@ -163,9 +163,7 @@ export default function SanFranciscoPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Why Choose PineWood Cabinets in San Francisco?
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in san-francisco</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We understand the unique challenges and opportunities of designing kitchens in San Francisco.
             </p>
@@ -187,9 +185,7 @@ export default function SanFranciscoPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Our San Francisco Services
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in san-francisco</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               Comprehensive kitchen services designed specifically for San Francisco homes.
             </p>
@@ -222,9 +218,7 @@ export default function SanFranciscoPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              San Francisco Neighborhoods We Serve
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in san-francisco</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We provide custom kitchen services throughout San Francisco's diverse neighborhoods.
             </p>
@@ -260,9 +254,7 @@ export default function SanFranciscoPage() {
       <section className="py-24 bg-charcoal text-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">
-              What San Francisco Clients Say
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6 font-display">Luxury Kitchen Design in san-francisco</h2>
             <p className="text-xl text-french-gray max-w-3xl mx-auto">
               Hear from San Francisco homeowners who have transformed their kitchens with our services.
             </p>
@@ -292,9 +284,7 @@ export default function SanFranciscoPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">
-              Serving San Francisco
-            </h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-charcoal mb-6 font-display">Luxury Kitchen Design in san-francisco</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               We're proud to serve San Francisco and understand the unique needs of Bay Area homeowners.
             </p>

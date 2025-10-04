@@ -60,9 +60,7 @@ export default function PebbleBeachPage() {
       <section className="py-24 bg-ivory">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="max-w-4xl mx-auto">
-            <h1 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-8 text-balance">
-              Custom Cabinetry for Pebble Beach's Championship Lifestyle
-            </h1>
+            <h1 className="font-display text-4xl md:text-5xl font-bold text-charcoal mb-8 text-balance">Custom Kitchens in pebble-beach | Luxury Cabinetry</h1>
             <div className="prose-luxury">
               <p className="text-xl leading-relaxed text-charcoal/80 mb-8">
                 Perched dramatically above the Pacific Ocean, Pebble Beach represents the pinnacle of American luxury living—a place where world-class golf, breathtaking natural beauty, and architectural excellence converge. Since 2006, PineWood Cabinets has served as the preferred cabinetry artisan for this legendary community, creating custom kitchens and architectural millwork that honor both the dramatic coastal setting and the sophisticated lifestyle of residents who have achieved success at the highest levels.
@@ -82,9 +80,7 @@ export default function PebbleBeachPage() {
       <section className="py-24 bg-grain">
         <div className="max-w-7xl mx-auto px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">
-              Designing for Championship Living
-            </h2>
+            <h2 className="font-display text-4xl font-bold text-charcoal mb-6">Luxury Kitchen Design in pebble-beach</h2>
             <p className="text-xl text-charcoal/80 max-w-3xl mx-auto">
               From intimate family gatherings to championship celebrations, our kitchens adapt to the unique rhythms of Pebble Beach's world-class lifestyle.
             </p>
